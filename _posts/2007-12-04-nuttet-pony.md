@@ -30,7 +30,7 @@ Nu når jeg har genoplivet min weblog skal mit publikum da heller ikke snydes fo
 hilsen andreas</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-12-24T13:47:01+01:00">24. dec 2007 kl.  01:47</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-12-24T13:47:01+01:00">24. dec 2007 kl.  01:47</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Jan, du var røget i spamfilteret.. Det er en Labrador/Boxer den lille satan :)</p>
 </li>
 </ul>

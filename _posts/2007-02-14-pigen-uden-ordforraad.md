@@ -18,7 +18,7 @@ Hvis du ikke allerede kender striben [Pigen uden ordforråd](http://pigenudenord
 </li>
 
 <li>
-<p class="comment-meta">Den <time datetime="2007-02-18T20:52:57+01:00">18. feb 2007 kl.  08:52</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-02-18T20:52:57+01:00">18. feb 2007 kl.  08:52</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Ja, der går lidt længe mellem opdateringerne.. Man mangler jo hendes kloge ideer!</p>
 </li>
 

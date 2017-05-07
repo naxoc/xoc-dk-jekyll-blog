@@ -17,7 +17,7 @@ category:
 </li>
 
 <li>
-<p class="comment-meta">Den <time datetime="2007-04-18T08:46:09+02:00">18. apr 2007 kl.  08:46</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-04-18T08:46:09+02:00">18. apr 2007 kl.  08:46</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Haha! Ja, det har du ret i, Flemming. Den er nu ret sød. Og det er nok nemmere at lære pingviner at danse end at overbevise amerikanerne om at de forurener for meget.</p>
 </li>
 </ul>

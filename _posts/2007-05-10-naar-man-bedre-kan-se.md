@@ -16,7 +16,7 @@ Da jeg havde været nede og hente mine nye briller her til morgen var verden plu
 </li>
 
 <li>
-<p class="comment-meta">Den <time datetime="2007-05-11T10:39:04+02:00">11. maj 2007 kl.  10:39</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-05-11T10:39:04+02:00">11. maj 2007 kl.  10:39</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Tak for det Jan! Nu er vi i klub sammen. :-) Jeg føler mig helt klog når jeg har dem på. De lissom giver en illusion af at jeg læser bøger!</p>
 </li>
 </ul>

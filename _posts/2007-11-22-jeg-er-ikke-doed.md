@@ -16,7 +16,7 @@ Og jeg har tænkt mig at jeg endnu en gang skal til at genoplive min weblog. Jeg
 <p>w00t?! Hund? Hus? iMac? Skal love for der er sket noget når du endelig vender tilbage (:</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-11-23T10:44:33+01:00">23. nov 2007 kl.  10:44</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-11-23T10:44:33+01:00">23. nov 2007 kl.  10:44</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Jep. :-) Når jeg går undercover sker der ting. Jeg kunne også have lovet at for fremtiden lover jeg at opdatere min weblog. Men det var der nok ikke nogen der havde troet på...</p>
 </li>
 <li>
@@ -28,7 +28,7 @@ Og jeg har tænkt mig at jeg endnu en gang skal til at genoplive min weblog. Jeg
 <p>... eller måske bare var faldet i søvn.</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-11-23T13:50:13+01:00">23. nov 2007 kl.  01:50</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-11-23T13:50:13+01:00">23. nov 2007 kl.  01:50</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Zzzzzz. Det er helt klart det sidste, Jan. :)</p>
 </li>
 </ul>
