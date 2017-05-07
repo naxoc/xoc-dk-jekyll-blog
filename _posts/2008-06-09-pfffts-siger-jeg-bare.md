@@ -14,7 +14,6 @@ category:
 <p class="comment-meta">Den <time datetime="2008-06-09T14:23:49+02:00">9. jun 2008 kl.  02:23</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>Det er vist også en tilsnigelse af de helt store at kalde Avril Lavigne for punk?</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2008-06-09T15:59:12+02:00">9. jun 2008 kl.  03:59</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Ja, i den grad. Poppunk er nok mere dækkende. Eller bare pop.</p>

@@ -18,13 +18,11 @@ Må det seneste jeg har lavet indgå. Det er min kollega [Hr. Blim](http://kimbl
 Du ville ikke have vundet sidste gang selvom du havde ladet være med at ryge fredag aften - jeg var jo heller ikke lummer, så vi ville højst sandsynligvis have "spillet uafgjort"...</p>
 <p>You.Are.Going.Down!</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2011-01-09T22:52:55+01:00">9. jan 2011 kl.  10:52</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>Hovsa!</p>
 <p>Du skylder vist en middag på Sticks'n'Sushi for det her væddemål back in the days ;)</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2011-01-11T12:04:23+01:00">11. jan 2011 kl.  12:04</time>, sagde Camilla:</p>
 <p>Du har ret</p>

@@ -12,6 +12,10 @@ tags:
 ---
 Hvis det ikke var for maskinoversættelser ville mit liv være langt fattigere.
 
-![get_ripped.png](/images/get_ripped.png)
+<amp-img alt="Get ripped"
+  src="{{ site.baseurl }}{% link assets/post-images/get_ripped.png %}"
+  width="301"
+  height="235"
+  layout="responsive">
 
 Mon det skulle have været ripped? Eller måske bare "mere markeret"?

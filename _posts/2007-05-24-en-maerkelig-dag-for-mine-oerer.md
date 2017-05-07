@@ -16,12 +16,10 @@ Hov! Det er godtnok længe siden det er sket at jeg har nydt at lytte til Anne L
 <p class="comment-meta">Den <time datetime="2007-06-20T10:01:25+02:00">20. jun 2007 kl.  10:01</time>, sagde <a href="http://ma.ria.dk">Maria</a>:</p>
 <p>Ih altså jeg vil bare sige at jeg er super glad for at du introducerede mig til last.fm. Hyggeligt at vi er venner derinde selvom vi ikke har meget musik til fælles ;o)<br /><a href="http://www.last.fm/user/maha94ag" rel="nofollow">min last.fm profil</a></p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2007-09-08T20:12:26+02:00">8. sep 2007 kl.  08:12</time>, sagde <a href="http://frespa.dk">Frederik Spangsberg</a>:</p>
 <p>Jeg kan godt lide det her design. Meget endda.</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2009-02-24T11:43:53+01:00">24. feb 2009 kl.  11:43</time>, sagde <a href="http://www.jespergarde.com">Jesper</a>:</p>
 <p>'Vi sidder bare her...'</p>
@@ -30,7 +28,6 @@ Hov! Det er godtnok længe siden det er sket at jeg har nydt at lytte til Anne L
 <p>Hyggeligt ;-)<br />
 Jesper</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2009-03-02T08:44:02+01:00">2. mar 2009 kl.  08:44</time>, sagde Camilla:</p>
 <p>Jørgen Leth holder</p>

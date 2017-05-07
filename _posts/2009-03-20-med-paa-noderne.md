@@ -13,4 +13,7 @@ tags:
 ---
 Denne mælk kan prale af at være Biodynamisk cafémælk i version 1.0. Softwaresprog sniger sig ind i sproget.
 
-![IMG_0031.JPG](/images/IMG_0031.JPG)
+<amp-img alt="Cafemælk"
+  src="{{ site.baseurl }}{% link assets/post-images/cafemaelk.jpg %}"
+  width="402"
+  height="766">

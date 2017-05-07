@@ -16,7 +16,6 @@ Jeg har aldrig været hverken ked af eller utilbøjelig til at drikke et par øl
 <p>Vi glæder os allerede:-)<br />
 Hvornår er Tipoen færdig?</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2008-01-07T08:40:14+01:00">7. jan 2008 kl.  08:40</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Ja, det er jo lige det med den Tipo. Lad min lige udbedre nogle basic ting (bremserne skal virke, strømmen skal være uden klumper mm.) og så er jeg klar med neonlys-sættet. Jeg kunne også godt finde på at gå Thrane i bedene og sætte et ørne-klistermærke på fronten.</p>

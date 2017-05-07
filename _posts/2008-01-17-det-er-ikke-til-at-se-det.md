@@ -16,7 +16,6 @@ Men jeg har skiftet webhotel.. Af samme grund som [hr. Blim](http://kimblim.dk/2
 <p>Flere links, flere links, vi vil have flere links!</p>
 <p>Iøvrigt, hvad var der i vejen med dit feed?</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2008-01-17T20:42:47+01:00">17. jan 2008 kl.  08:42</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Det var, ganske som du sagde, min .htaccess der var forsvundet. Jeg skal liiige vænne mig til ikke at have ssh-adgang mere, men jeg fik da fundet en måde at vise skjulte filer via F.T.P.<br />
