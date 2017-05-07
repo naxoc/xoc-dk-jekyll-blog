@@ -12,12 +12,12 @@ Det var vældigt sjovt, mit eksperiment, men selvom jeg syntes at jeg brugte man
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2006-04-15T23:33:23+02:00">15. apr 2006 kl.  11:33</time>, sagde <a href="http://ulollola.blogspot.com">ulla</a>:</p>
+<p class="comment-meta">Den <time datetime="2006-04-15T23:33:23+02:00">15. apr 2006 kl.  11:33</time>, sagde <a href="http://ulollola.blogspot.com">ulla</a>:</p>
 <p>Jeps, den er ganske fantastisk, den reklame. Og så er det også fantastiske Jose Gonzales der spiller Heartbeats, som er skrevet af ligeledes fantastiske The Knife. Fik jeg sagt at det er fantastisk?</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2006-04-15T23:38:18+02:00">15. apr 2006 kl.  11:38</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2006-04-15T23:38:18+02:00">15. apr 2006 kl.  11:38</time>, sagde Camilla:</p>
 <p>Fantastisk.. Fantastisk. Fantastisk.<br />
 Godt at se dig her på din weblogs (dog lidt lysere i farven) dobbeltgængerside! :-)</p>
 </li>

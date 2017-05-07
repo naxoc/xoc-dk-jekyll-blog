@@ -9,14 +9,14 @@ Min søde kusine Christine gav mig den nye CD med Madonna i julegave. Jeg havde 
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2006-01-24T01:22:03+01:00">24. jan 2006 kl.  01:22</time>, sagde <a href="www.himmerige.dk/blog">Lars</a>:</p>
+<p class="comment-meta">Den <time datetime="2006-01-24T01:22:03+01:00">24. jan 2006 kl.  01:22</time>, sagde <a href="www.himmerige.dk/blog">Lars</a>:</p>
 <p>Og hvorfor kan man så ikke se på last.fm, at den bliver spillet?</p>
 <p>/Lars<br />
 - din last.fm nabo ;)</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2006-01-24T09:10:08+01:00">24. jan 2006 kl.  09:10</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2006-01-24T09:10:08+01:00">24. jan 2006 kl.  09:10</time>, sagde Camilla:</p>
 <p>Good point! :-) Jeg må tilstå at jeg nærmest aldrig hører musik fra iTunes mere. Det er iPodden der har taget opmærksomheden. -Og den sender ikke (endnu) til iScrobbler.</p>
 </li>
 </ul>

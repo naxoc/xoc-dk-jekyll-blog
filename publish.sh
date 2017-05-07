@@ -11,6 +11,6 @@ cp -r older _site/
 rsync -avz --delete _site/ almond:/var/www/html/xoc.dk
 if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
 
-rm _site/older
+rm -r _site/older
 # Remove the local "deployment" file.
 rm _site/VERSION.txt

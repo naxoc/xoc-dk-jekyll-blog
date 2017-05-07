@@ -33,7 +33,7 @@ Undo : Alt-Backspace
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-10-20T00:05:40+02:00">20. okt 2004 kl.  12:05</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-10-20T00:05:40+02:00">20. okt 2004 kl.  12:05</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>Mozilla-tabs kan i øvrigt også betjenes med måde venstre og højre hånd.</p>
 <p>Mus i højre hånd:<br />
 Næste tab: (venstre)Ctrl+tab<br />
@@ -44,7 +44,7 @@ Forrige tab: (højre)Ctrl+PageUp</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-10-20T11:05:26+02:00">20. okt 2004 kl.  11:05</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-10-20T11:05:26+02:00">20. okt 2004 kl.  11:05</time>, sagde Camilla:</p>
 <p>Cool. Pudsigt, jeg kendte kun dem til venstre hånd. Gad vide hvordan jeg er gået glip af dem til højre.</p>
 </li>
 </ul>

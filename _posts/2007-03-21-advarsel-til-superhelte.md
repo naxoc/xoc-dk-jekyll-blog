@@ -12,38 +12,38 @@ På min [arbejdsplads](http://tdc.dk "TDC") har mine kolleger og jeg gennem læn
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-21T07:07:17+01:00">21. mar 2007 kl.  07:07</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-21T07:07:17+01:00">21. mar 2007 kl.  07:07</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>Jeg føler mig overset. Glemt. Udenfor. Going into SlaughterBoy mode...</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-21T07:34:21+01:00">21. mar 2007 kl.  07:34</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-21T07:34:21+01:00">21. mar 2007 kl.  07:34</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Ej undskyld!! Du er jo selvfølgelig Lummer Boy!</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-21T21:52:12+01:00">21. mar 2007 kl.  09:52</time>, sagde <a href="http://ma.ria.dk">Maria</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-21T21:52:12+01:00">21. mar 2007 kl.  09:52</time>, sagde <a href="http://ma.ria.dk">Maria</a>:</p>
 <p>Yes CookieGirl rocks! Ja det var virkelig skægt med den afstemning, men naturligvis synd hvis nogen børn rent faktisk tror de kan flyve, hvis de er superman!</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-22T14:28:38+01:00">22. mar 2007 kl.  02:28</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-22T14:28:38+01:00">22. mar 2007 kl.  02:28</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>Jeg ved ikke om jeg er helt tilfreds med Lummer Boy...</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-22T14:34:18+01:00">22. mar 2007 kl.  02:34</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-22T14:34:18+01:00">22. mar 2007 kl.  02:34</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Jamen OK. Er HTML Boy sejere?</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-22T16:07:43+01:00">22. mar 2007 kl.  04:07</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-22T16:07:43+01:00">22. mar 2007 kl.  04:07</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>HTML Boy er vildt sejt!<br />
 Highly Trained &amp; Motivated Lummer Boy??? Not so much...</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-26T12:11:25+02:00">26. mar 2007 kl.  12:11</time>, sagde <a href="http://">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-26T12:11:25+02:00">26. mar 2007 kl.  12:11</time>, sagde <a href="http://">Camilla</a>:</p>
 <p>Vi lader betydningen af forkortelsen være en hemmelighed så. Alle vinder!</p>
 </li>
 </ul>

@@ -11,7 +11,7 @@ Jeg er ikke den store tilhænger af at gå ind og se en film to gange, men i det
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2006-01-09T23:19:42+01:00">9. jan 2006 kl.  11:19</time>, sagde Camilla Krag Jensen:</p>
+<p class="comment-meta">Den <time datetime="2006-01-09T23:19:42+01:00">9. jan 2006 kl.  11:19</time>, sagde Camilla Krag Jensen:</p>
 <p>Hmm.. Trods min stavefascisme lader jeg ovenstående stavefejl "fil" (skulle have været film) stå. Den illustrerer vist så glimrende min tiltagende arbejdsskade.</p>
 </li>
 </ul>

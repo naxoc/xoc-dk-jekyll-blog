@@ -11,7 +11,7 @@ Jeg har været på [kursus i blindskrift](http://www.informadanmark.dk/), eller 
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2007-03-28T12:41:05+02:00">28. mar 2007 kl.  12:41</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-28T12:41:05+02:00">28. mar 2007 kl.  12:41</time>, sagde <a href="http://kimblim.dk">kimblim</a>:</p>
 <p>Vi er så stolte af dig, Typer Girl!</p>
 </li>
 </ul>

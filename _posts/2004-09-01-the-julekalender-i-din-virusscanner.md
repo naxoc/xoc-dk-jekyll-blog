@@ -13,7 +13,7 @@ Min yahoomail siger altså af og til nogle sære ting til mig. Yahoo i Danmark b
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-09-01T15:38:22+02:00">1. sep 2004 kl.  03:38</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-09-01T15:38:22+02:00">1. sep 2004 kl.  03:38</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
 <p>Heh, ja det er da meget sødt. Det minder mig lidt om denne <a href="http://itu.dk/people/jcv/usenet/img/?id=1">http://itu.dk/people/jcv/usenet/img/?id=1</a> fra OS X. Mon ikke det gik lidt stærkt med oversættelsen?</p>
 <p>Denne, fra i går kan jeg også godt lide, fra apples iMac G5 side. Vi er lidt foran i DK: <a href="http://itu.dk/people/jcv/usenet/img/?id=2">http://itu.dk/people/jcv/usenet/img/?id=2</a></p>
 </li>

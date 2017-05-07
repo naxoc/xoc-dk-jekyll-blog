@@ -20,7 +20,7 @@ I går var jeg med i et [triathlon i Blovstrød](http://www.triathleten.dk/). Di
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2008-09-17T11:17:29+02:00">17. sep 2008 kl.  11:17</time>, sagde Thrane:</p>
+<p class="comment-meta">Den <time datetime="2008-09-17T11:17:29+02:00">17. sep 2008 kl.  11:17</time>, sagde Thrane:</p>
 <p>Go stil der!</p>
 </li>
 </ul>

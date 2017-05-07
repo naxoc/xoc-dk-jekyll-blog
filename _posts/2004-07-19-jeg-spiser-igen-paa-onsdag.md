@@ -11,13 +11,13 @@ Vi udnyttede at det var blevet sommer og tog ud til Amager Strand for at bade.Je
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-07-21T00:58:12+02:00">21. jul 2004 kl.  12:58</time>, sagde <a href="http://pe.ter.dk/">Peter Dobbeltmoralsk Brodersen</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-07-21T00:58:12+02:00">21. jul 2004 kl.  12:58</time>, sagde <a href="http://pe.ter.dk/">Peter Dobbeltmoralsk Brodersen</a>:</p>
 <p>Det var da utroligt, at folk stadigvæk stopper op og kan blive overrasket over den slags... som om, folk ikke har set et nøgent menneske før...!</p>
 <p>... tog I billeder? :)</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-07-21T11:13:51+02:00">21. jul 2004 kl.  11:13</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-07-21T11:13:51+02:00">21. jul 2004 kl.  11:13</time>, sagde Camilla:</p>
 <p>Hehe. Vi havde desværre glemt kameraet. Ellers havde vi naturligvis taget en masse billeder.</p>
 </li>
 </ul>

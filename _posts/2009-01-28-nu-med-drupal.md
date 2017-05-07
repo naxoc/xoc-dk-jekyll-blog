@@ -14,12 +14,12 @@ Jeg har (grundet mine lidet overbevisende designevner) nappet et theme på [drup
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2009-01-28T21:47:18+01:00">28. jan 2009 kl.  09:47</time>, sagde <a href="http://www.solitude.dk/">Andreas</a>:</p>
+<p class="comment-meta">Den <time datetime="2009-01-28T21:47:18+01:00">28. jan 2009 kl.  09:47</time>, sagde <a href="http://www.solitude.dk/">Andreas</a>:</p>
 <p>Tillykke med det nye look og den nørdede backend. :o)</p>
 </li>
 
 <li><div class="indented">
-<p class="comment-meta">Den <time pubdate datetime="2009-01-29T07:44:06+01:00">29. jan 2009 kl.  07:44</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2009-01-29T07:44:06+01:00">29. jan 2009 kl.  07:44</time>, sagde Camilla:</p>
 <p>Tak for det</p>
 <p>Nu har jeg det meget bedre.. Når nu jeg har fået en nørdet backend :)</p></div></div></li></ul>
 </div>

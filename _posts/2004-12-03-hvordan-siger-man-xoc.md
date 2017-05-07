@@ -13,7 +13,7 @@ Der har vi sammenhængen. Sjåk.
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-12-27T02:05:33+01:00">27. dec 2004 kl.  02:05</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-12-27T02:05:33+01:00">27. dec 2004 kl.  02:05</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>Nåjada... så glædelig xoc-mas! :)</p>
 </li>
 </ul>

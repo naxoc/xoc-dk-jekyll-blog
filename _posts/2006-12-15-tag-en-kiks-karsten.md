@@ -11,14 +11,14 @@ Man kan læse i [denne artikel i Politiken](http://politiken.dk/link/article.jsp
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2006-12-21T01:22:39+01:00">21. dec 2006 kl.  01:22</time>, sagde Madsie:</p>
+<p class="comment-meta">Den <time datetime="2006-12-21T01:22:39+01:00">21. dec 2006 kl.  01:22</time>, sagde Madsie:</p>
 <p>Ahhh ja, der er så mange vigtige emner som politiker: hjælpe de svageste i samfundet, skabe lighed mellem rige og fattige lande, støtte forskning i sygdomme, bekæmpe homoer...</p>
 <p>Selv mener jeg at det er almindelig god pli at respektere folks sexuelle misorientering.</p>
 <p>Tak for sidst, super-hyggeligt at se jer igen!</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2006-12-21T15:43:08+01:00">21. dec 2006 kl.  03:43</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2006-12-21T15:43:08+01:00">21. dec 2006 kl.  03:43</time>, sagde Camilla:</p>
 <p>Ja, det er stressende at være politiker tror jeg! Hvad angår pli slog du hovedet på sømmet - om jeg så må sige ;-)</p>
 <p>Og tak i lige måde. Det var hyggeligt. Næste gang bliver hos mig.</p>
 </li>

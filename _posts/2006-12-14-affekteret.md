@@ -14,7 +14,7 @@ Jeg springer bare lige ud i det. Jeg synes komikeren Uffe Holm er en nar. Jeg h�
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2008-01-19T15:39:33+01:00">19. jan 2008 kl.  03:39</time>, sagde <a href="http://www.jakobnorsk.dk">Jakob N</a>:</p>
+<p class="comment-meta">Den <time datetime="2008-01-19T15:39:33+01:00">19. jan 2008 kl.  03:39</time>, sagde <a href="http://www.jakobnorsk.dk">Jakob N</a>:</p>
 <p>Hørt hørt !!!</p>
 <p>Uffe H er lige så interessant som bagsiden på et tv....</p>
 </li>

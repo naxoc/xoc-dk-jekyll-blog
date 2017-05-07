@@ -13,13 +13,13 @@ Det er sjovt som man kan bo i en by og hver dag finde nye smukke vinkler på vel
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-08-11T22:07:43+02:00">11. aug 2004 kl.  10:07</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-08-11T22:07:43+02:00">11. aug 2004 kl.  10:07</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>([nørd]Der mangler vist lige http:// foran den Supertanker-URL...[/nørd])</p>
 <p>I søndags fik jeg endelig taget mig sammen til at prøve Havnebussen ved Nyhavn. Jeg kan godt forstå at de har skilte med at man bliver nødt til at forlade båden ved endestation, for den kunne man let bruge en del tid på at sejle frem og tilbage og kigge på bygninger... :)</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-08-12T12:30:13+02:00">12. aug 2004 kl.  12:30</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-08-12T12:30:13+02:00">12. aug 2004 kl.  12:30</time>, sagde Camilla:</p>
 <p>Nerdian slip fra min side at glemme http.. det skal ikke gentage sig :-)</p>
 <p>Jeg vidste faktisk ikke at man skulle stå af havnebussen ved endestationerne. Men det giver vel meget god mening. Ellers ville der jo hurtigt komme ti amerikanske backpackere med et blåt klippekort og cruise frem og tilbage på havnerundfart hele dagen.</p>
 </li>

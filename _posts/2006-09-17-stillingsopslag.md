@@ -11,13 +11,13 @@ Jeg søger m/k til at løbe efter to stk. fede katte og fjerne kattehår i deres
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2006-09-26T08:56:52+02:00">26. sep 2006 kl.  08:56</time>, sagde <a href="http://ma.ria.dk">Maria</a>:</p>
+<p class="comment-meta">Den <time datetime="2006-09-26T08:56:52+02:00">26. sep 2006 kl.  08:56</time>, sagde <a href="http://ma.ria.dk">Maria</a>:</p>
 <p>Tak for opbakningen til mit rygestop! I betragtning af at Kim har lovet at svine mig til hvis jeg begynder igen, tror jeg bare jeg lader være.<br />
 Kunne være kanon hvis jeg kan trække dig med!</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2006-09-26T08:59:59+02:00">26. sep 2006 kl.  08:59</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2006-09-26T08:59:59+02:00">26. sep 2006 kl.  08:59</time>, sagde Camilla:</p>
 <p>Ja, det ville være skønt for min "Penge ikke brugt til smøger"-tæller ude til højre hvis den rent faktisk fik en berettigelse for at leve. :-)</p>
 </li>
 </ul>

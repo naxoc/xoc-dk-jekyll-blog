@@ -18,17 +18,17 @@ Men her er Camillog version 1.2 - Nu på dansk.
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-07-03T11:21:55+02:00">3. jul 2004 kl.  11:21</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-07-03T11:21:55+02:00">3. jul 2004 kl.  11:21</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
 <p>Velkommen tilbage, sgu'! Glæder mig at du finder din indre blogger frem igen (:</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-07-07T21:36:19+02:00">7. jul 2004 kl.  09:36</time>, sagde Jess:</p>
+<p class="comment-meta">Den <time datetime="2004-07-07T21:36:19+02:00">7. jul 2004 kl.  09:36</time>, sagde Jess:</p>
 <p>¿et porqué no escribes en castellano? :)</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-07-08T11:09:40+02:00">8. jul 2004 kl.  11:09</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-07-08T11:09:40+02:00">8. jul 2004 kl.  11:09</time>, sagde Camilla:</p>
 <p>Supongo que podría escribir en castellano. Será otra vez...<br />
 Camillog - Ahora en castellano!!</p>
 </li>

@@ -37,12 +37,12 @@ Men det skulle altså have været _tlapalli_.
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-08-24T20:47:01+02:00">24. aug 2004 kl.  08:47</time>, sagde wirr:</p>
+<p class="comment-meta">Den <time datetime="2004-08-24T20:47:01+02:00">24. aug 2004 kl.  08:47</time>, sagde wirr:</p>
 <p>Hm,hm,hm: står Tysklands farver - sort, rød, guld - ikke for død, blod og penge? Man skal nok være opvokset i regnskoven for at associere løvgrøn med ensfarvethed, tristhed og videnskabelighed.</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-08-25T11:23:27+02:00">25. aug 2004 kl.  11:23</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-08-25T11:23:27+02:00">25. aug 2004 kl.  11:23</time>, sagde Camilla:</p>
 <p>Jo, du har nok ret. Et udslag af etnocentri fra Kahlos side. Endvidere er jeg ikke sikker på at hun nogensinde har været i Tyskland. Så det er nok ikke helt velunderbygget. Men meget følt.</p>
 </li>
 </ul>

@@ -11,13 +11,13 @@ Jeg må ellers med skam indrømme at jeg ikke har været til koncert i.. øh - m
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2005-01-11T17:54:43+01:00">11. jan 2005 kl.  05:54</time>, sagde <a href="www.butterlabel.com">luxuryluke</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-01-11T17:54:43+01:00">11. jan 2005 kl.  05:54</time>, sagde <a href="www.butterlabel.com">luxuryluke</a>:</p>
 <p>i LOVE groove armada!!! as you can see on my audioscrobbler page. The best song they've ever done is "AT THE RIVER", followed by "INSIDE MY MIND (BLUE SKIES)".</p>
 <p>Enjoy!</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2005-01-12T12:15:17+01:00">12. jan 2005 kl.  12:15</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2005-01-12T12:15:17+01:00">12. jan 2005 kl.  12:15</time>, sagde Camilla:</p>
 <p>I see that you like the quieter songs. I think my favorite Groove Armada song is Superstylin'. I also like Fogma. They are both on Goodbye Country (..) - my favorite album.</p>
 </li>
 </ul>

@@ -12,23 +12,23 @@ Jeg har, trods min ynkelige økonomi, lige købt en rejse til [Lesbos](http://ww
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time pubdate datetime="2004-09-01T15:26:39+02:00">1. sep 2004 kl.  03:26</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-09-01T15:26:39+02:00">1. sep 2004 kl.  03:26</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
 <p>Hey, jeg var en uge i Anaxos (sp?) i starten af august. Det var dæleme behageligt og afslappende. God tur, drik en Mythos for mig! (:</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-09-02T11:00:03+02:00">2. sep 2004 kl.  11:00</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-09-02T11:00:03+02:00">2. sep 2004 kl.  11:00</time>, sagde Camilla:</p>
 <p>Tak. Jeg skal gøre mit yderste for at nyde det. Og jeg skal med glæde drikke en Mythos for dig!</p>
 <p>Selvom jeg ikke helt har tilgivet dig det med den TV-reklame... :-)</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-09-02T22:47:29+02:00">2. sep 2004 kl.  10:47</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
+<p class="comment-meta">Den <time datetime="2004-09-02T22:47:29+02:00">2. sep 2004 kl.  10:47</time>, sagde <a href="http://verture.net/">Jonas</a>:</p>
 <p>Ååårh, come on, det var jo bare en lille reklame, og du skrev selv under på at det måtte bruges (:</p>
 </li>
 
 <li>
-<p class="comment-meta">Den <time pubdate datetime="2004-09-04T12:01:40+02:00">4. sep 2004 kl.  12:01</time>, sagde Camilla:</p>
+<p class="comment-meta">Den <time datetime="2004-09-04T12:01:40+02:00">4. sep 2004 kl.  12:01</time>, sagde Camilla:</p>
 <p>Gjorde jeg? Hmm. Min alkoholskade er vist taget voldsomt til i løbet af sommeren. Det havde jeg da glemt.</p>
 </li>
 </ul>
