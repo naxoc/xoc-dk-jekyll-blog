@@ -1,4 +1,4 @@
 ---
-name: Kævl
+name: kævl
 slug: kaevl
 ---
