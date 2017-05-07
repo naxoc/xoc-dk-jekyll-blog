@@ -4,7 +4,7 @@ date: '2008-09-07 11:14:23 -0100'
 permalink: /2008/09/07/nu-sker-der-noget
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - indernettet
     - nørderi
 

@@ -4,7 +4,7 @@ date: '2007-05-10 12:13:00 -0100'
 permalink: /2007/05/10/nar-man-bedre-kan-se
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 
 ---
 Da jeg havde været nede og hente mine nye briller her til morgen var verden pludselig anderledes tydelig. Og da jeg kørte på arbejde så jeg en møgbeskidt varevogn, hvor der var skrevet i støvet "I wish my wife was this dirty". Jeg var ved at dø af grin, for det er da langt sjovere end "Vask mig". Jeg nåede i vanlig sløv stil ikke at tage et billede af varevognen, men der andre der har fundet på at gøre det på [flickr](http://www.flickr.com/photos/vooza/455656677/).

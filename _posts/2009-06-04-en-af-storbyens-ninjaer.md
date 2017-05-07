@@ -4,7 +4,7 @@ date: '2009-06-04 02:41:47 -0100'
 permalink: /2009/06/04/en-af-storbyens-ninjaer
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - indernettet
 tags:
     - ninja

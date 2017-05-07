@@ -4,7 +4,7 @@ date: '2007-04-17 09:46:10 -0100'
 permalink: /2007/04/17/en-ubehagelig-film
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - livet
 
 ---

@@ -4,7 +4,7 @@ date: '2004-10-18 11:02:00 -0100'
 permalink: /2004/10/18/for-ambidekstrale-musebrugere
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - indernettet
 
 ---

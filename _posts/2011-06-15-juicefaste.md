@@ -10,7 +10,7 @@ tags:
     - sundhed
 
 ---
-<div class="noodle-pack">[![Juice fast!](http://farm5.static.flickr.com/4126/4992687597_923943cd31_m.jpg)](http://www.flickr.com/photos/add1sun/4992687597/ "Juice fast! by add1sun, on Flickr")</div>Jeg er på juice i denne uge. Ikke andet. Juicefasten går ud på at jeg får 5 juices om dagen og ikke andet end vand og urtethe. Det er faktisk slet ikke så slemt som det lyder, for jeg føler mig ikke sulten overhovedet. Og det er noget der siger en del, for jeg er ikke bleg for at spise dobbelt portion af alting til hverdag, så man kan nok godt sige at jeg har en sund appetit.
+Jeg er på juice i denne uge. Ikke andet. Juicefasten går ud på at jeg får 5 juices om dagen og ikke andet end vand og urtethe. Det er faktisk slet ikke så slemt som det lyder, for jeg føler mig ikke sulten overhovedet. Og det er noget der siger en del, for jeg er ikke bleg for at spise dobbelt portion af alting til hverdag, så man kan nok godt sige at jeg har en sund appetit.
 
 Hvorfor gør jeg nu det her fjolleri? Jeg gør det fordi jeg får det rigtigt godt af det. Jeg har gjort det en gang før for en 6 måneders tid siden og jeg var super-energisk i ugevis efter. Man får detoxet - som det jo er så moderne at kalde at komme af med en masse affaldsstoffer. Jeg er ikke god til at komme op om morgenen, men i den tid efter juicefasten vågnede jeg naturligt tidligt og var pivfrisk. Jeg fik udrettet meget mere end jeg plejer både på arbejde og hjemme.
 

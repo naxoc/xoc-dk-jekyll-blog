@@ -4,7 +4,7 @@ date: '2008-05-14 06:55:38 -0100'
 permalink: /2008/05/14/i-kategorien-tossede-væddemal
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - kævl
     - livet
 

@@ -4,7 +4,7 @@ date: '2008-05-15 06:40:40 -0100'
 permalink: /2008/05/15/guitar-hero
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 
 ---
 Er skrupsjovt! Jeg er selv blevet smittet og er i fuld gang med at smitte mine venner. Annette har taget det til sig i den grad.

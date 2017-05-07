@@ -4,7 +4,7 @@ date: '2008-01-17 05:17:06 -0100'
 permalink: /2008/01/17/det-er-ikke-til-se-det
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - indernettet
 
 ---

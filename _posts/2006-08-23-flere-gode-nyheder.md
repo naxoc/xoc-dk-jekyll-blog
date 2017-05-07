@@ -4,7 +4,7 @@ date: '2006-08-23 12:52:00 -0100'
 permalink: /2006/08/23/flere-gode-nyheder
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - livet
 
 ---

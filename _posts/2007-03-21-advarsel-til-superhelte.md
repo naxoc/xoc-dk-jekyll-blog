@@ -4,7 +4,7 @@ date: '2007-03-21 06:36:53 -0100'
 permalink: /2007/03/21/advarsel-til-superhelte
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - indernettet
 
 ---

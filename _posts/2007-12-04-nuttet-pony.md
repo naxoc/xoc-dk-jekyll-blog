@@ -4,7 +4,7 @@ date: '2007-12-04 03:18:13 -0100'
 permalink: /2007/12/04/nuttet-pony
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 tags:
     - pony
     - hund

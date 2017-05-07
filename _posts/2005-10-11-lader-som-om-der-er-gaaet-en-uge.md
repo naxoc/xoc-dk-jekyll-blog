@@ -4,7 +4,7 @@ date: '2005-10-11 09:58:00 -0100'
 permalink: /2005/10/11/lader-som-om-der-er-gaaet-en-uge
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
     - kævl
 
 ---

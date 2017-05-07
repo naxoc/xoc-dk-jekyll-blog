@@ -4,7 +4,7 @@ date: '2010-10-01 10:04:26 -0100'
 permalink: /2010/10/01/kaffe-lige-om-hj-rnet
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 
 ---
 Dagbladet Information ligger i Store Kongensgade - i Skt. Annæ passage. Det er slet ikke noget dårligt sted - det er super centralt for metro, bus og alt muligt.

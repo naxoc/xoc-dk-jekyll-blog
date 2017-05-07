@@ -4,7 +4,7 @@ date: '2008-06-09 01:25:46 -0100'
 permalink: /2008/06/09/pfffts-siger-jeg-bare
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 
 ---
 [Det er da at sælge ud](http://politiken.dk/kultur/article520917.ece), frøken Punk. Næh, rigtig punk-parfume lugter af absint.

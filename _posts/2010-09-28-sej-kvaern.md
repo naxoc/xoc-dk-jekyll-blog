@@ -4,7 +4,7 @@ date: '2010-09-28 11:10:16 -0100'
 permalink: /2010/09/28/sej-kv-rn
 layout: post
 category:
-    - 'I det hele taget'
+    - I det hele taget
 tags:
     - fancy
 
