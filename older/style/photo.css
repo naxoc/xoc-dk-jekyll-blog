@@ -1,0 +1,18 @@
+body  {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #D8D86F;
+  font-size: 12px;
+}
+
+.small {
+  font-size: 10px;
+}
+
+h3  {
+  padding-top: 30px;
+  }

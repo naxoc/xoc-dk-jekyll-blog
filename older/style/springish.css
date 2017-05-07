@@ -1,0 +1,144 @@
+body {
+  background-color: #5F795F;
+  font-family: verdana, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 100%;
+}
+
+#top {
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: #A3B2C1;
+  font-size: 70px;
+  font-weight: bold;
+	text-align: center;
+	}
+
+#menu {
+	float: left;
+	padding: 10px 2% 10px 2%;
+	margin-left: 2%;
+	background-color: #E7E6E8;
+	width: 25%; 
+	height: 100%;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	}
+html>body #menu {
+	width: 18%; 
+	}
+
+#content {
+	float: left; 
+  	background-color: #E7E6E8;
+  	padding-left: 20px;
+  	padding-right: 20px;
+  	padding-top: 20px;
+  	padding-bottom: 20px;
+  	margin-left: 2%;
+  	margin-right: 2%;
+  	margin-top 2%;
+  	margin-bottom: 2%;
+	width: 70%; 
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 65%;
+	}
+html>body #content {
+	width: 65%; 
+}
+
+p  {
+  color: #000000;
+  background-color: inherit;
+  font-size: 13px;
+  line-height: 17px;
+  padding-right: 10%;
+  padding-left: 5%;
+}
+
+li  {
+  color: #000000;
+  background-color: inherit;
+  font-size: 13px;
+  line-height: 17px;
+  margin-bottom: 18px;
+}
+
+td  {
+  vertical-align: top;
+}
+
+p.topnav  {
+  text-align: left;
+  padding-left: 25%;
+}
+
+h5  { /*bruges til weblogoverskrifter */
+  font-size: 150%;
+  margin-bottom: 2px;
+  color: #9F9F65;
+}
+
+.tiny {
+	font-size: 9px;
+	line-height: 16px;
+	margin-top: 15px;
+	margin-bottom: 5px; 
+	}
+.ten {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 16px;
+	margin-top: 3px;
+	margin-bottom: 30px; 
+	}
+
+.eleven	{
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	margin-top: 3px;
+	margin-bottom: 5px; 
+}
+
+.twelve {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+}
+a {
+	color:  #206AD8; /*COLOR*/
+	outline: none;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	color:  #B10017; /*COLOR*/
+}
+a:active {
+	color:  #00FFFF; /*COLOR*/
+}
+a:hover {
+	color: #FF9900; /*COLOR*/
+}
+a.small	{
+	color:  #5A5899; /*COLOR*/
+	outline: none;
+	font-weight: normal;
+}
+img {
+	border: 0;
+}
+
+.bot	{
+	float: left;
+	margin: 5px;
+}

@@ -1,0 +1,4 @@
+---
+name: nørderi
+slug: norderi
+---

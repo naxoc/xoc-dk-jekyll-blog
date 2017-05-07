@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{% assign in_section =  site.posts | where:"category",page.name %}
+
+<ul>
+  {% for post in in_section %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

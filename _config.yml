@@ -1,0 +1,54 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Camillog
+email: xoc.@naxoc.net
+description: >
+  Blog fra da internettet var ungt
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://xoc.dk" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+name: 'Camilla'
+bio: >
+  Elsker internettet, men skriver nok ikke så meget på sin blog mere.
+author_image: "/assets/images/camilla.jpg"
+
+timezone: Europe/Copenhagen
+
+# Google Analytics
+analytics_id: "UA-18779903-1"
+
+# Build settings
+markdown: kramdown
+
+exclude: [older, publish.sh]
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate
+
+# Sass
+sass:
+    style: compressed
+
+collections:
+  sektioner:
+    output: true
+    permalink: /sektion/:slug/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: sektioner
+    values:
+      layout: posts_in_category

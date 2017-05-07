@@ -1,0 +1,196 @@
+/* I stole the structure for this style sheet at: http://thenoodleincident.com/tutorials/box_lesson/boxes.html */
+
+body {
+	margin: 20px 0px 0px 0px; 
+	padding: 0px 0px 0px 0px;
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #5A6542; /*COLOR*/
+	background-color: #CAE6E7; /*COLOR*/
+	}
+
+p {
+	font-size: 11px;
+	line-height: 20px;
+	margin-bottom: 10px; 
+	}
+
+#left {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 20px;
+	padding: 10px;
+	border: 5px solid #8BBEC0; /*COLOR*/
+	background: #FFFFFA; /*COLOR*/
+	width: 150px; 
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 120px;
+	}
+html>body #left {
+	width: 120px; 
+	}
+#middle {
+	margin: 0px 190px 20px 190px; 
+	padding: 10px;
+	border: 5px solid #8BBEC0; /*COLOR*/
+	background: #FFFFFA; /*COLOR*/
+	}
+#right {
+	position: absolute;
+	top: 0px;
+	right: 0px; 
+	margin: 20px;
+	padding: 10px;
+	border: 5px solid #8BBEC0; /*COLOR*/
+	background: #FFFFFA; /*COLOR*/
+	width: 150px; 
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 120px;
+	}
+html>body #right {
+	width: 120px; 
+	}
+
+.bot	{
+	float: left;
+	margin: 5px;
+}
+
+.rightBot	{
+	float: right;
+	margin: 5px;
+}
+
+form	{
+	padding-right: 15%;
+	text-align: right;
+}
+
+pre {
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: 20px;
+	margin-bottom: 10px; 
+	}
+	
+.tiny {
+	font-size: 9px;
+	line-height: 16px;
+	margin-top: 15px;
+	margin-bottom: 5px; 
+	}
+.ten {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 16px;
+	margin-top: 3px;
+	margin-bottom: 30px; 
+	}
+
+.eleven	{
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	margin-top: 3px;
+	margin-bottom: 5px; 
+}
+
+.twelve {
+  color: #8C5C46; /*COLOR*/
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+}
+
+tt	{
+	font-size: 11px;
+	line-height: 20px;
+	margin-bottom: 10px; 
+}
+	
+h1 {
+	text-align: center;
+	font-size: 24px;
+	line-height: 44px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h2 {
+	font-size: 18px;
+	line-height: 40px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h3 {
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h4 {
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+h5 {
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: bold;
+	margin-top: 23px;
+	margin-bottom: 0;
+	color: #5C8DBF; /*COLOR*/
+	}
+h6 {
+	text-align: center;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+img {
+	border: 0;
+}
+.nowrap {
+	white-space: nowrap;
+	font-size: 10px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+a {
+	color:  #5A5899; /*COLOR*/
+	outline: none;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	color:  #995897; /*COLOR*/
+}
+a:active {
+	color:  #D53F11; /*COLOR*/
+}
+a:hover {
+	color: #90E5BB; /*COLOR*/
+}
+a.small	{
+	color:  #5A5899; /*COLOR*/
+	outline: none;
+	font-weight: normal;
+}
+
+#small {
+	margin: 20px 19px 20px 19px; 
+	padding: 10px;
+	border: 5px solid #8BBEC0; /*COLOR*/
+	background: #FFFFFA; /*COLOR*/
+	}
