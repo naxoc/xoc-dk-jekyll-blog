@@ -15,7 +15,6 @@ category:
 <p class="comment-meta">Den <time datetime="2007-04-18T07:28:39+02:00">18. apr 2007 kl.  07:28</time>, sagde <a href="http://netfactory.dk/">Flemming</a>:</p>
 <p>Hvis du er mere til "behagelige film", så er de sidste 20 minutter af Happy Feet lidt i samme genre. :-)</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2007-04-18T08:46:09+02:00">18. apr 2007 kl.  08:46</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Haha! Ja, det har du ret i, Flemming. Den er nu ret sød. Og det er nok nemmere at lære pingviner at danse end at overbevise amerikanerne om at de forurener for meget.</p>

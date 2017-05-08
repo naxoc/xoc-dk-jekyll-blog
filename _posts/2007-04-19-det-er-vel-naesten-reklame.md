@@ -16,7 +16,6 @@ Når jeg skriver at jeg er ret glad for at man kan købe [DRM](http://en.wikiped
 <p>okay, jeg tør næsten ikke. Der skal nok komme en sur kommentar fra en anden, som ikke kan lide æbler, men iTunes tilbyder faktisk snart noget DRM-fri musik - og som ekstra bonus kommer den også i en højere kvalitet.</p>
 <p><a href="http://www.apple.com/pr/library/2007/04/02itunes.html">http://www.apple.com/pr/library/2007/04/02itunes.html</a></p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2007-04-20T08:39:20+02:00">20. apr 2007 kl.  08:39</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
 <p>Det er jo ikke nogen hemmelighed at jeg godt kan lide æbler, så det er gode nyheder!</p>
