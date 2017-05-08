@@ -29,7 +29,7 @@ layout: default
     {% else %}
       <a class="newer-posts disabled">&larr; Ældre posts</a>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page-number">Side {{ paginator.page }} af {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.baseurl }}/">Nyere posts &rarr;</a>
