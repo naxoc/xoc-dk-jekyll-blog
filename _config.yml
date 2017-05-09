@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xoc.dk" # the base hostname & protocol for your site
 paginate: 15 # The number of posts to show per page on your homepage
 
-name: 'Camilla'
+name: 'Camilla Krag Jensen'
 bio: >
   Elsker internettet, men skriver nok ikke så meget på sin blog mere.
 author_image: "/assets/images/camilla.jpg"
