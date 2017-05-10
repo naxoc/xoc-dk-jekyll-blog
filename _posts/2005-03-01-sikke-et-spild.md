@@ -7,7 +7,13 @@ layout: post
 ---
 Jeg har vel efterhånden slået min position som ordkløver fast. Men jeg kan jo ikke dy mig. Tjek lige titlen på denne mail jeg fik fra min uddannelsesinstitution i dag.
 
-![waste](http://www.xoc.dk/images/things/Spild.png?)En spilduddannelse? Kanon! Man får helt lyst til at møde op for at finde ud af hvad sådan en går ud på.
+<amp-img alt="Spilduddannelse"
+  src="{{ site.baseurl }}{% link assets/images/things/spild.png %}"
+  width="355"
+  height="94"
+  layout="responsive"></amp-img>
+En spilduddannelse? Kanon! Man får helt lyst til at møde op for at finde ud af hvad sådan en går ud på.
+
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>

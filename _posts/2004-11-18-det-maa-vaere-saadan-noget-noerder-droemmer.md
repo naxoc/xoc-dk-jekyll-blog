@@ -44,7 +44,6 @@ My name is Robert Dunkle. I recently discovered that 2 of my children, missing s
 Mange Tak<br />
 Bob Dunkle</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2005-03-20T17:49:57+01:00">20. mar 2005 kl.  05:49</time>, sagde Camilla:</p>
 <p>Onkel Dunkel? Er det virkelig dig? Jeg troede sgu' du var en legende fra sangene.</p>
