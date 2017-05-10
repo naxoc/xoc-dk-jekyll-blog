@@ -7,4 +7,9 @@ category:
     - kævl
 
 ---
-Hvad skal man dog vælge i denne brugervenlige automat?? ![Huh?](http://www.xoc.dk/images/photos/bankautomat-719359.jpg)
+Hvad skal man dog vælge i denne brugervenlige automat?? 
+
+<amp-img alt="Bankautomat"
+  src="{{ site.baseurl }}{% link assets/post-images/bankautomat.jpg %}"
+  width="640"
+  height="480"></amp-img>

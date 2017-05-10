@@ -22,8 +22,6 @@ Når nu man har alle disse tilpasningsmuligheder, tænkte jeg at der også kunne
   src="{{ site.baseurl }}{% link assets/post-images/google_language.png %}"
   width="440"
   height="283"
-  layout="responsive">
-
-![google_language.png](/images/google_language.png)
+  layout="responsive"></amp-img>
 
 Der er kun en lille fejl i den plan: Det bliver jo kun mig selv der ser beskederne og jeg laver jo <a title="Er helt klar over at det er spørgsmål om tid før nogen skriver til mig og gør mig opmærksom på stavefejl.">aaaaldrig fejl</a>.

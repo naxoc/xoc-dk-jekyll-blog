@@ -17,4 +17,4 @@ Måske man skulle få lakeret den 10 år gamle sorte låge? Hmm. Nah. Den ser ny
   src="{{ site.baseurl }}{% link assets/post-images/wide_starsnstripes.jpg %}"
   width="440"
   height="300"
-  layout="responsive">
+  layout="responsive"></amp-img>

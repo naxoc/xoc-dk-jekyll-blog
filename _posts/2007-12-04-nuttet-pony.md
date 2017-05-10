@@ -15,7 +15,7 @@ Nu når jeg har genoplivet min weblog skal mit publikum da heller ikke snydes fo
 <amp-img alt="Boxador"
   src="{{ site.baseurl }}{% link assets/post-images/pony.jpg %}"
   width="500"
-  height="375">
+  height="375"></amp-img>
 
 <div class="vintage-comments">
 <h4>Kommentarer </h4>

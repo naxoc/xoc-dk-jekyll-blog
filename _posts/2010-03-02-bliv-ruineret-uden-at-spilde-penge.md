@@ -16,6 +16,6 @@ Hvis det ikke var for maskinoversættelser ville mit liv være langt fattigere.
   src="{{ site.baseurl }}{% link assets/post-images/get_ripped.png %}"
   width="301"
   height="235"
-  layout="responsive">
+  layout="responsive"></amp-img>
 
 Mon det skulle have været ripped? Eller måske bare "mere markeret"?

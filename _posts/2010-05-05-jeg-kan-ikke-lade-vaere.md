@@ -12,4 +12,4 @@ category:
 <amp-img alt="Death date"
   src="{{ site.baseurl }}{% link assets/post-images/deathdate.png %}"
   width="430"
-  height="21">
+  height="21"></amp-img>

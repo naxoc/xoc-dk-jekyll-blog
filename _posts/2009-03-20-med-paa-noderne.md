@@ -16,4 +16,4 @@ Denne mælk kan prale af at være Biodynamisk cafémælk i version 1.0. Software
 <amp-img alt="Cafemælk"
   src="{{ site.baseurl }}{% link assets/post-images/cafemaelk.jpg %}"
   width="402"
-  height="766">
+  height="766"></amp-img>

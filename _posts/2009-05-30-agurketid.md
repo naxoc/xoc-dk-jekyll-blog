@@ -15,4 +15,4 @@ Her på min weblog er det agurketid hele året rundt. Men på det ellers så fin
 <amp-img alt="Agurketid"
   src="{{ site.baseurl }}{% link assets/post-images/agurketid.png %}"
   width="433"
-  height="36">
+  height="36"></amp-img>
