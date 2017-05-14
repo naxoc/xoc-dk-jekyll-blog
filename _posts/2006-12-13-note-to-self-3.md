@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Note to self #3'
 date: '2006-12-13 11:49:00 -0100'
 permalink: /2006/12/13/note-to-self-3

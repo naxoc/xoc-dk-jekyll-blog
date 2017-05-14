@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'På vej til München'
 date: '2004-07-28 01:23:00 -0100'
 permalink: /2004/07/28/Paa-vej-til-Mnchen

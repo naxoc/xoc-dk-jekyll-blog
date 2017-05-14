@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Det må være sådan noget nørder drømmer'
 date: '2004-11-18 01:43:00 -0100'
 permalink: /2004/11/18/Det-maa-vaere-saadan-noget-noerder-droemmer

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Pigen uden ordforråd'
 date: '2007-02-14 01:21:51 -0100'
 permalink: /2007/02/14/pigen-uden-ordforrad

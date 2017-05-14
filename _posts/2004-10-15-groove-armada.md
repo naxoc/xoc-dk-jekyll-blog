@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Groove Armada'
 date: '2004-10-15 11:54:00 -0100'
 permalink: /2004/10/15/Groove-Armada

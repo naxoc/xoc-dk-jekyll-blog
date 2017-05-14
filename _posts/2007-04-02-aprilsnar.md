@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: Aprilsnar
 date: '2007-04-02 02:43:14 -0100'
 permalink: /2007/04/02/aprilsnar

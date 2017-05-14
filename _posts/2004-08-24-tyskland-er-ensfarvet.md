@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Tyskland er ensfarvet'
 date: '2004-08-24 05:04:00 -0100'
 permalink: /2004/08/24/Tyskland-er-ensfarvet

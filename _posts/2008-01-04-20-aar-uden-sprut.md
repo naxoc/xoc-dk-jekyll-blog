@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: '20 år uden sprut?'
 date: '2008-01-04 09:43:21 -0100'
 permalink: /2008/01/04/20-ar-uden-sprut

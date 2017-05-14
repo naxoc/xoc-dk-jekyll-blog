@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Det kalder jeg smidighed'
 date: '2005-12-27 11:23:00 -0100'
 permalink: /2005/12/27/Det-kalder-jeg-smidighed

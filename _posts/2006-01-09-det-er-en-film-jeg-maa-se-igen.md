@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Det er en film jeg må se igen'
 date: '2006-01-09 02:04:00 -0100'
 permalink: /2006/01/09/Det-er-en-film-jeg-maa-se-igen

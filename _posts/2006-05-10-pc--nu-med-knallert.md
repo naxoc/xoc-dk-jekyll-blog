@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'PC- nu med knallert'
 date: '2006-05-10 10:06:00 -0100'
 permalink: /2006/05/10/pc-nu-med-knallert

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Nu er jeg seriøs'
 date: '2004-10-14 01:13:00 -0100'
 permalink: /2004/10/14/Nu-er-jeg-serioes

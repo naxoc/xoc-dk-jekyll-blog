@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Hvad Jonas gør..'
 date: '2005-01-10 10:34:00 -0100'
 permalink: /2005/01/10/Hvad-Jonas-goer

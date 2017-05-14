@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Når man bedre kan se'
 date: '2007-05-10 12:13:00 -0100'
 permalink: /2007/05/10/nar-man-bedre-kan-se

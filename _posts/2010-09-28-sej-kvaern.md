@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Sej kværn'
 date: '2010-09-28 11:10:16 -0100'
 permalink: /2010/09/28/sej-kv-rn

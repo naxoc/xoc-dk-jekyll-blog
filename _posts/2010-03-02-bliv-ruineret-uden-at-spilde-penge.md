@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Bliv ruineret uden at spilde penge'
 date: '2010-03-02 02:58:34 -0100'
 permalink: /2010/03/02/bliv-ruineret-uden-spilde-penge

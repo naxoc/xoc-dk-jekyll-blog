@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'En artsfælle'
 date: '2006-09-28 10:14:00 -0100'
 permalink: /2006/09/28/en-artsfaelle

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Nuttet Pony'
 date: '2007-12-04 03:18:13 -0100'
 permalink: /2007/12/04/nuttet-pony

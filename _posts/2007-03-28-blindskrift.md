@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: Blindskrift
 date: '2007-03-28 08:26:56 -0100'
 permalink: /2007/03/28/blindskrift

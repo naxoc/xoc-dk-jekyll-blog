@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Ferieplanlægning for skaldyr'
 date: '2005-08-03 12:55:00 -0100'
 permalink: /2005/08/03/Ferieplanlaegning-for-skaldyr

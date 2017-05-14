@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Sikke et spild'
 date: '2005-03-01 11:12:00 -0100'
 permalink: /2005/03/01/Sikke-et-spild

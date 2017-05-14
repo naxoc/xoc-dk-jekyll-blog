@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Jeg er ikke død'
 date: '2007-11-22 09:59:49 -0100'
 permalink: /2007/11/22/jeg-er-ikke-død

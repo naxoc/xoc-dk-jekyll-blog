@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Det er åbenbart størrelsen'
 date: '2005-02-21 11:37:00 -0100'
 permalink: /2005/02/21/Det-er-aabenbart-stoerrelsen

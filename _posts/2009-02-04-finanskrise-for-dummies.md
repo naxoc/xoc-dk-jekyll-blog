@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Finanskrise for dummies'
 date: '2009-02-04 12:08:57 -0100'
 permalink: /2009/02/04/finanskrise-dummies

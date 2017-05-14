@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'De er snedige de spammere'
 date: '2006-12-21 03:36:00 -0100'
 permalink: /2006/12/21/de-er-snedige-de-spammere

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Rygestop opdateret'
 date: '2011-07-11 06:57:25 -0100'
 permalink: /2011/07/11/rygestop-opdateret

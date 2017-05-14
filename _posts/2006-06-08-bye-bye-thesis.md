@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Bye bye thesis!'
 date: '2006-06-08 02:26:00 -0100'
 permalink: /2006/06/08/bye-bye-thesis

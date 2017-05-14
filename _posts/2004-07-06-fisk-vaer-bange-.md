@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Fisk vær bange! '
 date: '2004-07-06 12:54:00 -0100'
 permalink: /2004/07/06/Fisk-vaer-bange-

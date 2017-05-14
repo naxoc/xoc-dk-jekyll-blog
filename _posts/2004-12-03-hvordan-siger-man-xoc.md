@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Hvordan siger man xoc?'
 date: '2004-12-03 04:42:00 -0100'
 permalink: /2004/12/03/Hvordan-siger-man-xoc

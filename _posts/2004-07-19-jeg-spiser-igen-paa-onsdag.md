@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Jeg spiser igen på onsdag'
 date: '2004-07-19 01:04:00 -0100'
 permalink: /2004/07/19/Jeg-spiser-igen-paa-onsdag

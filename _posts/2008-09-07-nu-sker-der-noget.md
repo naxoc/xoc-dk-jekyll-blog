@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Nu sker der noget'
 date: '2008-09-07 11:14:23 -0100'
 permalink: /2008/09/07/nu-sker-der-noget

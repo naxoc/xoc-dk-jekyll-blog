@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Nu med Drupal!'
 date: '2009-01-28 07:41:45 -0100'
 permalink: /2009/01/28/nu-med-drupal

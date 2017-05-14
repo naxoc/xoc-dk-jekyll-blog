@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'When Valhalla freezes over'
 date: '2006-04-19 10:48:00 -0100'
 permalink: /2006/04/19/when-valhalla-freezes-over

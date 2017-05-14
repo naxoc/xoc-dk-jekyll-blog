@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Trykt spam'
 date: '2008-01-18 09:34:32 -0100'
 permalink: /2008/01/18/trykt-spam

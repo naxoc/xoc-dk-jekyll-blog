@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Et overflødighedshor'
 date: '2004-11-13 12:00:00 -0100'
 permalink: /-0001/11/30/Et-overfloedighedshor

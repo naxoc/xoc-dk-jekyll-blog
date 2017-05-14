@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Hancock: 25 meter'
 date: '2005-11-09 10:15:00 -0100'
 permalink: /2005/11/09/hancock-25-meter

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Fem hurtige jeg elsker'
 date: '2006-03-16 04:15:00 -0100'
 permalink: /2006/03/16/fem-hurtige-jeg-elsker

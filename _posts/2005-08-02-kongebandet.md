@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: Kongebandet
 date: '2005-08-02 09:55:00 -0100'
 permalink: /2005/08/02/Kongebandet

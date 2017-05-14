@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Så bliver jeg alligevel brun i år'
 date: '2004-08-30 02:51:00 -0100'
 permalink: /2004/08/30/Saa-bliver-jeg-alligevel-brun-i-aar

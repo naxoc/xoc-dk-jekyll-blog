@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Barndomsminder blegner åbenbart'
 date: '2006-10-10 12:21:00 -0100'
 permalink: /2006/10/10/barndomsminder-blegner-aabenbart

@@ -1,4 +1,5 @@
 ---
+no_disqus: true
 title: 'Utjekket, Emmerys'
 date: '2005-10-24 09:03:00 -0100'
 permalink: /2005/10/24/utjekket-emmerys
