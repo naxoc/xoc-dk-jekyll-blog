@@ -8,12 +8,12 @@ category:
     - indernettet
 
 ---
-> **Ambidekstral**[αmbidæg'sdrα'l] adj. _-t, -e,_  
-> **1.** som kan bruge højre og venstre hånd lige godt
+> **Ambidekstral** [αmbidæg'sdrα'l] adj. _-t, -e,_  
+> _som kan bruge højre og venstre hånd lige godt_
 
-Jeg er ikke rigtigt ambidekstral. Langtfra faktisk, jeg har enmistanke om at min venstre arm mest er til pynt. Men når det kommertil musen er jeg glad for at kunne skifte mellem hvilken hånd jegbruger. Det er jo praktisk når man skriver med højre hånd at havemusen i venstre.
+Jeg er ikke rigtigt ambidekstral. Langtfra faktisk, jeg har en mistanke om at min venstre arm mest er til pynt. Men når det kommer til musen er jeg glad for at kunne skifte mellem hvilken hånd jeg bruger. Det er jo praktisk når man skriver med højre hånd at have musen i venstre.
 
-Jeg har længe irriteret mig over at copy-pasteknapperne sidder i denforkerte side når man bruger venstre hånd til musen, men jeg har fundetud af at der er håb for venstrehåndede alligevel. Se selv:
+Jeg har længe irriteret mig over at copy-pasteknapperne sidder i den forkerte side når man bruger venstre hånd til musen, men jeg har fundet ud af at der er håb for venstrehåndede på en PC alligevel. Se selv:
 
 Højre hånd:
 
@@ -22,7 +22,8 @@ Cut : Ctrl +X
 Copy : Ctrl+C
 Paste : Ctrl+V
 Undo : Ctrl+Z
-```Venstre hånd:
+```
+Venstre hånd:
 
  ```
 Cut : Shift-Delete
@@ -30,6 +31,7 @@ Copy : Ctrl-Insert
 Paste : Shift-Insert
 Undo : Alt-Backspace
 ```
+
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
@@ -42,7 +44,6 @@ Forrige tab: (venstre)Ctrl+Shift+tab</p>
 Næste tab: (højre)Ctrl+PageDown<br />
 Forrige tab: (højre)Ctrl+PageUp</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-10-20T11:05:26+02:00">20. okt 2004 kl.  11:05</time>, sagde Camilla:</p>
 <p>Cool. Pudsigt, jeg kendte kun dem til venstre hånd. Gad vide hvordan jeg er gået glip af dem til højre.</p>

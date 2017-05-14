@@ -10,6 +10,7 @@ category:
 ---
 Jeg har lige læst Nynnes dagbog. Og skreget af grin. Den er intet mindre end fantastisk. Jeg hæftede mig særligt ved Nynnes evne til at lave geniale lister over forskellige ting, så det kopierede jeg straks. Her er min liste over de 10 værste scenarier om morgenen. Jeg er ret vild med listekonceptet, så der kommer sikkert flere her på siden.
 
+
 1. At vågne op med hovedet i en pizza. Med gorgonzola.
 2. At vågne op i samme seng som Anja Andersen.
 3. At vågne op og opdage at min garderobe er blevet skiftet ud med Anja Andersens.

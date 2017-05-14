@@ -10,6 +10,7 @@ Jeg har brugt det sidste stykke tid på at lære min by bedre at kende. Nu hvor 
 Ellers har jeg nydt byen med en øl i hånden ved vandet på Christianshavn, på Tippen (i Nordhavn), ved Gl. Strand og hvor jeg ellers lige blev inspireret til at sætte mig ned. Selv Nørrebro, som ellers har været et stort vejarbejde i en evighed, bliver smukkere af solskinnet.
 
 Det er sjovt som man kan bo i en by og hver dag finde nye smukke vinkler på velkendte bygninger. På den måde bliver man jo aldrig træt af at bo her. Jeg ville ikke bytte København væk for nogen som helst anden by. - Det skulle da lige være en hvor solen skinner lidt mere.
+
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
@@ -17,7 +18,6 @@ Det er sjovt som man kan bo i en by og hver dag finde nye smukke vinkler på vel
 <p>([nørd]Der mangler vist lige http:// foran den Supertanker-URL...[/nørd])</p>
 <p>I søndags fik jeg endelig taget mig sammen til at prøve Havnebussen ved Nyhavn. Jeg kan godt forstå at de har skilte med at man bliver nødt til at forlade båden ved endestation, for den kunne man let bruge en del tid på at sejle frem og tilbage og kigge på bygninger... :)</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-08-12T12:30:13+02:00">12. aug 2004 kl.  12:30</time>, sagde Camilla:</p>
 <p>Nerdian slip fra min side at glemme http.. det skal ikke gentage sig :-)</p>
