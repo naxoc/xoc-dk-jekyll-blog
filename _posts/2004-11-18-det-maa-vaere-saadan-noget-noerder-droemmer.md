@@ -7,36 +7,37 @@ layout: post
 ---
 Jeg har meget sjældent mareridt. Jeg kan faktisk nærmest ikke huske hvornår jeg sidst havde et. Lige bortset fra i nat. Man drømmer vel om det der er relevant for ens hverdag, så jeg drømte at jeg var småfuld på en bar. Pludselig begyndte gulvet at ryste og der lød nogle ordenlige brag. Ikke usædvanligt når man opholder sig på en bar, men det tog til i styrke, så folk gik udenfor.
 
-![mandelbrot](http://www.xoc.dk/images/things/mandel.jpg)Alle var på gaden, for på himmelen var der en gigantisk og meget smuk [Mandelbrotfraktal](http://www.fllo.dk/mandelbrot.asp), der lavede en helvedes larm og et jordskælv for hver iteration. Vandet i Københavns havn steg også for hver iteration, så jeg flygtede op i rundetårn. Deroppefra stod jeg så og vidste at jeg snart ville drukne, men jeg måtte bare se på den dødeligt smukke fraktal.
+
+<amp-img alt="Mandelbrotfraktal"
+  src="{{ site.baseurl }}{% link images/things/mandel.jpg %}"
+  width="150"
+  height="108"></amp-img>
+Alle var på gaden, for på himmelen var der en gigantisk og meget smuk [Mandelbrotfraktal](http://www.fllo.dk/mandelbrot.asp), der lavede en helvedes larm og et jordskælv for hver iteration. Vandet i Københavns havn steg også for hver iteration, så jeg flygtede op i rundetårn. Deroppefra stod jeg så og vidste at jeg snart ville drukne, men jeg måtte bare se på den dødeligt smukke fraktal.
+
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
 <p class="comment-meta">Den <time datetime="2004-11-23T02:20:21+01:00">23. nov 2004 kl.  02:20</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>Du tilbyder vel ikke et live feed fra dine drømme? Det lyder som god nørd-underholdning! :)</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-11-23T11:48:33+01:00">23. nov 2004 kl.  11:48</time>, sagde Camilla:</p>
 <p>Det ville være smart. Særligt fordi jeg sjældent selv kan huske hvad jeg drømmer - så kunne jeg jo bare læse mit feed om morgenen.</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-11-23T18:33:32+01:00">23. nov 2004 kl.  06:33</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>Måske du dog ville have interesse i at kunne redigere dit feed først? Vi skulle jo nødigt have en Janet Jackson-skandale!</p>
 <p>Løsningen må så være at indlægge et fem sekunders delay på dine drømme... eller... noget...!</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-11-24T11:50:54+01:00">24. nov 2004 kl.  11:50</time>, sagde Camilla:</p>
 <p>Ja du siger noget... jeg tror slet ikke at jeg lægger mine drømme ud som et feed alligevel. Det jeg drømte i nat vil jeg egentlig gerne have for mig selv.</p>
 <p>Camillogs læsere må nøjes med de kedelige, sexblottede nørdedrømme.</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2004-11-25T11:43:47+01:00">25. nov 2004 kl.  11:43</time>, sagde <a href="http://pe.ter.dk/">Peter Brodersen</a>:</p>
 <p>.. eller også må du bare til at oprette et betalingssite :-D</p>
 </li>
-
 <li>
 <p class="comment-meta">Den <time datetime="2005-03-16T00:05:13+01:00">16. mar 2005 kl.  12:05</time>, sagde Bob:</p>
 <p>Hello,<br />

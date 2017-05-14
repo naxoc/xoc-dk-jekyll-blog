@@ -8,7 +8,7 @@ layout: post
 Jeg har vel efterhånden slået min position som ordkløver fast. Men jeg kan jo ikke dy mig. Tjek lige titlen på denne mail jeg fik fra min uddannelsesinstitution i dag.
 
 <amp-img alt="Spilduddannelse"
-  src="{{ site.baseurl }}{% link assets/images/things/spild.png %}"
+  src="{{ site.baseurl }}{% link images/things/spild.png %}"
   width="355"
   height="94"
   layout="responsive"></amp-img>

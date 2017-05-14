@@ -6,10 +6,19 @@ layout: post
 
 ---
 Min yahoomail siger altså af og til nogle sære ting til mig. Yahoo i Danmark blev lukket i år, så jeg forestiller mig at der ikke er nogen der oversætter tjenesterne til dansk mere. Det er i stigende grad tydeligt. Læs bare denne virusadvarsel:
+<amp-img alt="Netsky"
+  src="{{ site.baseurl }}{% link images/things/netsky.png %}"
+  width="400"
+  height="78"></amp-img>
+  
+Også når man lige logger ind bliver man mødt af en tvivlsom sætning som denne:
+<amp-img alt="Velkommen"
+  src="{{ site.baseurl }}{% link images/things/velkommen.png %}"
+  width="244"
+  height="67"></amp-img>
 
-![netsky](http://www.xoc.dk/images/things/netsky.png)Også når man lige logger ind bliver man mødt af en tvivlsom sætning som denne:
+Det er nu meget sødt synes jeg. Jeg kommer til at tænke på the kartoffelwoman og støvledance. Og så kan Yahoo også slippe afsted med en hel del i min bog. Jeg synes det er en god gratismail - i modsætning til hotmail.
 
-![vælkommen](http://www.xoc.dk/images/things/velkommen.png)Det er nu meget sødt synes jeg. Jeg kommer til at tænke på the kartoffelwoman og støvledance. Og så kan Yahoo også slippe afsted med en hel del i min bog. Jeg synes det er en god gratismail - i modsætning til hotmail.
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
