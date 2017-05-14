@@ -18,5 +18,6 @@ layout: default
       <a class="post-category-link" href="{{ site.baseurl }}/sektion/{{ category | slugify }}">{{ category }}</a>
       {% endfor %}
     </footer>
+    {% include disqus.html %}
   </article>
 </main>

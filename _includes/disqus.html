@@ -1,0 +1,11 @@
+{% if page.disqus_id %}
+<div class="disqus-comments">
+  <amp-iframe width=600 height=140
+              layout="responsive"
+              sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+              resizable
+              src="https://dskklo2e1eszd.cloudfront.net/index.html?shortname=xocdk&fontBodyFamily=sans-serif&fontLinkColor=03A9F4&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}&identifier={{ page.disqus_id }}">
+    <div overflow tabindex=0 role=button aria-label="Disqus kommentarer">Disqus kommentarer</div><!-- Required by AMP as a fallback as pointed out here: https://github.com/disqus/disqus-install-examples/issues/3#issue-177942264 -->
+  </amp-iframe>
+</div>
+{% endif %}
