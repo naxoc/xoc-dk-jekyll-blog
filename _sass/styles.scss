@@ -2,20 +2,6 @@
 
 $grey-color:       #828282;
 
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
 amp-img {
   background-color: grey;
 }
@@ -99,6 +85,12 @@ body {
   position: relative;
   padding: 0;
   @include box-sizing(border-box);
+}
+
+.fancy-hover:hover {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #bf8fcc);
 }
 
 .blog-title {

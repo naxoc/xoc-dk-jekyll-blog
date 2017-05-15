@@ -1,11 +1,3 @@
-.icon > svg {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  vertical-align: middle; }
-  .icon > svg path {
-    fill: #828282; }
-
 amp-img {
   background-color: grey; }
 
@@ -68,6 +60,11 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+
+.fancy-hover:hover {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #bf8fcc); }
 
 .blog-title {
   margin-bottom: 8px;
