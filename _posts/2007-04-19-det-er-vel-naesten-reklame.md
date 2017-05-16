@@ -10,6 +10,7 @@ category:
 
 ---
 Når jeg skriver at jeg er ret glad for at man kan købe [DRM](http://en.wikipedia.org/wiki/Digital_Rights_Management)-fri musik ovre på [cdon.dk](http://www.cdon.dk/). Men når nu nørderiet har nået nye højder og jeg har installeret [Kubuntu](http://www.kubuntu.org/) på arbejde, så går den jo ikke med iTunes stores låste musikfiler. Så jeg har lige købt [Super Discount 2](http://www.pias.com/superdiscount2/). Glæder mig til at høre om den er lige så fantastisk som 1'eren.
+
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
