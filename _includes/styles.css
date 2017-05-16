@@ -65,15 +65,15 @@ body {
   0% {
     background-position: 0 50%; }
   50% {
-    background-position: 33% 50%; }
+    background-position: 100% 50%; }
   100% {
-    background-position: 66% 50%; } }
+    background-position: 0 50%; } }
 .fancy-hover:hover {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #bf8fcc);
+  background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #7E15EE);
   background-size: 400% 400%;
-  animation: Gradient 3s infinite; }
+  animation: Gradient 5s infinite; }
 
 .blog-title {
   margin-bottom: 8px;
@@ -319,3 +319,6 @@ article {
 
 .pagination .disabled {
   opacity: 0; }
+
+sub, sup {
+  font-size: 14px; }
