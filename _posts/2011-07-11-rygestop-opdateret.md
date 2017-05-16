@@ -9,7 +9,7 @@ category:
 tags:
     - rygestop
     - rygning
-disqus_id: 1
+redirect_from: /node/229
 ---
 Jeg ryger stadig ikke!
 

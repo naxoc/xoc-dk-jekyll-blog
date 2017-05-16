@@ -33,8 +33,12 @@ exclude: [older, publish.sh]
 kramdown:
   parse_block_html: true
 
+permalink: /:year/:month/:day/:title
+
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
+
 
 # Sass
 sass:
