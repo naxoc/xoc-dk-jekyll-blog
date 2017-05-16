@@ -1,5 +1,7 @@
 #!/bin/bash
 
+bundle exec jekyll build
+
 # Add a version file to the "deployment".
 echo "Deployed: $(date)
 $(git log -1 --pretty=format:'%s (%ci)' --abbrev-commit)
