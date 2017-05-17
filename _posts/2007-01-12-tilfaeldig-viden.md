@@ -56,13 +56,13 @@ category:
 <li>
 <p class="comment-meta">Den <time datetime="2007-03-02T16:53:23+01:00">2. mar 2007 kl.  04:53</time>, sagde Sofie:</p>
 <p>Hey<br />
-Nu hvor du siger lifehack er der kommet et udmærket website <a href="http://www.lifehacker.dk">www.lifehacker.dk</a>, der koncentrerer sig om it mæssige lifehacks. Her fandt jeg forleden en go artikel om flere ekstension til firefox som jeg ikke havde , som sgu har gjort mit øvrige arbejde lidt lettere. Prøv at se den side<br />
+Nu hvor du siger lifehack er der kommet et udmærket website <a href="http://www.lifehacker.dk">www.lifehacker.dk</a>, der koncentrerer sig om it mæssige lifehacks. Her fandt jeg forleden en go artikel om flere ekstension til firefox som jeg ikke havde , som sgu har gjort mit øvrige arbejde lidt lettere. Prøv at se den side.
 //Sofie</p>
 </li>
 
 <li>
 <p class="comment-meta">Den <time datetime="2007-03-05T08:39:59+01:00">5. mar 2007 kl.  08:39</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
-<p>Tak Sofie, det er da fedt at der er kommet en dansk lifehackerside. Den ser god ud. Jeg skal bare lige prøve at overse at vedkommender der skriver på siden kalder internettet for "webben".. Ikke et ord der står på favoritlisten.</p>
+<p>Tak Sofie, det er da fedt at der er kommet en dansk lifehackerside. Den ser god ud. Jeg skal bare lige prøve at overse at vedkommen der der skriver på siden kalder internettet for "webben".. Ikke et ord der står på favoritlisten.</p>
 </li>
 </ul>
 </div>
