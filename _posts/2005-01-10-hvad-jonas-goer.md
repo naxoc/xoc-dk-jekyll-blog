@@ -12,7 +12,7 @@ Nu har jeg så igen snuset rundt på Jonas' side, der i øvrigt har fået et nyt
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time datetime="2005-01-11T17:51:15+01:00">11. jan 2005 kl.  05:51</time>, sagde <a href="www.butterlabel.com">luxuryluke</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-01-11T17:51:15+01:00">11. jan 2005 kl.  05:51</time>, sagde <a href=http://"www.butterlabel.com">luxuryluke</a>:</p>
 <p>I don't understand enough dansk to respond to your article, though i've been trying for a few years now. I have spent some time there, but now i live in long beach, ca.</p>
 <p>I saw you visited my audioscrobbler profile (<a href="http://www.audioscrobbler.com/user/luxuryluke/">http://www.audioscrobbler.com/user/luxuryluke/</a>) i hope you found some new music that you like. I've been using the service for a few months now and i love it! -luke</p>
 </li>

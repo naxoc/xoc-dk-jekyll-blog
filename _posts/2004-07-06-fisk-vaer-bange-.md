@@ -12,7 +12,7 @@ Min nye grille er at fiske. Det er da skruphyggeligt at kaste sin krog langt udi
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time datetime="2005-08-16T10:47:04+02:00">16. aug 2005 kl.  10:47</time>, sagde <a href="www.freeborder.dk">sigve</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-08-16T10:47:04+02:00">16. aug 2005 kl.  10:47</time>, sagde <a href="http://www.freeborder.dk">sigve</a>:</p>
 <p>søkte på freeborder.. så kom eg hit.<br />
 min side 3w.freeborder.dk  er nettopp oppe å kjøre.<br />
 Den spare grisen på smøger var meget meget godt påfunn.. skulle håpe mange andre fulgte etter.</p>

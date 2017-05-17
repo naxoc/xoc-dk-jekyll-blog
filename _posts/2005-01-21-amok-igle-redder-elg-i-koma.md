@@ -11,11 +11,11 @@ Palindromer er lidt fascinerende. Særligt hvis man kan fletter ordet _elg_ ind 
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time datetime="2005-02-17T11:18:57+01:00">17. feb 2005 kl.  11:18</time>, sagde <a href="www.sanneharder.dk">Sanne</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-02-17T11:18:57+01:00">17. feb 2005 kl.  11:18</time>, sagde <a href="http://www.sanneharder.dk">Sanne</a>:</p>
 <p>Jeg tør ikke tænke på, hvor lang tid du må have brugt på at tænke over de elg-palindromer :P</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2005-05-19T07:00:16+02:00">19. maj 2005 kl.  07:00</time>, sagde <a href="undr.blogspot.com">AnetQ</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-05-19T07:00:16+02:00">19. maj 2005 kl.  07:00</time>, sagde <a href="http://undr.blogspot.com">AnetQ</a>:</p>
 <p>Hey, men det er et fedt palindrom!</p>
 </li>
 </ul>

@@ -12,7 +12,7 @@ Jeg må ellers med skam indrømme at jeg ikke har været til koncert i.. øh - m
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time datetime="2005-01-11T17:54:43+01:00">11. jan 2005 kl.  05:54</time>, sagde <a href="www.butterlabel.com">luxuryluke</a>:</p>
+<p class="comment-meta">Den <time datetime="2005-01-11T17:54:43+01:00">11. jan 2005 kl.  05:54</time>, sagde <a href="http://www.butterlabel.com">luxuryluke</a>:</p>
 <p>i LOVE groove armada!!! as you can see on my audioscrobbler page. The best song they've ever done is "AT THE RIVER", followed by "INSIDE MY MIND (BLUE SKIES)".</p>
 <p>Enjoy!</p>
 </li>
