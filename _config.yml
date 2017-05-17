@@ -38,6 +38,9 @@ permalink: /:year/:month/:day/:title
 gems:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+
 
 
 # Sass
