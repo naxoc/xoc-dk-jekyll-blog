@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Det er vel næsten reklame'
 date: '2007-04-19 02:11:04 -0100'
-permalink: /2007/04/19/det-er-vel-næsten-reklame
+permalink: /2007/04/19/det-er-vel-næsten-reklame/
 layout: post
 category:
     - indernettet

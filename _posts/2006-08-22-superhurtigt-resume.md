@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Superhurtigt resume'
 date: '2006-08-22 12:00:00 -0100'
-permalink: /2006/08/22/superhurtigt-resume
+permalink: /2006/08/22/superhurtigt-resume/
 layout: post
 category:
     - I det hele taget

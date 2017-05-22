@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Mod lysere tider'
 date: '2006-12-22 09:57:00 -0100'
-permalink: /2006/12/22/mod-lysere-tider
+permalink: /2006/12/22/mod-lysere-tider/
 layout: post
 category:
     - livet

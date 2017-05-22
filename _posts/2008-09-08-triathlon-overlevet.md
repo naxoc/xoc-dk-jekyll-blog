@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Triathlon overlevet'
 date: '2008-09-08 08:59:44 -0100'
-permalink: /2008/09/08/triathlon-overlevet
+permalink: /2008/09/08/triathlon-overlevet/
 layout: post
 category:
     - livet

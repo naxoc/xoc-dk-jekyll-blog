@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Amok-igle redder elg i koma'
 date: '2005-01-21 11:06:00 -0100'
-permalink: /2005/01/21/Amok-igle-redder-elg-i-koma
+permalink: /2005/01/21/Amok-igle-redder-elg-i-koma/
 layout: post
 
 ---

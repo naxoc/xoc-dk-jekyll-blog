@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Motion og arbejde'
 date: '2008-03-12 04:38:35 -0100'
-permalink: /2008/03/12/motion-og-arbejde
+permalink: /2008/03/12/motion-og-arbejde/
 layout: post
 category:
     - indernettet

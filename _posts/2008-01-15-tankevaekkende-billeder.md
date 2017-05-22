@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Tankevækkende billeder'
 date: '2008-01-15 11:24:56 -0100'
-permalink: /2008/01/15/tankevækkende-billeder
+permalink: /2008/01/15/tankevækkende-billeder/
 layout: post
 category:
     - I det hele taget

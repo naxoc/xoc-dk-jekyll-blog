@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Kaffe lige om hjørnet'
 date: '2010-10-01 10:04:26 -0100'
-permalink: /2010/10/01/kaffe-lige-om-hj-rnet
+permalink: /2010/10/01/kaffe-lige-om-hj-rnet/
 layout: post
 category:
     - I det hele taget

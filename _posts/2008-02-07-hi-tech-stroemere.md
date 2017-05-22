@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Hi-tech strømere'
 date: '2008-02-07 05:26:09 -0100'
-permalink: /2008/02/07/hi-tech-strømere
+permalink: /2008/02/07/hi-tech-strømere/
 layout: post
 category:
     - indernettet

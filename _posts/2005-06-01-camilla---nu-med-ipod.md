@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Camilla - Nu med iPod!'
 date: '2005-06-01 11:54:00 -0100'
-permalink: /2005/06/01/camilla-nu-med-ipod
+permalink: /2005/06/01/camilla-nu-med-ipod/
 layout: post
 category:
     - nørderi

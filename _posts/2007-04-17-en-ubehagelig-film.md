@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'En ubehagelig film'
 date: '2007-04-17 09:46:10 -0100'
-permalink: /2007/04/17/en-ubehagelig-film
+permalink: /2007/04/17/en-ubehagelig-film/
 layout: post
 category:
     - I det hele taget

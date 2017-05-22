@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Slemme morgenscenarier'
 date: '2004-11-12 09:25:00 -0100'
-permalink: /2004/11/12/slemme-morgenscenarier
+permalink: /2004/11/12/slemme-morgenscenarier/
 layout: post
 category:
     - kævl

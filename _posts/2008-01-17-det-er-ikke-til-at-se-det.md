@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Det er ikke til at se det....'
 date: '2008-01-17 05:17:06 -0100'
-permalink: /2008/01/17/det-er-ikke-til-se-det
+permalink: /2008/01/17/det-er-ikke-til-se-det/
 layout: post
 category:
     - I det hele taget

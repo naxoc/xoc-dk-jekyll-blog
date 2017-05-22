@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Seriøs information'
 date: '2007-01-10 11:20:00 -0100'
-permalink: /2007/01/10/serioes-information
+permalink: /2007/01/10/serioes-information/
 layout: post
 category:
     - livet

@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Copenhagen Jazzfestival'
 date: '2004-07-02 02:12:00 -0100'
-permalink: /2004/07/02/copenhagen-jazzfestival
+permalink: /2004/07/02/copenhagen-jazzfestival/
 layout: post
 category:
     - livet

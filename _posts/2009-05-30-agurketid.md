@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Agurketid?'
 date: '2009-05-30 03:20:25 -0100'
-permalink: /2009/05/30/agurketid
+permalink: /2009/05/30/agurketid/
 layout: post
 category:
     - kævl

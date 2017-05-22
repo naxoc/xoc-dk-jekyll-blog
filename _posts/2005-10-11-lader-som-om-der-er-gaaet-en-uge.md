@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Lader som om der er gået en uge'
 date: '2005-10-11 09:58:00 -0100'
-permalink: /2005/10/11/lader-som-om-der-er-gaaet-en-uge
+permalink: /2005/10/11/lader-som-om-der-er-gaaet-en-uge/
 layout: post
 category:
     - I det hele taget

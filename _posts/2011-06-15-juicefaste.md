@@ -2,7 +2,7 @@
 no_disqus: true
 title: Juicefaste
 date: '2011-06-15 09:33:28 -0100'
-permalink: /2011/06/15/juicefaste
+permalink: /2011/06/15/juicefaste/
 layout: post
 category:
     - livet

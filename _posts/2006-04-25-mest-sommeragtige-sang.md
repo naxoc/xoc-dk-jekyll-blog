@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Mest sommeragtige sang'
 date: '2006-04-25 04:22:00 -0100'
-permalink: /2006/04/25/mest-sommeragtige-sang
+permalink: /2006/04/25/mest-sommeragtige-sang/
 layout: post
 category:
     - livet

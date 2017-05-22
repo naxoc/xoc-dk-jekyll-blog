@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Note to self #1'
 date: '2006-11-30 12:00:00 -0100'
-permalink: /-0001/11/30/Note-to-self-1
+permalink: /-0001/11/30/Note-to-self-1/
 layout: post
 
 ---

@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'How to copy paste'
 date: '2009-02-06 01:48:14 -0100'
-permalink: /2009/02/06/how-copy-paste
+permalink: /2009/02/06/how-copy-paste/
 layout: post
 category:
     - indernettet

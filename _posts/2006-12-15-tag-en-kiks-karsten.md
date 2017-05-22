@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Tag en kiks, Karsten'
 date: '2006-12-15 02:38:00 -0100'
-permalink: /2006/12/15/tag-en-kiks-karsten
+permalink: /2006/12/15/tag-en-kiks-karsten/
 layout: post
 category:
     - kævl

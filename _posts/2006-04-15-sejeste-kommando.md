@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Sejeste kommando'
 date: '2006-04-15 02:53:00 -0100'
-permalink: /2006/04/15/sejeste-kommando
+permalink: /2006/04/15/sejeste-kommando/
 layout: post
 category:
     - nørderi

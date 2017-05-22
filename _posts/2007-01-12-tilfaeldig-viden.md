@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Tilfældig viden'
 date: '2007-01-12 11:23:00 -0100'
-permalink: /2007/01/12/tilfaeldig-viden
+permalink: /2007/01/12/tilfaeldig-viden/
 layout: post
 category:
     - indernettet

@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Helt ærligt'
 date: '2004-07-13 01:03:00 -0100'
-permalink: /2004/07/13/Helt-aerligt
+permalink: /2004/07/13/Helt-aerligt/
 layout: post
 
 ---

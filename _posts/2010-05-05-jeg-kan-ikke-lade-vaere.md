@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Jeg kan ikke lade være'
 date: '2010-05-05 12:51:41 -0100'
-permalink: /2010/05/05/jeg-kan-ikke-lade-v-re
+permalink: /2010/05/05/jeg-kan-ikke-lade-v-re/
 layout: post
 category:
     - indernettet

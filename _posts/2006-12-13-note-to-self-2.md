@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Note to self #2'
 date: '2006-12-13 12:00:00 -0100'
-permalink: /2006/12/13/note-to-self-2
+permalink: /2006/12/13/note-to-self-2/
 layout: post
 category:
     - indernettet

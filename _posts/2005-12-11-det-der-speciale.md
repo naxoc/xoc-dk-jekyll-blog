@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Det der speciale'
 date: '2005-12-11 11:09:00 -0100'
-permalink: /2005/12/11/det-der-speciale
+permalink: /2005/12/11/det-der-speciale/
 layout: post
 category:
     - I det hele taget

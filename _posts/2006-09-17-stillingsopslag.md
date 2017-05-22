@@ -2,7 +2,7 @@
 no_disqus: true
 title: Stillingsopslag
 date: '2006-09-17 04:20:00 -0100'
-permalink: /2006/09/17/stillingsopslag
+permalink: /2006/09/17/stillingsopslag/
 layout: post
 category:
     - livet

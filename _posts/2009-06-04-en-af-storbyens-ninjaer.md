@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'En af storbyens ninjaer'
 date: '2009-06-04 02:41:47 -0100'
-permalink: /2009/06/04/en-af-storbyens-ninjaer
+permalink: /2009/06/04/en-af-storbyens-ninjaer/
 layout: post
 category:
     - I det hele taget

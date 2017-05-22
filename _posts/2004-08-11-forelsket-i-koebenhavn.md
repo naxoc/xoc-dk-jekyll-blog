@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Forelsket i København'
 date: '2004-08-11 07:04:00 -0100'
-permalink: /2004/08/11/Forelsket-i-Koebenhavn
+permalink: /2004/08/11/Forelsket-i-Koebenhavn/
 layout: post
 
 ---

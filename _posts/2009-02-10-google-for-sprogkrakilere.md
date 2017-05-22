@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Google for sprogkrakilere'
 date: '2009-02-10 08:25:21 -0100'
-permalink: /2009/02/10/google-sprogkrakilere
+permalink: /2009/02/10/google-sprogkrakilere/
 layout: post
 category:
     - indernettet

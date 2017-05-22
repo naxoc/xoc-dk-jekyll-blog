@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Første post på dansk!'
 date: '2004-06-29 01:15:00 -0100'
-permalink: /2004/06/29/foerste-post-paa-dansk
+permalink: /2004/06/29/foerste-post-paa-dansk/
 layout: post
 category:
     - I det hele taget

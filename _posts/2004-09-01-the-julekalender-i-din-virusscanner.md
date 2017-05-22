@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'The julekalender i din virusscanner'
 date: '2004-09-01 02:49:00 -0100'
-permalink: /2004/09/01/The-julekalender-i-din-virusscanner
+permalink: /2004/09/01/The-julekalender-i-din-virusscanner/
 layout: post
 
 ---

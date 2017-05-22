@@ -2,7 +2,7 @@
 no_disqus: true
 title: Lortesommer!!
 date: '2004-07-11 11:48:00 -0100'
-permalink: /2004/07/11/Lortesommer
+permalink: /2004/07/11/Lortesommer/
 layout: post
 
 ---

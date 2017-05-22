@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Madonna er Jesus'' mor'
 date: '2006-01-05 12:00:00 -0100'
-permalink: /-0001/11/30/Madonna-er-Jesus-mor
+permalink: /-0001/11/30/Madonna-er-Jesus-mor/
 layout: post
 
 ---

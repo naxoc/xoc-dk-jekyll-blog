@@ -2,7 +2,7 @@
 no_disqus: true
 title: Affekteret
 date: '2006-12-14 02:27:00 -0100'
-permalink: /2006/12/14/affekteret
+permalink: /2006/12/14/affekteret/
 layout: post
 category:
     - kævl

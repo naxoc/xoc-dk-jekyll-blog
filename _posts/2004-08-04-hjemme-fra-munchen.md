@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Hjemme fra München'
 date: '2004-08-04 05:12:00 -0100'
-permalink: /2004/08/04/Hjemme-fra-Mnchen
+permalink: /2004/08/04/Hjemme-fra-Mnchen/
 layout: post
 
 ---

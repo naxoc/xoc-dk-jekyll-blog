@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'En mærkelig dag for mine ører'
 date: '2007-05-24 01:05:26 -0100'
-permalink: /2007/05/24/en-mærkelig-dag-for-mine-ører
+permalink: /2007/05/24/en-mærkelig-dag-for-mine-ører/
 layout: post
 category:
     - indernettet

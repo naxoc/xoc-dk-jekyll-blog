@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Pfffts, siger jeg bare'
 date: '2008-06-09 01:25:46 -0100'
-permalink: /2008/06/09/pfffts-siger-jeg-bare
+permalink: /2008/06/09/pfffts-siger-jeg-bare/
 layout: post
 category:
     - I det hele taget

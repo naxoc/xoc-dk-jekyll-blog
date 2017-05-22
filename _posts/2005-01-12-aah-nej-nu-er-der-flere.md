@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Åh, nej. Nu er der flere'
 date: '2005-01-12 01:15:00 -0100'
-permalink: /2005/01/12/h-nej-Nu-er-der-flere
+permalink: /2005/01/12/h-nej-Nu-er-der-flere/
 layout: post
 
 ---

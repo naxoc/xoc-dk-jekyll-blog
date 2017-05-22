@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Guitar Hero'
 date: '2008-05-15 06:40:40 -0100'
-permalink: /2008/05/15/guitar-hero
+permalink: /2008/05/15/guitar-hero/
 layout: post
 category:
     - I det hele taget

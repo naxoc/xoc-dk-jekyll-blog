@@ -2,7 +2,7 @@
 no_disqus: true
 title: 'Like no other'
 date: '2006-04-04 10:57:00 -0100'
-permalink: /2006/04/04/Like-no-other
+permalink: /2006/04/04/Like-no-other/
 layout: post
 
 ---
