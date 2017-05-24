@@ -68,12 +68,12 @@ body {
     background-position: 100% 50%; }
   100% {
     background-position: 0 50%; } }
-.fancy-hover:hover {
+.fanciness, .fanciness-hover:hover {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #7E15EE);
   background-size: 400% 400%;
-  animation: Gradient 5s infinite; }
+  animation: Gradient 10s infinite; }
 
 .blog-title {
   margin-bottom: 10px;
@@ -110,35 +110,28 @@ article {
   border-bottom: 1px solid #f2f2f0; }
   article:last-child {
     border-bottom: 0px; }
-  article .post-title {
-    letter-spacing: -0.02em;
-    font-weight: 700;
-    font-style: normal;
-    display: block;
-    font-size: 36px;
-    line-height: 1.15;
-    margin: 0 0; }
-    article .post-title a {
-      text-decoration: none;
-      color: #333332; }
-      article .post-title a:hover {
-        text-decoration: none; }
-  article .post-excerpt {
-    letter-spacing: -0.02em;
-    font-weight: 300;
-    font-style: normal;
-    font-size: 20px;
-    line-height: 1.59;
-    color: #666665; }
-  article .post-meta {
-    font-size: 14px;
-    color: #b3b3b1;
-    line-height: 30px; }
-    article .post-meta a {
-      color: #b3b3b1;
+
+.post-title {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  font-style: normal;
+  display: block;
+  font-size: 36px;
+  line-height: 1.15;
+  margin: 0 0; }
+  .post-title a {
+    text-decoration: none;
+    color: #333332; }
+    .post-title a:hover {
       text-decoration: none; }
-      article .post-meta a:hover {
-        text-decoration: underline; }
+
+.post-excerpt {
+  letter-spacing: -0.02em;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 1.59;
+  color: #666665; }
 
 .post-date {
   font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif;
@@ -199,9 +192,18 @@ article {
     .site-footer a:hover {
       color: #333333; }
 
-.post .post-meta {
-  font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
-.post .post-title {
+.post-meta {
+  font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #b3b3b1;
+  line-height: 30px; }
+  .post-meta a {
+    color: #b3b3b1;
+    text-decoration: none; }
+    .post-meta a:hover {
+      text-decoration: underline; }
+
+.post-title {
   font-weight: 700;
   font-style: normal;
   letter-spacing: -0.04em;
@@ -209,38 +211,33 @@ article {
   line-height: 1.1;
   color: #333332;
   margin-bottom: 50px; }
-.post .post-content {
+
+.post-content {
   width: 100%;
   font-family: Georgia, Cambria, "Times New Roman", Times, "Lora", serif;
   color: #333333; }
-  .post .post-content h1, .post .post-content h2, .post .post-content h3 {
+  .post-content h1, .post-content h2, .post-content h3 {
     font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
-  .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6 {
+  .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
     letter-spacing: -0.02em;
     font-weight: 700;
     font-style: normal;
     font-size: 24px;
     line-height: 1.3;
     margin-top: 50px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
     font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
-  .post .post-content h3 {
+  .post-content h3 {
     font-size: 36px; }
-  .post .post-content h2, .post .post-content h1 {
+  .post-content h2, .post-content h1 {
     letter-spacing: -0.02em;
     font-weight: 700;
     font-style: normal;
     font-size: 42px;
     line-height: 1.2;
     margin-top: 50px;
-    margin-bottom: 0px; }
-  .post .post-content table {
-    border-collapse: collapse; }
-  .post .post-content table, .post .post-content th, .post .post-content td {
-    border: 1px solid black;
-    padding: 5px;
-    text-align: left; }
-  .post .post-content p {
+    margin-bottom: 0; }
+  .post-content p {
     font-weight: 400;
     font-style: normal;
     font-size: 22px;
@@ -252,15 +249,20 @@ article {
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto; }
-  .post .post-content a {
+  .post-content .image-caption {
+    margin-top: 5px;
+    font-size: 13px;
+    font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif;
+    color: #b3b3b1; }
+  .post-content a {
     color: #333333;
     text-decoration: underline; }
-  .post .post-content amp-img, .post .post-content amp-youtube {
+  .post-content amp-img, .post-content amp-youtube {
     margin-top: 30px; }
-  .post .post-content figure {
+  .post-content figure {
     margin: 0;
     padding: 0 0 30px; }
-  .post .post-content figcaption {
+  .post-content figcaption {
     font-weight: 400;
     font-style: italic;
     font-size: 16px;
@@ -269,30 +271,29 @@ article {
     outline: 0;
     z-index: 300;
     text-align: center; }
-  .post .post-content hr {
-    border: 0;
+  .post-content hr {
     padding: 0;
     display: block;
     width: 15%;
     margin: 30px auto;
-    border: 0px solid #dddddd;
+    border: 0 solid #dddddd;
     border-top: 1px solid #dddddd; }
-  .post .post-content blockquote {
+  .post-content blockquote {
     margin: 0 0 30px;
     margin-left: -26px;
     border-left: 3px solid #57ad68;
     padding-left: 20px; }
-    .post .post-content blockquote p {
+    .post-content blockquote p {
       letter-spacing: 0.01rem;
       font-weight: 400;
       mborder-left: 3px solid #57ad68;
       mpadding-left: 20px;
       mmargin-left: -26px;
       padding-bottom: 3px; }
-  .post .post-content ul, .post .post-content ol {
+  .post-content ul, .post-content ol {
     padding: 0 0 30px;
     margin: 0; }
-  .post .post-content li {
+  .post-content li {
     padding: 0;
     font-weight: 400;
     font-style: normal;
@@ -301,9 +302,9 @@ article {
     margin-left: 30px;
     margin-bottom: 12px;
     padding-top: 2px; }
-    .post .post-content li p {
+    .post-content li p {
       padding: 0 0 1.618rem; }
-  .post .post-content ol li {
+  .post-content ol li {
     list-style-type: decimal; }
 
 .vintage-comments .vintage-comments-list li {
@@ -322,3 +323,19 @@ article {
 
 sub, sup {
   font-size: 14px; }
+
+.image-centered {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.image-centered__inner {
+  margin: 0; }
+  .image-centered__inner .image-caption {
+    text-align: center; }
+
+.image-centered-wide {
+  width: 500px; }
+  @media only screen and (max-width: 500px) {
+    .image-centered-wide {
+      width: 250px; } }
