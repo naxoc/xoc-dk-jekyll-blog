@@ -313,7 +313,10 @@ article {
     margin-top: 5px;
     font-size: 13px;
     font-family: $font-sans;
-    color: $light-grey;
+    color: $grey-color;
+    a {
+      color: $grey-color;
+    }
   }
   a {
     color: #333333;

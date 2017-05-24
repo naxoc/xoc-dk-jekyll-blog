@@ -253,7 +253,9 @@ article {
     margin-top: 5px;
     font-size: 13px;
     font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif;
-    color: #b3b3b1; }
+    color: #828282; }
+    .post-content .image-caption a {
+      color: #828282; }
   .post-content a {
     color: #333333;
     text-decoration: underline; }
