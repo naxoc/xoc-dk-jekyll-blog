@@ -102,9 +102,6 @@ body {
   background-size: 400% 400%;
   animation: Gradient 10s infinite;
 }
-.fanciness-hover:hover {
-  @extend .fanciness;
-}
 
 .blog-title {
   margin-bottom: 10px;

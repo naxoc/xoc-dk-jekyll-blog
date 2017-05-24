@@ -68,7 +68,7 @@ body {
     background-position: 100% 50%; }
   100% {
     background-position: 0 50%; } }
-.fanciness, .fanciness-hover:hover {
+.fanciness {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-image: linear-gradient(124deg, #ff6698, #ffb366, #ffff66, #98ff66, #6698ff, #7E15EE);
