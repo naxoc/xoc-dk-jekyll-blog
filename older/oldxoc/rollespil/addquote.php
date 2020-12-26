@@ -1,6 +1,6 @@
 <?php
 require("../skabelon.php");
-top("Tilføj et citat");
+top("TilfÃ¸j et citat");
 ?>
 <h1>
 	<img src="../images/add-logo.gif" alt="AD&amp;D"><br />
@@ -12,8 +12,8 @@ navigator();
 
 <p>
 <br />
-Her kan du indtaste citater fra kampagnen. Det er kun de særligt indviede i De Tres Broderskab,
-der har knækket det tophemmelige kodeord. Det kostede Fru McMenny nogen sved på panden og 
+Her kan du indtaste citater fra kampagnen. Det er kun de sÃ¦rligt indviede i De Tres Broderskab,
+der har knÃ¦kket det tophemmelige kodeord. Det kostede Fru McMenny nogen sved pÃ¥ panden og 
 Wolfram er fuld af undren. Sullyn mener at kodeordet muligvis er "eurghu".
 </p>
 
@@ -26,7 +26,7 @@ Den citeredes navn:<br />
 <input type="text" size="30" name="name"><br />
 Dit kodeord:<br />
 <input type="password" size="30" name="password"><br />
-<input type="submit" name="submit" value="Tilføj citat">
+<input type="submit" name="submit" value="TilfÃ¸j citat">
 </p>
 </form>
 

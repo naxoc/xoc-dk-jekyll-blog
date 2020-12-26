@@ -13,24 +13,24 @@ navigator();
 	<i> Xoc? Sok? Chok? Nummer sjok? </i><br />
 </p>
 <p>
-	Jeg vedligeholder ikke længere denne side, men siden med rollespilscitater opdateres 
+	Jeg vedligeholder ikke lÃ¦ngere denne side, men siden med rollespilscitater opdateres 
 	af og til af spillerne i kampagnen.
 </p>
 <p>	
-	Xoc betyder "haj" på yukatekisk maya. Jeg mente det var et godt domænenavn til mine 
-	sider, da mit tandsæt godt kan have en del til fælles med visse medlemmer af haj-
-	familien. Bortset fra denne forbindelse til hajer bryder jeg mig ikke særligt om dem og 
-	har intet særligt ønske om at møde sådan en (det skulle da lige være på en 
+	Xoc betyder "haj" pÃ¥ yukatekisk maya. Jeg mente det var et godt domÃ¦nenavn til mine 
+	sider, da mit tandsÃ¦t godt kan have en del til fÃ¦lles med visse medlemmer af haj-
+	familien. Bortset fra denne forbindelse til hajer bryder jeg mig ikke sÃ¦rligt om dem og 
+	har intet sÃ¦rligt Ã¸nske om at mÃ¸de sÃ¥dan en (det skulle da lige vÃ¦re pÃ¥ en 
 	tallerken).
 </p>
 <p>
-	Her på mine sider kan du læse om hvad jeg er for en, hvad jeg går og laver og du kan 
-	blive mere vis af at læse citaterne i bunden af siden.
+	Her pÃ¥ mine sider kan du lÃ¦se om hvad jeg er for en, hvad jeg gÃ¥r og laver og du kan 
+	blive mere vis af at lÃ¦se citaterne i bunden af siden.
 </p>
 
 	<p>
-	God fornøjelse med siderne og skriv endelig en mail hvis du har kommentarer eller 
-	spørgsmål!
+	God fornÃ¸jelse med siderne og skriv endelig en mail hvis du har kommentarer eller 
+	spÃ¸rgsmÃ¥l!
 	</p>
 
 </td>

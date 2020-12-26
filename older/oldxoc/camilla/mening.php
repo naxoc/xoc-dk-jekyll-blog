@@ -7,33 +7,33 @@ top("Camillas sider");
 navigator();
 ?>
 <p>
-Man må have en mening. Jeg har som regel en om det meste, men der er <a href="../camilla/menerhvad.php">undtagelser</a>. Send en <a href="mailto:camilla@xoc.dk">mail</a> hvis du synes jeg ikke mener noget om nok. Det kunne jo være jeg blev inspireret til endnu et punkt her på siden.</p>
+Man mÃ¥ have en mening. Jeg har som regel en om det meste, men der er <a href="../camilla/menerhvad.php">undtagelser</a>. Send en <a href="mailto:camilla@xoc.dk">mail</a> hvis du synes jeg ikke mener noget om nok. Det kunne jo vÃ¦re jeg blev inspireret til endnu et punkt her pÃ¥ siden.</p>
 
 <ul>
 
 <li><a href="http://www.dr.dk/forside/dri_dr2.shtml">DR2</a> er den eneste gode danske TV-kanal.<br /></li>
 
-<li><a href="http://www.dallex.subnet.dk/">Jackass</a> går over stregen. Men neej hvor er de sjove.<br /></li>
+<li><a href="http://www.dallex.subnet.dk/">Jackass</a> gÃ¥r over stregen. Men neej hvor er de sjove.<br /></li>
 
-<li>Brian Nielsen er alt for meget i medierne. Hvorfor skal vi høre på en mand der har fået slået sine ikke alt for mange hjerneceller bevidstløse?<br /></li>
+<li>Brian Nielsen er alt for meget i medierne. Hvorfor skal vi hÃ¸re pÃ¥ en mand der har fÃ¥et slÃ¥et sine ikke alt for mange hjerneceller bevidstlÃ¸se?<br /></li>
 
 <li>Bill Gates har alt for mange penge. Og han vil vist gerne have flere.<br /></li>
 
-<li>Prins Henrik er et tudefjæs. Hvem vil ikke gerne være nummer hvad som helst på den løn?<br /></li>
+<li>Prins Henrik er et tudefjÃ¦s. Hvem vil ikke gerne vÃ¦re nummer hvad som helst pÃ¥ den lÃ¸n?<br /></li>
 
-<li>George Bush når ikke Bill Clinton til sokkeholderne.<br /></li>
+<li>George Bush nÃ¥r ikke Bill Clinton til sokkeholderne.<br /></li>
 
-<li>McDonalds er et fælt <a href="http://www.yelah.net/articles/mcdonalds">firma</a>, der er er selve billedet på globalisering. Deres mad kan kun bruges til en ting... At kurere tømmermænd. Og nu jeg er ved tømmermændsmåltiderne: Når man kort og præcist bestiller: &quot;En McFeastmenu med ketchup og en Cola, tak.&quot; Hvorfor f*** spørger de ansatte altid: &quot;Skal det være en stor menu?&quot; -svaret er så: &quot;nej, jeg sagde jo..&quot; Med det samme siger de så: &quot;en megamenu?&quot; Jeg er overbevist om at de putter pomfritter i ørerne i deres pause for at kunne holde jobbet ud.<br /></li>
+<li>McDonalds er et fÃ¦lt <a href="http://www.yelah.net/articles/mcdonalds">firma</a>, der er er selve billedet pÃ¥ globalisering. Deres mad kan kun bruges til en ting... At kurere tÃ¸mmermÃ¦nd. Og nu jeg er ved tÃ¸mmermÃ¦ndsmÃ¥ltiderne: NÃ¥r man kort og prÃ¦cist bestiller: &quot;En McFeastmenu med ketchup og en Cola, tak.&quot; Hvorfor f*** spÃ¸rger de ansatte altid: &quot;Skal det vÃ¦re en stor menu?&quot; -svaret er sÃ¥: &quot;nej, jeg sagde jo..&quot; Med det samme siger de sÃ¥: &quot;en megamenu?&quot; Jeg er overbevist om at de putter pomfritter i Ã¸rerne i deres pause for at kunne holde jobbet ud.<br /></li>
 
-<li>Pop-up-reklamer er næsten lige så irreterende som spam-mail. Heldivis kan man gøre noget ved både <a href="http://www.webattack.com/get/popupkiller.shtml">først</a>
- og <a href="http://www.stine.dk/rod/spam.html">sidstnævnte</a>.
+<li>Pop-up-reklamer er nÃ¦sten lige sÃ¥ irreterende som spam-mail. Heldivis kan man gÃ¸re noget ved bÃ¥de <a href="http://www.webattack.com/get/popupkiller.shtml">fÃ¸rst</a>
+ og <a href="http://www.stine.dk/rod/spam.html">sidstnÃ¦vnte</a>.
 <br /></li> 
 
-<li>Euroen er den dummeste idé i verden. Ville du bryde dig om at få ordene &quot;det bliver lige 73 cents&quot; i hovedet nede i kiosken når du skal købe en pakke tyggegummi? -Næh, pengene i Danmark hedder kroner. Så kan du kalde mig nationalist hvis du vil.<br /></li> 
+<li>Euroen er den dummeste idÃ© i verden. Ville du bryde dig om at fÃ¥ ordene &quot;det bliver lige 73 cents&quot; i hovedet nede i kiosken nÃ¥r du skal kÃ¸be en pakke tyggegummi? -NÃ¦h, pengene i Danmark hedder kroner. SÃ¥ kan du kalde mig nationalist hvis du vil.<br /></li> 
 
-<li>Priserne på ejerlejligheder er en vittighed. Hvis man har en indtægt på 300.000 om året, gider man så at bo i en toværelses i NV til 900.000?<br /></li>
+<li>Priserne pÃ¥ ejerlejligheder er en vittighed. Hvis man har en indtÃ¦gt pÃ¥ 300.000 om Ã¥ret, gider man sÃ¥ at bo i en tovÃ¦relses i NV til 900.000?<br /></li>
 
-<li>Amerikanerne skulle aldrig have sat fødderne på jorden i Afghanistan.</li>
+<li>Amerikanerne skulle aldrig have sat fÃ¸dderne pÃ¥ jorden i Afghanistan.</li>
 </ul>
 
 </td>

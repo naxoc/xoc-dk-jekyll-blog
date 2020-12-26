@@ -1,6 +1,6 @@
 <?php
 require("../skabelon.php");
-top("Citatet er (måske) tilføjet");
+top("Citatet er (mï¿½ske) tilfï¿½jet");
 ?>
 <h1>
 	<img src="../images/add-logo.gif" alt="AD&amp;D"><br />
@@ -19,7 +19,7 @@ if($HTTP_POST_VARS['submit']) {
             $checker = 0;
         }
         if(!$HTTP_POST_VARS['quote']) {
-            echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Du skal altså skrive et citat</p>";
+            echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Du skal altsï¿½ skrive et citat</p>";
             $checker = 0;
         }
         if(strstr($HTTP_POST_VARS['name'],"|")) {
@@ -30,9 +30,9 @@ if($HTTP_POST_VARS['submit']) {
             echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Et citat kan da umuligt indeholde -\" | \". Jeg bruger faktisk det symbol!</p>";
             $checker = 0;
         }
-        $fp = fopen('quotes.txt','a');
+        // $fp = fopen('quotes.txt','a');
         if(!$fp) {
-            echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Der er gået kludder i åbningen af filen...</p>";
+            echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Der er gï¿½et kludder i ï¿½bningen af filen...</p>";
             $checker = 0;
         }
         if ($checker == 1)	{
@@ -42,23 +42,23 @@ if($HTTP_POST_VARS['submit']) {
        		$line .= "\r\n";
         	fwrite($fp, $line);
         	if(!fclose($fp)) {
-          	  echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Fejl ved forsøg på at åbne filen!</p>";
+          	  echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Fejl ved forsï¿½g pï¿½ at ï¿½bne filen!</p>";
             	$checker = 0;
         	}  
         	if ($checker == 1) {
-    				echo "<p><img src=\"../images/exclamation.gif\" alt=\"!\">Citatet er tilføjet.</p>";
+    				echo "<p><img src=\"../images/exclamation.gif\" alt=\"!\">Citatet er tilfï¿½jet.</p>";
     			}      
     		}
     } 
     		
     else {
-        echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Forkert kodeord. Du skal ikke høre på Wolframs forslag!!</p>";
+        echo "<p> <img src=\"../images/exclamation.gif\" alt=\"!\">Forkert kodeord. Du skal ikke hï¿½re pï¿½ Wolframs forslag!!</p>";
     }
 }
 ?>
 <p>
-  Du kan gå tilbage til siden hvor du kan <a href="addquote.php">indtaste citater</a>. 
-  Eller du kan gå tilbage til siden med alle <a href="citater.php">citaterne</a>.
+  Du kan gï¿½ tilbage til siden hvor du kan <a href="addquote.php">indtaste citater</a>. 
+  Eller du kan gï¿½ tilbage til siden med alle <a href="citater.php">citaterne</a>.
 </p>
 </td>
 </tr>

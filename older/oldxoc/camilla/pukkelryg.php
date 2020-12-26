@@ -13,10 +13,10 @@ require("../skabelon.php");
 <table cellpadding="5">
 	<tr>
 		<td>
-			<img src="../images/camilla.png" alt="mig i Copán">
+			<img src="../images/camilla.png" alt="mig i CopÃ¡n">
 		</td>
 		<td>
-			Billedet af mig er taget i <a href="http://www.thresholds.net/copan/copan.html">Copán-ruinerne</a> i Honduras.
+			Billedet af mig er taget i <a href="http://www.thresholds.net/copan/copan.html">CopÃ¡n-ruinerne</a> i Honduras.
 		</td>
 	</tr>
 	<tr>
@@ -24,7 +24,7 @@ require("../skabelon.php");
 			<img src="../images/katte.png" alt="Phoebe og Eske">
 		</td>
 		<td>
-			Til venstre "Phoebe" (ja - ligesom hende fra Venner) og til højre Eske
+			Til venstre "Phoebe" (ja - ligesom hende fra Venner) og til hÃ¸jre Eske
 		</td>
 	</tr>
 </table>

@@ -25,23 +25,23 @@ function adresselinje($filename)	{
 	<a class=\"mail\" href=\"mailto:camilla(a)xoc.dk\">camilla(a)xoc.dk</a>
 	<br />";
 	$last_modified = filemtime($filename);
-	print("Senest �ndret for virkelig lang tid siden");
+	print("Senest ændret for virkelig lang tid siden");
 	//print(date("j/n Y", $last_modified));
 	echo "<br />
 	</address>\n</body>\n</html>";
 }
 
-#L�ser to linjer fra en fil og skriver dem til klienten
+#Læser to linjer fra en fil og skriver dem til klienten
 function citat()	{
-	$citatfil = file("Citater.dut"); 	//l�ser hele filen ind i et array
+	$citatfil = file("Citater.dut"); 	//læser hele filen ind i et array
 
 	$antal_linjer = count($citatfil); 	//taller antallet af linjer (arraypladser)
 
 	$random_number = rand(1,$antal_linjer); 	//genererer et tal mellem 0 og antallet af linjer i filen
 	$moduleret = $random_number % 2;	//modulerer random_number med 2
 
-	if ($moduleret == 0) {									//s�rger for at der l�ses en --
-		$random_number = $random_number - 1;	//ulige linje i filen f�rst
+	if ($moduleret == 0) {									//sï¿½rger for at der læses en --
+		$random_number = $random_number - 1;	//ulige linje i filen først
 	} 
 	echo "<p class=\"citat\">".$citatfil[$random_number]."<br />\n".$citatfil[$random_number + 1]."</p>";
 }
@@ -56,7 +56,7 @@ function navigator()	{
 <a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/camilla/sprog.php\">Det danske sprog</a><br />
 <a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/aboutxoc/omxoc.php\"><strong>Om xoc.dk</strong></a><br />
 <a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/aboutxoc/webdesign.php\">Webdesign</a><br />
-<a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/aboutxoc/baddesign.php\">D�rligt webdesign</a><br />
+<a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/aboutxoc/baddesign.php\">Dï¿½rligt webdesign</a><br />
 
 <a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/aboutxoc/mspaint.php\">MSPaint</a><br />
 <a class=\"navigation\" href=\"https://xoc.dk/older/oldxoc/links.php\"><strong>Links</strong></a><br />
@@ -68,7 +68,7 @@ function navigator()	{
 }
 
 function rollespilscitater()	{
-	$fil = file("rollespilscitater.dut"); 	//l�ser hele filen ind i et array
+	$fil = file("rollespilscitater.dut"); 	//læser hele filen ind i et array
 	
 	$i = 0; 
  	while ($i < count($fil))	{

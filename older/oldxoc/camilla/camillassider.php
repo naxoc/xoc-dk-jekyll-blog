@@ -10,25 +10,25 @@ top("Camillas sider");
 navigator();
 ?>
 
-<p>	Jeg hedder Camilla og er født i 1975. Jeg bor på Nørrebro med mine to katte. 
-	Du kan se billeder af os alle sammen <a href="pukkelryg.php">her</a>. Min fritid bruger jeg på at være en computernørd, cykle, læse, lave 
-	god mad og, når jeg har råd, rejse.<br /> <br />
-	Jeg har læst min bachelordel på <a href="http://www.hum.ku.dk/religion/indiansk/index.htm">indianske sprog og kulturer</a> 
-   ved Københavns universitet, men jeg tager kandidatdelen på <a href="http://www.it-c.dk/Internet/">IT-Højskolen</a>
-     i København. Som tilvalg har jeg haft spansk, "EDB for humanister" og nærorientalsk arkæologi på KU 
-     og "Datalogi-A" på RUC i javaprogrammering. <br />
-	Ved at kombinere indiansk og IT håber jeg at kunne bruge de to ting jeg godt kan lide at lave sammen. Det lyder 
-	måske som en lidt mærkelig blanding, men jeg mener at der er rigeligt brug for IT-folk med en humanistisk 
-	indgangsvinkel. Der er f.eks. store mængder indianske billedeskrifter der kunne publiceres på nettet, digitale 
-	ordbøger over indianske sprog eller databaser med oplysninger om udgravninger eller andre data.
+<p>	Jeg hedder Camilla og er fÃ¸dt i 1975. Jeg bor pÃ¥ NÃ¸rrebro med mine to katte. 
+	Du kan se billeder af os alle sammen <a href="pukkelryg.php">her</a>. Min fritid bruger jeg pÃ¥ at vÃ¦re en computernÃ¸rd, cykle, lÃ¦se, lave 
+	god mad og, nÃ¥r jeg har rÃ¥d, rejse.<br /> <br />
+	Jeg har lÃ¦st min bachelordel pÃ¥ <a href="http://www.hum.ku.dk/religion/indiansk/index.htm">indianske sprog og kulturer</a> 
+   ved KÃ¸benhavns universitet, men jeg tager kandidatdelen pÃ¥ <a href="http://www.it-c.dk/Internet/">IT-HÃ¸jskolen</a>
+     i KÃ¸benhavn. Som tilvalg har jeg haft spansk, "EDB for humanister" og nÃ¦rorientalsk arkÃ¦ologi pÃ¥ KU 
+     og "Datalogi-A" pÃ¥ RUC i javaprogrammering. <br />
+	Ved at kombinere indiansk og IT hÃ¥ber jeg at kunne bruge de to ting jeg godt kan lide at lave sammen. Det lyder 
+	mÃ¥ske som en lidt mÃ¦rkelig blanding, men jeg mener at der er rigeligt brug for IT-folk med en humanistisk 
+	indgangsvinkel. Der er f.eks. store mÃ¦ngder indianske billedeskrifter der kunne publiceres pÃ¥ nettet, digitale 
+	ordbÃ¸ger over indianske sprog eller databaser med oplysninger om udgravninger eller andre data.
 <br /><br />
 
 	Som supplement til S.U. har jeg haft et hav af mere eller mindre interessante studiejobs. Blandt de interessante 
-	er et omviserjob på Nationalmuseet, hvor jeg underviste skoleklasser i Nord, Mellem, og Sydamerikanske indianske 
-	kulturer og jeg har undervist et år på universitetet i mayaindianernes skriftsystem. <br /><br />
+	er et omviserjob pÃ¥ Nationalmuseet, hvor jeg underviste skoleklasser i Nord, Mellem, og Sydamerikanske indianske 
+	kulturer og jeg har undervist et Ã¥r pÃ¥ universitetet i mayaindianernes skriftsystem. <br /><br />
 
-	Jeg har arbejdet for De Grønne Bude siden starten af 2000, først på fuld tid fordi jeg tog et sabbatår, og nu 
-	som vikar når der er travlt. Det er (for det meste) et sjovt job og faktisk ikke så hårdt som man tror.. 
+	Jeg har arbejdet for De GrÃ¸nne Bude siden starten af 2000, fÃ¸rst pÃ¥ fuld tid fordi jeg tog et sabbatÃ¥r, og nu 
+	som vikar nÃ¥r der er travlt. Det er (for det meste) et sjovt job og faktisk ikke sÃ¥ hÃ¥rdt som man tror.. 
 </p>
 </td>
 </tr>
