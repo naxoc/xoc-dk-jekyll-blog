@@ -9,7 +9,7 @@ $html = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org
 <meta name=\"author\" content=\"Camilla Krag Jensen\">
 <meta name=\"keywords\" content=\"webdesign, meninger, citater, freebord, rollespil\">
 <meta name=\"language\" content=\"dan\">
-<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"https://xoc.dk/older/oldxoc/stil.css\">
 </head>
 <body>
