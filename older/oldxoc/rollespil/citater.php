@@ -13,12 +13,12 @@ navigator();
 	<br />
 	Jeg spiller med i en rollespilskampagne som <a href="http://www.sanneharder.dk">
 	Sanne Harder</a> har lavet. 
-	Den hedder (vist nok bare) AD&amp;D-nostalgia. Du kan læse mere om den på Sannes hjemmeside, 
-	hvor kampagnen er beæret med sin egen <a href="http://www.sanneharder.dk/kampagne/kampagne.php">
+	Den hedder (vist nok bare) AD&amp;D-nostalgia. Du kan lÃ¦se mere om den pÃ¥ Sannes hjemmeside, 
+	hvor kampagnen er beÃ¦ret med sin egen <a href="http://www.sanneharder.dk/kampagne/kampagne.php">
 	hjemmeside</a>.<br />
-	På denne side kan du læse de guldkorn spillerne kommer med på en almindelig aften i citatform.<br />
+	PÃ¥ denne side kan du lÃ¦se de guldkorn spillerne kommer med pÃ¥ en almindelig aften i citatform.<br />
 	<br />
-	Hvis du er en af spillerne kan du tilføje et citat <a href="addquote.php">her</a><br /><br />
+	Hvis du er en af spillerne kan du tilfÃ¸je et citat <a href="addquote.php">her</a><br /><br />
 </p>
 
 <?PHP
@@ -27,7 +27,7 @@ $data = array_reverse($data);
 foreach($data as $element) {
     $element = trim($element);
     $pieces = explode("|", $element);
-    echo "<img src=\"../images/greenline.gif\" alt=\"Grøn streg\"><p class=\"rollespilscitat\"><i>" . $pieces[2] . "</i><br />\n - " . $pieces[1] . " -\n</p>";
+    echo "<img src=\"../images/greenline.gif\" alt=\"GrÃ¸n streg\"><p class=\"rollespilscitat\"><i>" . $pieces[2] . "</i><br />\n - " . $pieces[1] . " -\n</p>";
 }
 ?>
 

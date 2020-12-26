@@ -11,7 +11,7 @@ https://github.com/naxoc/xoc-dk-jekyll-blog/commit/$(git rev-parse HEAD)" > _sit
 
 # "almond" is set up in my .ssh/config.
 cp -r older _site/
-rsync -avz --delete _site/ almond:/var/www/html/xoc.dk
+rsync -avz --delete _site/ nuez:/var/www/xoc.dk
 if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
 
 # Remove the local "deployment" file.

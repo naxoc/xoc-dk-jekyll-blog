@@ -10,23 +10,23 @@ top("Freebord");
 navigator();
 ?>
 <p><br />
-	For os der bor i bjergløse og, for det meste, sneløse Danmark, er der ikke meget håb om at stå på 
-	snowboard andet end i udlandet. Det er der vist ikke noget at gøre ved, men jeg har opdaget 
-	<a href="http://www.freebord.com" onclick="window.open(this.href);return false;">Freebordet</a>, som er svaret på vores bønner om mere tid på 
+	For os der bor i bjerglÃ¸se og, for det meste, snelÃ¸se Danmark, er der ikke meget hÃ¥b om at stÃ¥ pÃ¥ 
+	snowboard andet end i udlandet. Det er der vist ikke noget at gÃ¸re ved, men jeg har opdaget 
+	<a href="http://www.freebord.com" onclick="window.open(this.href);return false;">Freebordet</a>, som er svaret pÃ¥ vores bÃ¸nner om mere tid pÃ¥ 
 	snowboard. <br  /><br  />
-	Jeg har ikke hørt om andre i Danmark der står på freebord men hvis du gør, så send endelig en mail 
-	så vi kan stå sammen. <br  /><br  />
-	Et freebord er en slags skateboard med 6 hjul. Der er 4 hjul der, selvom de er lidt større end 
-	normalt, ligner dem på et skateboard og så er der hjulene i midten der gør hele forskellen. De fungerer 
-	lidt som hjulene på en indkøbsvogn, de kan altså køre hele vejen rundt om sig selv. De sidder lidt lavere 
-	end de fire "almindelige" hjul og skal simulere basen på et snowboard.<br /><br  />
-	Det er meningen at man skal køre ned af en bakke og ved at svinge og holde den kant af brættet der 
-	vender op af bakke mod jorden kan man opnå den glidende fornemmelse man har på et snowboard. <br /><br  />
-	Jeg er endnu ikke særligt god til at stå på mit bræt, men det kommer nok. Det er bestemt ikke 
-	som at stå på et skateboard, for man falder af brættet i en hulens fart hvis man ikke holder en kant 
-	i jorden hele tiden. Dette gør også, at det er svært at generere fart ved at have den ene fod på 
-	brættet og skubbe fra med den anden. Det kan dog lade sig gøre, hvis man placerer den fod man har på 
-	brættet yderst mod kanten og på den måde sørger for at have en "kant" mod jorden.
+	Jeg har ikke hÃ¸rt om andre i Danmark der stÃ¥r pÃ¥ freebord men hvis du gÃ¸r, sÃ¥ send endelig en mail 
+	sÃ¥ vi kan stÃ¥ sammen. <br  /><br  />
+	Et freebord er en slags skateboard med 6 hjul. Der er 4 hjul der, selvom de er lidt stÃ¸rre end 
+	normalt, ligner dem pÃ¥ et skateboard og sÃ¥ er der hjulene i midten der gÃ¸r hele forskellen. De fungerer 
+	lidt som hjulene pÃ¥ en indkÃ¸bsvogn, de kan altsÃ¥ kÃ¸re hele vejen rundt om sig selv. De sidder lidt lavere 
+	end de fire "almindelige" hjul og skal simulere basen pÃ¥ et snowboard.<br /><br  />
+	Det er meningen at man skal kÃ¸re ned af en bakke og ved at svinge og holde den kant af brÃ¦ttet der 
+	vender op af bakke mod jorden kan man opnÃ¥ den glidende fornemmelse man har pÃ¥ et snowboard. <br /><br  />
+	Jeg er endnu ikke sÃ¦rligt god til at stÃ¥ pÃ¥ mit brÃ¦t, men det kommer nok. Det er bestemt ikke 
+	som at stÃ¥ pÃ¥ et skateboard, for man falder af brÃ¦ttet i en hulens fart hvis man ikke holder en kant 
+	i jorden hele tiden. Dette gÃ¸r ogsÃ¥, at det er svÃ¦rt at generere fart ved at have den ene fod pÃ¥ 
+	brÃ¦ttet og skubbe fra med den anden. Det kan dog lade sig gÃ¸re, hvis man placerer den fod man har pÃ¥ 
+	brÃ¦ttet yderst mod kanten og pÃ¥ den mÃ¥de sÃ¸rger for at have en "kant" mod jorden.
 </p>
 
 </td>

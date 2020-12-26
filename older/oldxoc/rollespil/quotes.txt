@@ -1,50 +1,50 @@
-24.07.02|Fru McMenny|At vinde er ikke at slå ormen ihjel.
-24.07.02|Wolfram|Det er det pæneste sværd jeg nogensinde har haft.
-24.07.02|Fru McMenny|Dette er ikke slutningen, det er ikke begyndelsen på slutningen, det er kun slutningen på begyndelsen.
-24.07.02|GM (Sanne)|Lad os gå over i søpølsen.
-24.07.02|Wolfram|Årer? Jeg er bekendt med pricippet.
-24.07.02|GM (Sanne)|Du fik øje på noget mørkt mellem ballerne.
-24.07.02|Sullyn|Lad os hellere gå ind mellem djævlens fortænder.
+24.07.02|Fru McMenny|At vinde er ikke at slÃ¥ ormen ihjel.
+24.07.02|Wolfram|Det er det pÃ¦neste svÃ¦rd jeg nogensinde har haft.
+24.07.02|Fru McMenny|Dette er ikke slutningen, det er ikke begyndelsen pÃ¥ slutningen, det er kun slutningen pÃ¥ begyndelsen.
+24.07.02|GM (Sanne)|Lad os gÃ¥ over i sÃ¸pÃ¸lsen.
+24.07.02|Wolfram|Ã…rer? Jeg er bekendt med pricippet.
+24.07.02|GM (Sanne)|Du fik Ã¸je pÃ¥ noget mÃ¸rkt mellem ballerne.
+24.07.02|Sullyn|Lad os hellere gÃ¥ ind mellem djÃ¦vlens fortÃ¦nder.
 24.07.02|GM (Sanne)|Der dukker flyv flere flangarme op.
-24.07.02|GM (Sanne)|End ikke den lysende kartoffel kunne gennemtrænge mørket.
+24.07.02|GM (Sanne)|End ikke den lysende kartoffel kunne gennemtrÃ¦nge mÃ¸rket.
 24.07.02|Tommy|Bjarne: Ej, hvor er han dum! <br />Hvem af os?
 24.07.02|GM (Sanne)|Her, klyng dig til ballerne.
-24.07.02|Fru McMenny|Jeg er gået magisk konkurs.
+24.07.02|Fru McMenny|Jeg er gÃ¥et magisk konkurs.
 26.07.02|Wolfram|Sullyn er fiske-ranger.
-21.08.02|Sanne og Camilla|DM: Vores kirkebøsse er tom...<br />Sullyn: Nåh, jeg troede du ville sige, han var trængende!
-21.08.02|Bjarne og Tommy|Fru MacMenny: "...en mand som jeg... "<br />Wolfram: "Er De nu også en mand?"<br />Fru MacMenny: "...en mand, som jeg vil stå last og brast!"
-21.08.02|Bjarne|Det er tredje dør på fjerde hånd.
+21.08.02|Sanne og Camilla|DM: Vores kirkebÃ¸sse er tom...<br />Sullyn: NÃ¥h, jeg troede du ville sige, han var trÃ¦ngende!
+21.08.02|Bjarne og Tommy|Fru MacMenny: "...en mand som jeg... "<br />Wolfram: "Er De nu ogsÃ¥ en mand?"<br />Fru MacMenny: "...en mand, som jeg vil stÃ¥ last og brast!"
+21.08.02|Bjarne|Det er tredje dÃ¸r pÃ¥ fjerde hÃ¥nd.
 21.08.02|Camilla|Har du ikke mere sandhedsformular af den slags du gav hende mellem ballerne?
 21.08.02|Tommy og Camilla|Wolfram: Jeg mangler finesse...<br />Sullyn: Jeg mangler ord.
-21.08.02|Bjarne|Fru MacMenny (efter at have kastet blindness på en røver):<br />Se i øjnene - bortset fra at De ikke kan se...
-25.08.02|Wolfram|Evigt liv? Skal man så sidde og kigge på ham til han ikke dør?
-25.08.02|Wolfram|Jeg er skam også meget melanpolsk
-07.09.02|Wolfram|Sikke nogle store øjne deres bedstemor har
+21.08.02|Bjarne|Fru MacMenny (efter at have kastet blindness pÃ¥ en rÃ¸ver):<br />Se i Ã¸jnene - bortset fra at De ikke kan se...
+25.08.02|Wolfram|Evigt liv? Skal man sÃ¥ sidde og kigge pÃ¥ ham til han ikke dÃ¸r?
+25.08.02|Wolfram|Jeg er skam ogsÃ¥ meget melanpolsk
+07.09.02|Wolfram|Sikke nogle store Ã¸jne deres bedstemor har
 08.09.02|Sullyn|Nu er jeg frisk som et havjern.
-08.09.02|Bjarne og Tommy|Fru Ninny: Er der ugler i mosen?<br />Wolfram: Nej, det er nok mine støvler...
-08.09.02|Fru MacMenny|Fru MacMenny: Siger De, at min søn er blevet forvandlet til et vortesvin?!? I stedet for at lave ham om til en frø, som der jo ellers er tradition for...
-08.09.02|Fru MacMenny og Wolfram|Fru MacMenny: I nat vil jeg åbne min bedstefars kiste!<br />Wolfram: Det siger De ikke - jeg vidste ikke, de drev nekromanti!<br />(Der var tale om en dragkiste, ikke en gravkiste).
-08.09.02|Fru MacMenny|Fru MacMenny: Så sandt som jeg er min bedstefars dattersøn, nej, min bedstefars datterdatter, nej - min bedstefars sønnedatter!
-08.09.02|Fru MacMenny og Wolfram|Fru MacMenny: Rygterne vil sige, at han blev dræbt af en drage. Eller trådt på af en gigant.<br />Wolfram: Aha. Trods pengene døde han flad.
-08.09.02|Sullyn|Jeg får sådan en trang til at kaste med fisk. Det kommer sjældent over mig, men...|Fru MacMenny og Wolfram|-Gud! Min frisure!<br />-Tænk, jeg troede, det var en hat...
-07.11.02|Fru MacMenny|(Læser højt) "Når du vender foret ud, kan du vandre i det astrale rum". Nå, jeg vidste ikke, at der var sådant et rum her på gården.
-07.11.02|Fru MacMenny og Wolfram|-Gud! Min frisure!<br />-Tænk, jeg troede det var en hat...
-07.11.02|Wolfram|Hvor blev stenen af? Eller er den røget, da du blev kastral?
-07.11.02|Fru MacMenny|-Inden han døde, nåede han at give mig den smukkeste gave, en mand kan give en kvinde: En søn! (Og en købmandsgård).
-07.11.02|Wolfram og Fru MacMenny|-Lad os finde det svin!<br />-Wolfram, De taler om min søn!
-03.03.03|Wolfram|(Om prins Emsy): Det prinsIb går jeg heller ikke ind for!
-03.03.03|Fru MacMenny|Skik fly eller land følge
-03.03.03|Wolfram|Kål er jo det der holder en varm om natten
-03.03.03|Wolfram|Bare vent til jeg vågner
-03.03.03|Wolfram|De har sådan en speciel kutte-fighting-style.. Jetkuttedo
-03.03.03|Bjarne|GM er regelmæssigt udfordret
-03.03.03|(GM) Sanne|Min udkårne! I et gulvtæppe?
-03.03.03|Tommy og Camilla|Sullyn: Ved du hvad han sagde inden han døde? "For Dragekulten!"<br />Wolfram: Nej, det kan jeg heller ikke.. Fordrage kulten.
-03.03.03|Fru MacMenny|Fortæl mig det hele! Især det jeg har sagt!
-03.03.03|Sanne|Hun har fået et ildetilfælde.
-03.03.03|Sanne og Tommy|GM: Du ser nogle sære spor.<br />Wolfram: Aha! Det må være en halt rype.<br />GM: Nej, det er faktisk et røvdyr.
+08.09.02|Bjarne og Tommy|Fru Ninny: Er der ugler i mosen?<br />Wolfram: Nej, det er nok mine stÃ¸vler...
+08.09.02|Fru MacMenny|Fru MacMenny: Siger De, at min sÃ¸n er blevet forvandlet til et vortesvin?!? I stedet for at lave ham om til en frÃ¸, som der jo ellers er tradition for...
+08.09.02|Fru MacMenny og Wolfram|Fru MacMenny: I nat vil jeg Ã¥bne min bedstefars kiste!<br />Wolfram: Det siger De ikke - jeg vidste ikke, de drev nekromanti!<br />(Der var tale om en dragkiste, ikke en gravkiste).
+08.09.02|Fru MacMenny|Fru MacMenny: SÃ¥ sandt som jeg er min bedstefars dattersÃ¸n, nej, min bedstefars datterdatter, nej - min bedstefars sÃ¸nnedatter!
+08.09.02|Fru MacMenny og Wolfram|Fru MacMenny: Rygterne vil sige, at han blev drÃ¦bt af en drage. Eller trÃ¥dt pÃ¥ af en gigant.<br />Wolfram: Aha. Trods pengene dÃ¸de han flad.
+08.09.02|Sullyn|Jeg fÃ¥r sÃ¥dan en trang til at kaste med fisk. Det kommer sjÃ¦ldent over mig, men...|Fru MacMenny og Wolfram|-Gud! Min frisure!<br />-TÃ¦nk, jeg troede, det var en hat...
+07.11.02|Fru MacMenny|(LÃ¦ser hÃ¸jt) "NÃ¥r du vender foret ud, kan du vandre i det astrale rum". NÃ¥, jeg vidste ikke, at der var sÃ¥dant et rum her pÃ¥ gÃ¥rden.
+07.11.02|Fru MacMenny og Wolfram|-Gud! Min frisure!<br />-TÃ¦nk, jeg troede det var en hat...
+07.11.02|Wolfram|Hvor blev stenen af? Eller er den rÃ¸get, da du blev kastral?
+07.11.02|Fru MacMenny|-Inden han dÃ¸de, nÃ¥ede han at give mig den smukkeste gave, en mand kan give en kvinde: En sÃ¸n! (Og en kÃ¸bmandsgÃ¥rd).
+07.11.02|Wolfram og Fru MacMenny|-Lad os finde det svin!<br />-Wolfram, De taler om min sÃ¸n!
+03.03.03|Wolfram|(Om prins Emsy): Det prinsIb gÃ¥r jeg heller ikke ind for!
+03.03.03|Fru MacMenny|Skik fly eller land fÃ¸lge
+03.03.03|Wolfram|KÃ¥l er jo det der holder en varm om natten
+03.03.03|Wolfram|Bare vent til jeg vÃ¥gner
+03.03.03|Wolfram|De har sÃ¥dan en speciel kutte-fighting-style.. Jetkuttedo
+03.03.03|Bjarne|GM er regelmÃ¦ssigt udfordret
+03.03.03|(GM) Sanne|Min udkÃ¥rne! I et gulvtÃ¦ppe?
+03.03.03|Tommy og Camilla|Sullyn: Ved du hvad han sagde inden han dÃ¸de? "For Dragekulten!"<br />Wolfram: Nej, det kan jeg heller ikke.. Fordrage kulten.
+03.03.03|Fru MacMenny|FortÃ¦l mig det hele! IsÃ¦r det jeg har sagt!
+03.03.03|Sanne|Hun har fÃ¥et et ildetilfÃ¦lde.
+03.03.03|Sanne og Tommy|GM: Du ser nogle sÃ¦re spor.<br />Wolfram: Aha! Det mÃ¥ vÃ¦re en halt rype.<br />GM: Nej, det er faktisk et rÃ¸vdyr.
 03.03.03|Sullyn|Jeg er en lawfull-good fanget i en neutral-good's krop.. Og jeg lugter af fisk.
 03.03.03|(spell kastet af) Fru MacMenny|Flux de luxe
 03.03.03|Wolfram|Grev Dougall er en fedtegreve.
-03.03.03|Wolfram|Det har ikke noget at gøre med, at du vil flytte den unge dame fra den hendes kommende vom.. øh, gom?
+03.03.03|Wolfram|Det har ikke noget at gÃ¸re med, at du vil flytte den unge dame fra den hendes kommende vom.. Ã¸h, gom?
 18.09.03|Sullyn|Wolfram er pornoranger
