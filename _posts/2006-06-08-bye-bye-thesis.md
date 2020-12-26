@@ -20,7 +20,7 @@ Jeg skal forsvare specialet d. 28 juni, så derefter er det helt overstået. Dag
 </li>
 
 <li>
-<p class="comment-meta">Den <time datetime="2006-06-15T16:19:20+02:00">15. jun 2006 kl.  04:19</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2006-06-15T16:19:20+02:00">15. jun 2006 kl.  04:19</time>, sagde <a href="https://xoc.dk">Camilla</a>:</p>
 <p>Jep! Det er top-over-skrup-fedt!</p>
 <p>Det blev en rodet fortælling om et rodet program jeg har lavet der skal være til hjælp når man læser aztekiske kildetekster. Man kunne kalde det en ordbog, men i beta :-)</p>
 </li>

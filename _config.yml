@@ -12,7 +12,7 @@ description: >
   Blog fra da internettet var ungt
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://xoc.dk" # the base hostname & protocol for your site
+url: "https://xoc.dk" # the base hostname & protocol for your site
 paginate: 15 # The number of posts to show per page on your homepage
 
 name: 'Camilla Krag Jensen'

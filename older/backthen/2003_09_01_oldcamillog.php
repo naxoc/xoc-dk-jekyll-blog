@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -58,7 +58,7 @@ again, I might as well drop some more links on my weblog. I found a site that ha
 </p>
 
 <p class="ten"> 6:27 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106416163245096069">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106416163245096069','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [4]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106416163245096069">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106416163245096069','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [4]</a> </p>
 
   
 <p class="useit">
@@ -73,7 +73,7 @@ If you want your name sent to a comet along with my name,  go <a href="http://de
 </p>
 
 <p class="ten"> 4:57 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106415622558869972">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106415622558869972','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106415622558869972">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106415622558869972','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
@@ -82,11 +82,11 @@ If you want your name sent to a comet along with my name,  go <a href="http://de
 </p>
 
 <p class="ten"> 4:41 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106415529130423828">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106415529130423828','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106415529130423828">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106415529130423828','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-  <img class="bot" src="http://xoc.dk/older/images/things/oillamp.gif" alt="bubble" />
+  <img class="bot" src="https://xoc.dk/older/images/things/oillamp.gif" alt="bubble" />
 <b>Lava lamps rule!</b><br />
 I just felt like making homage to lava lamps. I just got one from a friend so I sit here looking at it. They are so wonderful to gaze at when one gets distracted... Something I get all the time
 these days. Speaking of distraction.. I really hate .gif's that are animated. So the lava lamp I have on this post is probably distracting
@@ -95,7 +95,7 @@ you as you read this. Sorry.
 </p>
 
 <p class="ten"> 12:35 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106414051617403518">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106414051617403518','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106414051617403518">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106414051617403518','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -108,7 +108,7 @@ Just as I decided to kill Camillog, I suddenly felt like writing again sometimes
 </p>
 
 <p class="ten"> 12:43 AM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106383859881459459">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106383859881459459','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106383859881459459">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106383859881459459','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -118,11 +118,11 @@ Just as I decided to kill Camillog, I suddenly felt like writing again sometimes
 <p class="useit">
   <b>Updates in the book-department</b><br />
 Even though I decided to kill my weblog, I still plan to maintain the book review page. I just added the possibility to add comments to the reviews. Very weblog-style..
-Go <a href="http://xoc.dk/older/books/">take a look</a>.
+Go <a href="https://xoc.dk/older/books/">take a look</a>.
 </p>
 
 <p class="ten"> 10:49 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106374539067978404">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106374539067978404','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106374539067978404">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106374539067978404','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -138,7 +138,7 @@ So I guess this is goodbye then.. It's been fun having all of you stop by and re
 </p>
 
 <p class="ten"> 11:20 PM | 
-  <a href="../backthen/2003_09_01_oldcamillog.php#106331525659306548">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106331525659306548','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_09_01_oldcamillog.php#106331525659306548">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106331525659306548','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -151,16 +151,16 @@ So I guess this is goodbye then.. It's been fun having all of you stop by and re
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

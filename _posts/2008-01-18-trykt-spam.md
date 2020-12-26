@@ -24,7 +24,7 @@ Der er nok ingen af os der kan se os fri for spandevis af spam. Det er heldigvis
 <p>Ak ja, men digitale reklamer er bare meget svaerere at tage med paa toilettet:)</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2008-01-19T16:51:32+01:00">19. jan 2008 kl.  04:51</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2008-01-19T16:51:32+01:00">19. jan 2008 kl.  04:51</time>, sagde <a href="https://xoc.dk">Camilla</a>:</p>
 <p>Korrekt. Men så må vi finde en løsning.. En Reklame-tablet-PC der kan tåle beskidte fingre eller noget!</p>
 </li>
 </ul>

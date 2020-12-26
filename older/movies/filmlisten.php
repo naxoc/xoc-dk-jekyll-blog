@@ -1,6 +1,6 @@
 <?PHP
 $film2006 = array(
-"Alle de film jeg har set i år"
+"Alle de film jeg har set i ï¿½r"
 );	
 $film2005 = array(
 "Finding Neverland",
@@ -23,10 +23,10 @@ $film2004 = array(
 "Igby goes down",
 "Lilja 4-ever",	
 "The Prince & Me",	
-"Mala education. (Dårlig dannelse)",
-"Salmer fra køkkenet",	 	
+"Mala education. (Dï¿½rlig dannelse)",
+"Salmer fra kï¿½kkenet",	 	
 "Kops",
-"De Grønne Slagtere",
+"De Grï¿½nne Slagtere",
 "Og Din Mor",
 "Maria full of grace",
 "Motorcykeldagbogen",
@@ -39,7 +39,7 @@ $film2004 = array(
 "Dune",
 "Spiderman 2",
 "Deep Blue Sea",
-"Sekretæren",
+"Sekretï¿½ren",
 "The swimming pool",
 "Terkel i knibe",
 "Someone like you");	
@@ -55,7 +55,7 @@ sort($film2004);
   </title>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
   <link rel="stylesheet" type="text/css"
-href="http://xoc.dk/older/style/minima.css" />
+href="https://xoc.dk/older/style/minima.css" />
 
 </head>
 <body>
@@ -65,11 +65,11 @@ href="http://xoc.dk/older/style/minima.css" />
     <div id="header">
       <h1 id="blog-title">
        
-        <a href="http://xoc.dk/older">Camillog</a>
+        <a href="https://xoc.dk/older">Camillog</a>
        
       </h1>
     <p id="description">
-      Nu på dansk!!
+      Nu pï¿½ dansk!!
     </p>
   </div>
 
@@ -120,17 +120,17 @@ foreach ($film2004 as $film) {
 <h2 class="sidebar-title">Sidst opdateret: <?PHP echo date("j/n Y",
 filemtime("filmlisten.php"));?></h2>
 <p>
-Jeg ser en del film. Jeg er hamrende dårlig til at se fjernsyn (nyheder, serier,
-shows), men jeg elsker at se en film jeg selv har valgt at se. Det gør det mere
+Jeg ser en del film. Jeg er hamrende dï¿½rlig til at se fjernsyn (nyheder, serier,
+shows), men jeg elsker at se en film jeg selv har valgt at se. Det gï¿½r det mere
 til en handling.
 </p>
 <p>
-Jeg har købt et "abonnement" hos <a
-href="http://digitatarian.dk">Digitarian</a>, hvor man har en ønskeliste med
-film på nettet, og fra den sender de to film af gangen til en. Når man har set
-dem sender man dem tilbage og venter pænt på de næste to. Det koster 199 kr om
-måneden og jeg tror jeg har sparet penge på det i forhold til at gå i
-Blockbuster. Det er jo også ret mageligt at de bliver smidt ind af brevsprækken.
+Jeg har kï¿½bt et "abonnement" hos <a
+href="http://digitatarian.dk">Digitarian</a>, hvor man har en ï¿½nskeliste med
+film pï¿½ nettet, og fra den sender de to film af gangen til en. Nï¿½r man har set
+dem sender man dem tilbage og venter pï¿½nt pï¿½ de nï¿½ste to. Det koster 199 kr om
+mï¿½neden og jeg tror jeg har sparet penge pï¿½ det i forhold til at gï¿½ i
+Blockbuster. Det er jo ogsï¿½ ret mageligt at de bliver smidt ind af brevsprï¿½kken.
 </p>
 
 <ul class="archive-list">
@@ -138,7 +138,7 @@ Blockbuster. Det er jo også ret mageligt at de bliver smidt ind af brevsprækken.
 </ul>
 
 <ul id="recently">
-<li><a href="http://xoc.dk/older">Hjem</a></li>
+<li><a href="https://xoc.dk/older">Hjem</a></li>
 <li><a href="#2004">Film set i 2006 [<?PHP echo count($film2006);?>]</a></li>
 <li><a href="#2004">Film set i 2005 [<?PHP echo count($film2005);?>]</a></li>
 <li><a href="#2004">Film set i 2004 [<?PHP echo count($film2004);?>]</a></li>

@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -63,22 +63,22 @@ reviewer's lucid control of language. <br />
 OK. I'll cut the eloquentness now. What I really wanted was two things
 :</p>
 <p>
-&bull; To advertise my <a href="http://xoc.dk/older/movies/">movie
+&bull; To advertise my <a href="https://xoc.dk/older/movies/">movie
 reviews</a> (in plain English) page.<br />
 
 &bull; To advertise my latest Java programming assignment from school. It
-resulted in <a href="http://xoc.dk/older/misc/applets/TextApplet.html">this</a>
+resulted in <a href="https://xoc.dk/older/misc/applets/TextApplet.html">this</a>
 useless applet that will count the number of words with more than 6
 letters in a text entered by a user. <br />
 There. Enough advertising.
 </p>
 
 <p class="ten"> 6:40 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83671055">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83671055','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83671055">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83671055','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tank.gif" alt="tank" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tank.gif" alt="tank" />
       
 
 <b>Bastards! They took away my magic wand!</b> <br />
@@ -102,7 +102,7 @@ skirt I saw the other day.. Sigh!
 </p>
 
 <p class="ten"> 1:11 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83657576">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83657576','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [4]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83657576">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83657576','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [4]</a> </p>
 
   
 <h5>
@@ -110,7 +110,7 @@ skirt I saw the other day.. Sigh!
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/ajax.gif" alt="ajax" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/ajax.gif" alt="ajax" />
       
 <b>I want to be richer!</b><br />
 I don't mind being a poor student most of the time. I'm good at preparing varied, healthy, and not too expensive food and my
@@ -124,7 +124,7 @@ I need to have more hours at work next month!
 </p>
 
 <p class="ten"> 1:12 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83454310">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83454310','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83454310">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83454310','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -132,7 +132,7 @@ I need to have more hours at work next month!
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tv.gif" alt="tv" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tv.gif" alt="tv" />
       
 <b>God I hate Ally McBeal!</b><br />
 I'm on the sofa with the laptop and the TV is running. Even when I'm
@@ -146,7 +146,7 @@ next Tuesday I really need to not watch TV.
 </p>
 
 <p class="ten"> 10:09 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83366564">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83366564','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83366564">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83366564','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -167,13 +167,13 @@ pretty nice so I ended up giving it a 2 mostly because of the good
 looking actors. <br />
 I'm sad to rate movies by the appearance of the actors, but it was
 about the best thing I had to say about it. You can read my review of
-the film <a href="http://xoc.dk/older/movies/">here</a>.<br />
+the film <a href="https://xoc.dk/older/movies/">here</a>.<br />
 I'm still looking forward to seeing "By Hook or by Crook", "Gaudi
 Afternoon" and a few short films.
 </p>
 
 <p class="ten"> 6:11 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83302627">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83302627','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83302627">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83302627','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -187,7 +187,7 @@ certainly bring up my interest in bonsais.
 </p>
 
 <p class="ten"> 5:37 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83252763">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83252763','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83252763">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83252763','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
@@ -205,7 +205,7 @@ help me out on this one.
 </p>
 
 <p class="ten"> 1:11 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83247149">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83247149','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83247149">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83247149','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -218,7 +218,7 @@ Some women spend years wondering "am I gay?" or "maybe its just a phase". <a hre
 </p>
 
 <p class="ten"> 9:17 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83182174">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83182174','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83182174">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83182174','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
@@ -227,11 +227,11 @@ Some women spend years wondering "am I gay?" or "maybe its just a phase". <a hre
 </p>
 
 <p class="ten"> 3:15 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83166538">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83166538','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83166538">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83166538','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tank.gif" alt="tank" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tank.gif" alt="tank" />
       
  <b>A paperless society?</b><br />
 I have now spent most of this week on the phone trying to get a certificate that states me as a bachelor from the University of Copenhagen. I was stupid enough to send an original of this document to some office that immediately lost it. I've been fighting for a new document now since Monday but today I succeeded. <br />
@@ -240,7 +240,7 @@ I've been thinking about this "paperless society" -term and I realized that all 
 </p>
 
 <p class="ten"> 12:10 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83161997">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83161997','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83161997">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83161997','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -258,7 +258,7 @@ lifestyle because they don't go on diets 10 months a year.
 </p>
 
 <p class="ten"> 1:48 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83112609">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83112609','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83112609">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83112609','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -266,7 +266,7 @@ lifestyle because they don't go on diets 10 months a year.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/kitty.gif" alt="kitty" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/kitty.gif" alt="kitty" />
       
  <b>A film festival for all of us!</b>
 The Copenhagen gay and lesbian film festival starts this Saturday. Birgitte and I already bought tickets for four movies together with some friends. The <a href=" http://www.cglff.dk/home/home_dk.html">program</a> this year actually sounds good. Last year I didn't see a single one of the films and the year before I saw two really good ones and one really really bad. It's always a pleasure to se nice women kiss, but if the rest of the movie just stinks it isn't worth it. Don't know if any of you saw <a href=" http://www.moviepie.com/filmfests/julie_and_me.htm">Julie and Me</a> but if you did: I'm sorry. That film managed to be extremely boring in both French and English at the same time.
@@ -274,7 +274,7 @@ I'm very positive this year and looking forward to this Sunday when my first mov
 </p>
 
 <p class="ten"> 4:21 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#83061947">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83061947','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#83061947">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83061947','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -282,7 +282,7 @@ I'm very positive this year and looking forward to this Sunday when my first mov
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/mouse.gif" alt="mouse" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/mouse.gif" alt="mouse" />
       
  <b>The Hardware Whisperer</b>
 Last Friday in the after school Friday-bar a friend of mine called Bo and I were joking about the free will of hardware that has been very present in my last few weeks. He agreed that it's never a good idea to upset the hardware and that it's counterproductive as hell not to be polite to it. He showed me his very unruly mouse, that after Bo accidentally dropped it once, has been very uncooperative and at times even rude. I mentioned my headstrong router and the stories were almost alike. <br />
@@ -290,7 +290,7 @@ We then thought of ways to solve our (spiritual) hardware problems and came up w
 </p>
 
 <p class="ten"> 2:05 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#82960419">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=82960419','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#82960419">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=82960419','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -298,15 +298,15 @@ We then thought of ways to solve our (spiritual) hardware problems and came up w
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/puter.gif" alt="puter" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/puter.gif" alt="puter" />
       
  <b>A cup of (black) Java</b>
-Today I'm doing my programming assignment for tomorrow. The task is to create an applet that will play the "guessing game" with you. If you would like to play this action packed game, you can do that <a href="http://xoc.dk/older/misc/applets/GuessApplet.html">here </a>.
+Today I'm doing my programming assignment for tomorrow. The task is to create an applet that will play the "guessing game" with you. If you would like to play this action packed game, you can do that <a href="https://xoc.dk/older/misc/applets/GuessApplet.html">here </a>.
 
 </p>
 
 <p class="ten"> 4:03 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#82791078">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=82791078','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#82791078">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=82791078','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
   
 <h5>
@@ -314,7 +314,7 @@ Today I'm doing my programming assignment for tomorrow. The task is to create an
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tank.gif" alt="tank" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tank.gif" alt="tank" />
       
 <b>Damn the FTP gods!</b>
 It all started yesterday when I wanted to upload some stuff to my schools server. For some strange reason I couldn't connect. I thought that I had just messed up the settings in my FTP program, so I uninstalled it. After reinstalling it I still couldn't connect. Hmm. Then I thought it was my connection to the net, but I could view pages on the net. After about 3 hours I finally pulled the plug in the router, replugged it and.. Success! <br />
@@ -322,7 +322,7 @@ Today the called me from the place I work and asked how the page I was supposed 
 </p>
 
 <p class="ten"> 7:56 PM | 
-  <a href="../backthen/2002_10_01_oldcamillog.php#82749222">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=82749222','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_10_01_oldcamillog.php#82749222">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=82749222','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -335,16 +335,16 @@ Today the called me from the place I work and asked how the page I was supposed 
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

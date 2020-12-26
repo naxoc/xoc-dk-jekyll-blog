@@ -5,7 +5,7 @@
     Bogliste
   </title>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/minima.css" />
+  <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/minima.css" />
 
 </head>
 <body>
@@ -15,11 +15,11 @@
     <div id="header">
       <h1 id="blog-title">
         
-        <a href="http://xoc.dk/older">Camillog</a>
+        <a href="https://xoc.dk/older">Camillog</a>
         
       </h1>
     <p id="description">
-      Nu på dansk!!
+      Nu pï¿½ dansk!!
     </p>
   </div>
 
@@ -32,24 +32,24 @@
   <div id="main2">
 
 <a name="now"></a>
-<h3 class="post-title">Lige nu læser jeg:</h3>
+<h3 class="post-title">Lige nu lï¿½ser jeg:</h3>
 <ul>
 <li>
 	<b>Indtil jeg finder dig</b><br /> af John Irving
 </li>	
 <li>
-	<b>Ulysses</b><br /> af James Joyce .. Den er vel efterhånden fast på listen.
+	<b>Ulysses</b><br /> af James Joyce .. Den er vel efterhï¿½nden fast pï¿½ listen.
 </li>
 
 </ul>
 
 <a name="read"></a>
-<h3 class="post-title">Bøger jeg har læst</h3>
+<h3 class="post-title">Bï¿½ger jeg har lï¿½st</h3>
 
 <h2>2006</h2>
 <ul>
 <li>
-	<b>En kort historie om næsten alt</b><br /> af Bill Bryson
+	<b>En kort historie om nï¿½sten alt</b><br /> af Bill Bryson
 </li>	
 <li>
 	<b>JPod</b><br /> af Douglas Coupland
@@ -64,7 +64,7 @@
 	<b>Hjemmefronten</b><br /> af Kari Hotakainen
 </li>
 <li>
-	<b>Rødby-Puttgarten</b><br /> af Helle Helle
+	<b>Rï¿½dby-Puttgarten</b><br /> af Helle Helle
 </li>
 </ul>
 
@@ -79,7 +79,7 @@
 	Google tager jo -aldrig- fejl, men se her: <a href="http://www.google.dk/search?&q=%22belladonna+dokumentet%22&btnG=S%C3%B8g&meta=">Belladonna dokumentet</a> og <a href="http://www.google.dk/search?num=50&hl=da&q=%22belladonnadokumentet%22&btnG=S%C3%B8g&meta=">Belladonnadokumentet</a>???
 </li>
 <li>
-	<b>Dumme hvide mænd</b><br /> af Michael Moore
+	<b>Dumme hvide mï¿½nd</b><br /> af Michael Moore
 </li>
 <li>
 	<b>Kodebogen</b><br /> af Simon Singh
@@ -88,13 +88,13 @@
 	<b>Rubyfruit Jungle</b><br /> af Rita Mae Brown
 </li>
 <li>
-	<b>Nynnes dagbog 2</b><br /> af Henriette Lind, Lotte Thorsen og Anette Vestergård
+	<b>Nynnes dagbog 2</b><br /> af Henriette Lind, Lotte Thorsen og Anette Vestergï¿½rd
 </li>
 <li>
 	<b>Hverdagens metaforer</b><br /> af George Lakoff og Mark Johnson
 </li>
 <li>
-	<b>Boghandleren i Kabul</b><br /> af Åsne Seierstad
+	<b>Boghandleren i Kabul</b><br /> af ï¿½sne Seierstad
 </li>
 </ul>
 
@@ -104,7 +104,7 @@
 	<b>Ensomhedens labyrint </b><br /> af Octavio Paz
 </li>
 <li>
-	<b>Nynnes dagbog</b><br /> af Henriette Lind, Lotte Thorsen og Anette Vestergård
+	<b>Nynnes dagbog</b><br /> af Henriette Lind, Lotte Thorsen og Anette Vestergï¿½rd
 </li>
 <li>
 	<b>Amerika</b><br /> af Franz Kafka
@@ -124,11 +124,11 @@
 </li>
 
 <li>
-	<b>Om kærlighed og andre dæmoner</b><br /> af Gabriel Garcia Marquez
+	<b>Om kï¿½rlighed og andre dï¿½moner</b><br /> af Gabriel Garcia Marquez
 </li>
 
 <li>
-	<b>Peter Plys og hans Tao</b><br /> af Benjamin Hoff (læst igen)
+	<b>Peter Plys og hans Tao</b><br /> af Benjamin Hoff (lï¿½st igen)
 </li>
 
 <li>
@@ -150,7 +150,7 @@
 </ul>
 
 <a name="wish"></a>
-<h3 class="post-title">Bøger jeg gerne vil læse</h3>
+<h3 class="post-title">Bï¿½ger jeg gerne vil lï¿½se</h3>
 <ul>
 
 <li>
@@ -160,7 +160,7 @@
 </ul>
 
 <a name="cold"></a>
-<h3 class="post-title">Bøger jeg er gået kold i</h3>
+<h3 class="post-title">Bï¿½ger jeg er gï¿½et kold i</h3>
 <ul class="bog">
 <li>
 	<b>Don Quijote</b><br /> af Miguel Cervantes
@@ -169,7 +169,7 @@
 	<b>Paven af Indien</b><br /> af Ib Michael
 </li>
 <li>
-	<b>En bøn for Owen Meany</b><br /> af John Irving
+	<b>En bï¿½n for Owen Meany</b><br /> af John Irving
 </li>
 <li>
 	<b>Mrs. Dalloway</b><br /> af Virginia Wolf
@@ -192,21 +192,21 @@
 
 <h2 class="sidebar-title">Sidst opdateret: <?PHP echo date("j/n Y", filemtime("boglisten.php"));?></h2>
 <p>
-Jeg har længe haft en book review section på min weblog. Nu er sagen bare den at ikke alle bøger er værd at anmelde, og at jeg læser flere bøger end jeg gider at anmelde. Så denne side er en liste over bøger jeg har læst. På et tidspunkt kan det være at nogle af titlerne forvandler sig til links til en anmeldelse. 
+Jeg har lï¿½nge haft en book review section pï¿½ min weblog. Nu er sagen bare den at ikke alle bï¿½ger er vï¿½rd at anmelde, og at jeg lï¿½ser flere bï¿½ger end jeg gider at anmelde. Sï¿½ denne side er en liste over bï¿½ger jeg har lï¿½st. Pï¿½ et tidspunkt kan det vï¿½re at nogle af titlerne forvandler sig til links til en anmeldelse. 
 </p>
 <p>
-Du, kære læser, er måske ikke synderligt interesseret i hvilke bøger jeg har læst, men denne liste eksisterer også i høj grad for min egen skyld. 
+Du, kï¿½re lï¿½ser, er mï¿½ske ikke synderligt interesseret i hvilke bï¿½ger jeg har lï¿½st, men denne liste eksisterer ogsï¿½ i hï¿½j grad for min egen skyld. 
 </p>
 
 		<ul class="archive-list">					<li></li>
 		</ul>
 
   <ul id="recently">
-  <li><a href="http://xoc.dk/older">Hjem</a></li>
-  	<li><a href="#now">Lige nu læser jeg</a></li>
-    <li><a href="#read">Bøger jeg har læst</a></li>
-		<li><a href="#wish">Bøger jeg gerne vil læse</a></li>
-    <li><a href="#cold">Bøger jeg er gået kold i</a></li>
+  <li><a href="https://xoc.dk/older">Hjem</a></li>
+  	<li><a href="#now">Lige nu lï¿½ser jeg</a></li>
+    <li><a href="#read">Bï¿½ger jeg har lï¿½st</a></li>
+		<li><a href="#wish">Bï¿½ger jeg gerne vil lï¿½se</a></li>
+    <li><a href="#cold">Bï¿½ger jeg er gï¿½et kold i</a></li>
   </ul>
   
 </div>

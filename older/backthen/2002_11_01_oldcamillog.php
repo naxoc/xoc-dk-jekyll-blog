@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -52,7 +52,7 @@
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/scary.gif" alt="scary" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/scary.gif" alt="scary" />
       
 <b>Pretty scary stuff</b><br />
 I went to se Harry Potter and The Chamber of Secrets last
@@ -77,7 +77,7 @@ since I was a kid?
 </p>
 
 <p class="ten"> 6:00 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#85168444">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85168444','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#85168444">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85168444','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -85,7 +85,7 @@ since I was a kid?
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/square.gif" alt="square" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/square.gif" alt="square" />
       
 <b>A bot?</b><br />
 All the little drawing-like gifs I have on my site are actually
@@ -132,7 +132,7 @@ the whole &lt;img&gt; tag thing.
 </p>
 
 <p class="ten"> 1:40 AM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84949068">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84949068','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84949068">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84949068','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
 
   
 <h5>
@@ -140,7 +140,7 @@ the whole &lt;img&gt; tag thing.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tipi.gif" alt="tipi" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tipi.gif" alt="tipi" />
       
 <b>Busy and a little sad...</b><br />
 I haven't updated for a week now. I have been stressed 
@@ -159,7 +159,7 @@ where you came from. Sob..
 </p>
 
 <p class="ten"> 3:18 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84923639">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84923639','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84923639">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84923639','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -167,7 +167,7 @@ where you came from. Sob..
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/magnet.gif" alt="magnet" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/magnet.gif" alt="magnet" />
       
 <b>A quick ad for my favorite browser</b><br />
 Let me start out by saying that I am not at all religious. I
@@ -186,7 +186,7 @@ using IE ever again..
 </p>
 
 <p class="ten"> 11:10 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84595455">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84595455','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84595455">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84595455','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -194,7 +194,7 @@ using IE ever again..
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/pants.gif" alt="pants" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/pants.gif" alt="pants" />
       
 <b>Can't help smiling</b><br />
 Sometimes I get very happy seeing an ad, a movie or reading
@@ -216,7 +216,7 @@ the "negative" category.
 </p>
 
 <p class="ten"> 10:25 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84543516">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84543516','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84543516">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84543516','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -224,7 +224,7 @@ the "negative" category.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/bulb.gif" alt="bulb" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/bulb.gif" alt="bulb" />
       
 <b>Hey! Who turned out the light!?</b><br />
 These are dangerous days for weblog owners. I've just had an
@@ -256,7 +256,7 @@ down the drain. Again.
 </p>
 
 <p class="ten"> 4:38 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84420731">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84420731','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84420731">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84420731','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -264,7 +264,7 @@ down the drain. Again.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
       
 <b>Slow slow quick quick slow</b><br />
 I have always had a theory about my ability to dance that
@@ -296,7 +296,7 @@ http://www.gaysport.info/eurogames/2003/index.htm">Eurogames
 </p>
 
 <p class="ten"> 11:21 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84331096">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84331096','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84331096">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84331096','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -304,7 +304,7 @@ http://www.gaysport.info/eurogames/2003/index.htm">Eurogames
 </h5>
 
 <p class="useit">
-  <img class="bot" src="http://xoc.dk/older/images/things/avsShot.png" alt="psycadelic" />
+  <img class="bot" src="https://xoc.dk/older/images/things/avsShot.png" alt="psycadelic" />
 <b>Even more distracted</b><br />
 I'm still supposed to do something other than listening to
 music on my computer. I just get hypnotized by the <a
@@ -320,7 +320,7 @@ visualization studio in my head due to some local herbs.
 </p>
 
 <p class="ten"> 3:36 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84060452">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84060452','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84060452">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84060452','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
   
 <h5>
@@ -328,7 +328,7 @@ visualization studio in my head due to some local herbs.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/book.gif" alt="book" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/book.gif" alt="book" />
       
 <b>Distractions!</b><br />
 I was supposed to read something very boring about software
@@ -361,7 +361,7 @@ in <a href="http://us.imdb.com/Title?0115736">Bound</a>?
 </p>
 
 <p class="ten"> 11:47 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#84026316">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=84026316','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#84026316">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=84026316','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -379,7 +379,7 @@ technology behind it.
 </p>
 
 <p class="ten"> 12:21 AM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#83934908">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83934908','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#83934908">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83934908','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -387,7 +387,7 @@ technology behind it.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/puter.gif" alt="puter" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/puter.gif" alt="puter" />
       
 <b>The game of death?</b><br />
 I haven't written much on my weblog this week
@@ -402,7 +402,7 @@ and if a cell has more than 3 neighbours it dies.
 A cell is (in my applet) brownish when dead and
 green when living. You can have fun with my
 miserable shot at a solution <a
-href="http://xoc.dk/older/misc/applets/gameOfDeath.html">here</a>.<br />
+href="https://xoc.dk/older/misc/applets/gameOfDeath.html">here</a>.<br />
 My problem is that the goddamn applet does not
 follow those simple rules. I have never really
 understood that people in the IT business burn out
@@ -413,7 +413,7 @@ clinic many, many times this week.
 </p>
 
 <p class="ten"> 9:47 PM | 
-  <a href="../backthen/2002_11_01_oldcamillog.php#83930360">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=83930360','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
+  <a href="../backthen/2002_11_01_oldcamillog.php#83930360">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=83930360','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -426,16 +426,16 @@ clinic many, many times this week.
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

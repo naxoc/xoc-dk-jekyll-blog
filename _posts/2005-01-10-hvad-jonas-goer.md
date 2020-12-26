@@ -35,7 +35,7 @@ Nu har jeg så igen snuset rundt på Jonas' side, der i øvrigt har fået et nyt
 </li>
 
 <li>
-<p class="comment-meta">Den <time datetime="2007-02-12T17:54:03+01:00">12. feb 2007 kl.  05:54</time>, sagde <a href="http://xoc.dk/2007/01/12/tilfaeldig-viden/">Camillog » Tilfældig viden</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-02-12T17:54:03+01:00">12. feb 2007 kl.  05:54</time>, sagde <a href="https://xoc.dk/2007/01/12/tilfaeldig-viden/">Camillog » Tilfældig viden</a>:</p>
 <p>[...] Jonas har skrevet om et lille fedt lifehack. Det går i al sin enkelthed ud på at have en tilfældig wikipediaside som startside i sin browser. Nu lader jeg mig jo ofte inspirere af ham Jonas, så jeg har kopieret tricket. Og i dag blev jeg så klog at jeg nu ved at North Dakota er en af de mindst succesfulde stater i Miss USA. Fascinerende læsning. [...]</p>
 </li>
 </ul>

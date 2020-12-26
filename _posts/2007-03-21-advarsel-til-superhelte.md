@@ -17,7 +17,7 @@ På min [arbejdsplads](http://tdc.dk "TDC") har mine kolleger og jeg gennem læn
 <p>Jeg føler mig overset. Glemt. Udenfor. Going into SlaughterBoy mode...</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-03-21T07:34:21+01:00">21. mar 2007 kl.  07:34</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-21T07:34:21+01:00">21. mar 2007 kl.  07:34</time>, sagde <a href="https://xoc.dk">Camilla</a>:</p>
 <p>Ej undskyld!! Du er jo selvfølgelig Lummer Boy!</p>
 </li>
 <li>
@@ -29,7 +29,7 @@ På min [arbejdsplads](http://tdc.dk "TDC") har mine kolleger og jeg gennem læn
 <p>Jeg ved ikke om jeg er helt tilfreds med Lummer Boy...</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-03-22T14:34:18+01:00">22. mar 2007 kl.  02:34</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-22T14:34:18+01:00">22. mar 2007 kl.  02:34</time>, sagde <a href="https://xoc.dk">Camilla</a>:</p>
 <p>Jamen OK. Er HTML Boy sejere?</p>
 </li>
 <li>
@@ -38,7 +38,7 @@ På min [arbejdsplads](http://tdc.dk "TDC") har mine kolleger og jeg gennem læn
 Highly Trained &amp; Motivated Lummer Boy??? Not so much...</p>
 </li>
 <li>
-<p class="comment-meta">Den <time datetime="2007-03-26T12:11:25+02:00">26. mar 2007 kl.  12:11</time>, sagde <a href="http://xoc.dk">Camilla</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-26T12:11:25+02:00">26. mar 2007 kl.  12:11</time>, sagde <a href="https://xoc.dk">Camilla</a>:</p>
 <p>Vi lader betydningen af forkortelsen være en hemmelighed så. Alle vinder!</p>
 </li>
 </ul>

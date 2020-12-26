@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -52,7 +52,7 @@
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/pants.gif" alt="pants" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/pants.gif" alt="pants" />
       
 <b>Last exam over!</b><br />
 Yay! I finished the last exam this Wednesday and now I have
@@ -73,7 +73,7 @@ books, but the covers are wonderfully funny.
 </p>
 
 <p class="ten"> 1:46 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87953080">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87953080','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87953080">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87953080','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -83,7 +83,7 @@ books, but the covers are wonderfully funny.
 <p class="useit">
   <b>Not a word about politics..</b></p>
 <h6>
-<img src="http://xoc.dk/older/images/things/bush_speech_pod.jpg" alt="what an arsehole" />
+<img src="https://xoc.dk/older/images/things/bush_speech_pod.jpg" alt="what an arsehole" />
 </h6>
 <p>
 I am not going to talk about politics. I let art speak my
@@ -92,7 +92,7 @@ Davezilla</a>.
 </p>
 
 <p class="ten"> 12:09 AM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87865892">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87865892','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87865892">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87865892','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -100,7 +100,7 @@ Davezilla</a>.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/rabbit.gif" alt="rabbit" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/rabbit.gif" alt="rabbit" />
       
 <b>I can't believe my luck</b><br />
 When I go running I always try to run as much as possible on
@@ -127,11 +127,11 @@ luckybastard@yourenotgonnagetit.com</a>.
 </p>
 
 <p class="ten"> 8:44 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87604377">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87604377','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87604377">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87604377','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tv.gif" alt="tv" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tv.gif" alt="tv" />
       
 <b>Pretzel flipz? - Yuck!</b><br />
 January is the prime time of the year for diets. All
@@ -149,7 +149,7 @@ right? The thing is I just quit smoking so I get these weird
 cravings (I once heard someone describe smoking as an oral
 fixation). So besides for my 3 meals today I had: 50g of raw marzipan, a bag of popcorn, some foul chocolate
 thingies, a bagel-like bread with sesame seeds, loads of
-sugary lemonade, and of course a lot of café latte with
+sugary lemonade, and of course a lot of cafï¿½ latte with
 sugar and milk.</p>
 <p>
 My point in sharing my food intake today with you is that
@@ -168,7 +168,7 @@ myself be part of it.
 </p>
 
 <p class="ten"> 8:16 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87603120">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87603120','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87603120">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87603120','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -176,7 +176,7 @@ myself be part of it.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tank.gif" alt="tank" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tank.gif" alt="tank" />
       
 <b>Haha!</b><br />
 Maybe it's a little late for New Years-humor, but I found this wonderful 
@@ -198,11 +198,11 @@ and funny stuff on the net in my weblog. I know I love when
 people recommend something that I would never have found
 myself.</p>
 <p>
-Oh, and go see the movie <a href="http://xoc.dk/older/movies/">Frida</a>.
+Oh, and go see the movie <a href="https://xoc.dk/older/movies/">Frida</a>.
 </p>
 
 <p class="ten"> 2:08 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87472888">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87472888','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87472888">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87472888','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
@@ -213,7 +213,7 @@ href="http://www.doublexdeviant.com/thattime/2003_01.php#000191">this post</a> a
 </p>
 
 <p class="ten"> 12:33 AM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87442616">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87442616','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87442616">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87442616','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -221,7 +221,7 @@ href="http://www.doublexdeviant.com/thattime/2003_01.php#000191">this post</a> a
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/book.gif" alt="book" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/book.gif" alt="book" />
       
 <b>I survived the usability exam</b><br />
 Today was the last exam in my "3 in a week program". It was
@@ -240,7 +240,7 @@ flunked..
 </p>
 
 <p class="ten"> 5:58 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87424501">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87424501','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87424501">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87424501','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -248,7 +248,7 @@ flunked..
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/magnet.gif" alt="magnet" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/magnet.gif" alt="magnet" />
       
 <b>OK! I sinned today!</b><br />
 I think I might have smoked a cigarette or 8 today... Not
@@ -265,7 +265,7 @@ morning and when it snows here it's always chaos.
 </p>
 
 <p class="ten"> 12:50 AM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87136468">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87136468','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87136468">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87136468','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
 
   
 <h5>
@@ -273,7 +273,7 @@ morning and when it snows here it's always chaos.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/poison.gif" alt="poison" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/poison.gif" alt="poison" />
       
 <b>Man am I going to be rich!</b><br />
 As those of you that have been reading my weblog for a while
@@ -296,7 +296,7 @@ choice for someone like me that distracts easily.
 </p>
 
 <p class="ten"> 2:39 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87058695">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87058695','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87058695">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87058695','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -304,7 +304,7 @@ choice for someone like me that distracts easily.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
       
 <b>Long time no post and happy New Year!</b><br />
 It's been ages since I wrote on my weblog.. Christmas, a
@@ -328,7 +328,7 @@ It's so good to have a CD-Writer so the hard disks (only
 </p>
 
 <p class="ten"> 6:06 PM | 
-  <a href="../backthen/2003_01_01_oldcamillog.php#87013183">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=87013183','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2003_01_01_oldcamillog.php#87013183">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=87013183','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -341,16 +341,16 @@ It's so good to have a CD-Writer so the hard disks (only
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

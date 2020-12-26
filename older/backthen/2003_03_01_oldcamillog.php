@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misc/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -53,7 +53,7 @@
 
 <p class="useit">
   <b>Ouch! My arm!</b><br />
-<img class="bot"src="http://xoc.dk/older/images/things/CAndersen.jpg"  alt="camilla" />
+<img class="bot"src="https://xoc.dk/older/images/things/CAndersen.jpg"  alt="camilla" />
 I used to get a lot more exercise than I do now. I played
 volleyball and I worked as a bike messenger until about two
 years ago. Since then I guess that the wildest exercise I
@@ -79,7 +79,7 @@ will never go without exercise for that long again.
 </p>
 
 <p class="ten"> 2:42 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#91122277">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=91122277','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [5]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#91122277">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=91122277','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [5]</a> </p>
 
   
 <p class="useit">
@@ -87,14 +87,14 @@ will never go without exercise for that long again.
 I know that a good deal of my latest posts have been about Mr. <strike>Scrub</strike> Bush.
 But this one I just could not resist:</p>
 <h6>
-<img src="http://xoc.dk/older/images/things/minibush.jpg" alt="what an arsehole" />
+<img src="https://xoc.dk/older/images/things/minibush.jpg" alt="what an arsehole" />
 </h6>
 <p>
 Sorry...
 </p>
 
 <p class="ten"> 2:10 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#91120995">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=91120995','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#91120995">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=91120995','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -102,7 +102,7 @@ Sorry...
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/fourlegger.gif" alt="fourlegger" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/fourlegger.gif" alt="fourlegger" />
       
 <b>Real girls eat real meat</b><br />
 I got this really funny link from <a
@@ -120,7 +120,7 @@ slight modification of the site.
 </p>
 
 <p class="ten"> 9:53 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#91079793">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=91079793','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#91079793">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=91079793','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -139,7 +139,7 @@ do send me an <a href="mailto:camilla(a)xoc.dk">email</a>.
 </p>
 
 <p class="ten"> 11:28 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#91017806">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=91017806','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#91017806">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=91017806','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -153,18 +153,18 @@ Be paitient with me, I might just be about to write the best commenting system i
 </p>
 
 <p class="ten"> 6:02 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#90932289">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=90932289','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [51]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#90932289">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=90932289','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [51]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
       
 <b>That's it!</b><br />
 I am getting really tired of my commenting system. It has worked just fine until now, but it has been gonig all wrong the last month. If you experience the page looking funny these days, then it's because i'm working on my own commenting script.
 </p>
 
 <p class="ten"> 11:13 AM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#90914633">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=90914633','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#90914633">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=90914633','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -172,7 +172,7 @@ I am getting really tired of my commenting system. It has worked just fine until
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tv.gif" alt="tv" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tv.gif" alt="tv" />
       
 <b>The difficulties of language</b><br />
 I was laughing very hard this morning when I heard all the
@@ -194,7 +194,7 @@ takes a little more explicit pictures to qualify as porn.
 </p>
 
 <p class="ten"> 5:33 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#90244911">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=90244911','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#90244911">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=90244911','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -202,7 +202,7 @@ takes a little more explicit pictures to qualify as porn.
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/pants.gif" alt="pants" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/pants.gif" alt="pants" />
       
 <b>The ethics of Java programming</b><br />
 I must warn you that this post is very geeky.. I was at a lecture today on 
@@ -216,7 +216,7 @@ discussed the ethics of using clone()?
 </p>
 
 <p class="ten"> 2:58 PM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#90111629">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=90111629','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#90111629">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=90111629','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -224,7 +224,7 @@ discussed the ethics of using clone()?
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/book.gif" alt="book" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/book.gif" alt="book" />
       
 <b>Hehe.. Bush - World: 1-0</b><br />
 I couldn't resist posting this link. The <a
@@ -234,7 +234,7 @@ evil</a> really confirms your every suspicion about that guy.
 </p>
 
 <p class="ten"> 10:50 AM | 
-  <a href="../backthen/2003_03_01_oldcamillog.php#90042146">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=90042146','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="../backthen/2003_03_01_oldcamillog.php#90042146">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=90042146','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -247,16 +247,16 @@ evil</a> really confirms your every suspicion about that guy.
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

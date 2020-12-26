@@ -5,7 +5,7 @@
     Books
   </title>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/minima.css" />
+  <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/minima.css" />
 
 </head>
 <body>
@@ -14,11 +14,11 @@
     <div id="header">
       <h1 id="blog-title">
         
-        <a href="http://xoc.dk/older">Camillog</a>
+        <a href="https://xoc.dk/older">Camillog</a>
         
       </h1>
     <p id="description">
-      Nu på dansk!!
+      Nu pï¿½ dansk!!
     </p>
   </div>
 
@@ -31,7 +31,7 @@
   <div id="main2">
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1860495249/camillog-21"><img class="bot" src="../images/covers/tippingTheVelvet.jpeg" alt="Tipping the velvet" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=20">Tipping the velvet</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=20">Tipping the velvet</a></h4>
 <p>by <i>Sarah Waters</i></p>
 <p class="ten">Genre: Lesbian fiction<br />
 Reviewed: September 11, 2003</p>
@@ -54,7 +54,7 @@ of the book because of the nice <del>sex</del> love scenes, Hehe.  </p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1860498833/camillog-21"><img class="bot" src="../images/covers/Fingersmith.jpeg" alt="Fingersmith" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=19">Fingersmith</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=19">Fingersmith</a></h4>
 <p>by <i>Sarah Waters</i></p>
 <p class="ten">Genre: Lesbian fiction<br />
 Reviewed: September 11, 2003</p>
@@ -69,7 +69,7 @@ keep up with the pace the set for tricking each other.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841190896/camillog-21/202-1841257-2725421"><img class="bot" src="../images/covers/ComicFantasy.jpeg" alt="The mammoth book of (seriously) comic fantasy" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=18">The mammoth book of (seriously) comic fantasy</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=18">The mammoth book of (seriously) comic fantasy</a></h4>
 <p>by <i>Mike Ashley (editor)</i></p>
 <p class="ten">Genre: Comic fantasy<br />
 Reviewed: September 11, 2003</p>
@@ -98,7 +98,7 @@ time. It might just be to comic to read it all at once.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0471418455/camillog-21"><img class="bot" src="../images/covers/datamanagement.jpg" alt="Data Management 3rd. Ed." /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=17">Data Management 3rd. Ed.</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=17">Data Management 3rd. Ed.</a></h4>
 <p>by <i>Richard T. Watson</i></p>
 <p class="ten">Genre: Non-fiction<br />
 Reviewed: June 8, 2003</p>
@@ -109,7 +109,7 @@ read more of it, but now it's gone. I hope the person who stole my bag gets bore
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/156280233X/camillog-21"><img class="bot" src="../images/covers/chimneyRock.jpeg" alt="Chimney Rock Blues" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=16">Chimney Rock Blues</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=16">Chimney Rock Blues</a></h4>
 <p>by <i>Janet McClellan</i></p>
 <p class="ten">Genre: Lesbian fiction<br />
 Reviewed: June 4, 2003</p>
@@ -119,7 +119,7 @@ which woman she loves the most. End of story. </p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/055299796X/camillog-21"><img class="bot" src="../images/covers/widow_for_year.jpeg" alt="A Widow for One Year" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=15">A Widow for One Year</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=15">A Widow for One Year</a></h4>
 <p>by <i>John Irving</i></p>
 <p class="ten">Genre: Fiction<br />
 Reviewed: March 18, 2003</p>
@@ -139,7 +139,7 @@ itself too seriously.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0743231538/camillog-21"><img class="bot" src="../images/covers/shampoo_planet.jpeg" alt="Shampoo Planet&reg;" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=14">Shampoo Planet&reg;</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=14">Shampoo Planet&reg;</a></h4>
 <p>by <i>Douglas Coupland</i></p>
 <p class="ten">Genre: Fiction<br />
 Reviewed: February 3, 2003</p>
@@ -162,7 +162,7 @@ Everybody uses money, an even better medium than billboards.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0140074309/camillog-21"><img class="bot" src="../images/covers/other_women.jpeg" alt="Other Women" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=13">Other Women</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=13">Other Women</a></h4>
 <p>by <i>Lisa Alther</i></p>
 <p class="ten">Genre: Fiction<br />
 Reviewed: January 27, 2003</p>
@@ -176,7 +176,7 @@ therapy sessions where boring.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/014005894X/camillog-21"><img class="bot" src="../images/covers/original_sins.jpeg" alt="Original Sins" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=12">Original Sins</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=12">Original Sins</a></h4>
 <p>by <i>Lisa Alther</i></p>
 <p class="ten">Genre: Fiction<br />
 Reviewed: January 27, 2003</p>
@@ -198,7 +198,7 @@ not let it go because the story is so sweet, bitter, political and yet moderate,
 by her.</p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0552771090/camillog-21"><img class="bot" src="../images/covers/4hand.jpeg" alt="The Fourth Hand" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=11">The Fourth Hand</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=11">The Fourth Hand</a></h4>
 <p>by <i>John Irving</i></p>
 <p class="ten">Genre: Just fiction<br />
 Reviewed: January 6, 2003</p>
@@ -234,7 +234,7 @@ pages. </p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857236025/camillog-21"><img class="bot" src="../images/covers/paks2.jpg" alt="Divided Allegiance" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=10">Divided Allegiance</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=10">Divided Allegiance</a></h4>
 <p>by <i>Elizabeth Moon</i></p>
 <p class="ten">Genre: Fantasy<br />
 Reviewed: November 22, 2002</p>
@@ -254,7 +254,7 @@ credibility of the story high.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857236408/camillog-21"><img class="bot" src="../images/covers/paks1.jpeg" alt="Sheepfarmer's Daughter - The Deed of Paksenarrion" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=8">Sheepfarmer's Daughter - The Deed of Paksenarrion</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=8">Sheepfarmer's Daughter - The Deed of Paksenarrion</a></h4>
 <p>by <i>Elizabeth Moon</i></p>
 <p class="ten">Genre: Fantasy<br />
 Reviewed: November 5, 2002</p>
@@ -285,7 +285,7 @@ Thank you Tommy for recommending this book!</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/014027877X/camillog-21"><img class="bot" src="../images/covers/1984.jpeg" alt="1984" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=7">1984</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=7">1984</a></h4>
 <p>by <i>George Orwell</i></p>
 <p class="ten">Genre: Sci-fi, Classic<br />
 Reviewed: October 19 2002</p>
@@ -296,14 +296,14 @@ satellite monitering, and so on. I very much recommend this book.</p>
 
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0192801724/camillog-21"><img class="bot" src="../images/covers/dark_heart.jpeg" alt="Heart of Darkness and other Tales" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=6">Heart of Darkness and other Tales</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=6">Heart of Darkness and other Tales</a></h4>
 <p>by <i>Joseph Conrad</i></p>
 <p class="ten">Genre: Classic<br />
 Reviewed: October 18 2002</p>
 <p>Being a student of American Indian culture I am concerned with European and cultural imperialism. Joseph Conrad has got the cultural problems in colonies very right. The heart of Darkness is about a journey up the Congo River, but it could just as easily have been about a journey up the Amazonas River. Conrad&apos;s view of human nature is amusing as well as sad. </p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752853694/camillog-21"><img class="bot" src="../images/covers/cat.jpeg" alt="The Unadulterated Cat" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=5">The Unadulterated Cat</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=5">The Unadulterated Cat</a></h4>
 <p>by <i>Terry Pratchett and Gary Jolliffe</i></p>
 <p class="ten">Genre: Humour<br />
 Reviewed: October 18 2002</p>
@@ -311,14 +311,14 @@ Reviewed: October 18 2002</p>
 This book covers everything from how to get a real cat, how to understand your real cats needs like food, sex, and entertainment. Mr. Pratchett must be a real cat lover, because he certainly captured the essence of how cats behave. The writing style of this book is funny and not as annoying as the Discworld-series. Gary Jolliffe's cartoon drawings are also very funny.</p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1555834612/camillog-21"><img class="bot" src="../images/covers/femmes_guide.jpeg" alt="The Femme's Guide to the Universe" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=4">The Femme's Guide to the Universe</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=4">The Femme's Guide to the Universe</a></h4>
 <p>by <i>Shar Rednour</i></p>
 <p class="ten">Genre: Humour, Handbook<br />
 Reviewed: October 18 2002</p>
 <p>Shar is a real queen and she humorously guides her readers trough such useful subjects as how to make your girlfriend think you really did the ready mix pancakes from scratch, how to make your apartment look like a castle, and how to fuck in high heels. This book contains very important knowledge for all femmes -and the rest of us who aren't really in to the whole butch femme thing. Its good fun reading it.</p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857231813/camillog-21"><img class="bot" src="../images/covers/someone_taller.jpeg" alt="Expecting Someone Taller" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=3">Expecting Someone Taller</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=3">Expecting Someone Taller</a></h4>
 <p>by <i>Tom Holt</i></p>
 <p class="ten">Genre: Fantasy Crazy<br />
 Reviewed: October 16 2002</p>
@@ -326,7 +326,7 @@ Reviewed: October 16 2002</p>
 Very British humour and a great laugh!</p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0099734419/camillog-21"><img class="bot" src="../images/covers/the_passion.jpeg" alt="The Passion" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=2">The Passion</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=2">The Passion</a></h4>
 <p>by <i>Jeanette Winterson</i></p>
 <p class="ten">Genre: Lesbian novel<br />
 Reviewed: October 16 2002</p>
@@ -335,7 +335,7 @@ Set in Venice in the time of Napoleon the mysterious heroine who has webbed feet
 This book is the incarnation of passion, the title says exactly what this book is. </p>
 
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857231589/camillog-21"><img class="bot" src="../images/covers/rama_I.jpeg" alt="Rendezvous with Rama" /></a>
-<h4><a href="http://xoc.dk/older/books/default.php?id=1">Rendezvous with Rama</a></h4>
+<h4><a href="https://xoc.dk/older/books/default.php?id=1">Rendezvous with Rama</a></h4>
 <p>by <i>Arthur C. Clarke</i></p>
 <p class="ten">Genre: Sci-fi<br />
 Reviewed: October 15 2002</p>
@@ -358,43 +358,43 @@ This book is the first in a series of four. It can be read without reading the r
 		</ul>
 
   <h2 class="sidebar-title">2003</h2><ul id="recently">
-<li><a href="http://xoc.dk/older/books/default.php?id=20">Tipping the velvet</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=20">Tipping the velvet</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=19">Fingersmith</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=19">Fingersmith</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=18">The mammoth book of (seriously) comic fantasy</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=18">The mammoth book of (seriously) comic fantasy</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=17">Data Management 3rd. Ed.</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=17">Data Management 3rd. Ed.</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=16">Chimney Rock Blues</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=16">Chimney Rock Blues</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=15">A Widow for One Year</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=15">A Widow for One Year</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=14">Shampoo Planet&reg;</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=14">Shampoo Planet&reg;</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=13">Other Women</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=13">Other Women</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=12">Original Sins</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=12">Original Sins</a>
 </li>
-</ul><h2 class="sidebar-title">2002</h2><ul><li><a href="http://xoc.dk/older/books/default.php?id=11">The Fourth Hand</a>
+</ul><h2 class="sidebar-title">2002</h2><ul><li><a href="https://xoc.dk/older/books/default.php?id=11">The Fourth Hand</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=10">Divided Allegiance</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=10">Divided Allegiance</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=8">Sheepfarmer's Daughter - The Deed of Paksenarrion</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=8">Sheepfarmer's Daughter - The Deed of Paksenarrion</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=7">1984</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=7">1984</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=6">Heart of Darkness and other Tales</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=6">Heart of Darkness and other Tales</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=5">The Unadulterated Cat</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=5">The Unadulterated Cat</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=4">The Femme's Guide to the Universe</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=4">The Femme's Guide to the Universe</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=3">Expecting Someone Taller</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=3">Expecting Someone Taller</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=2">The Passion</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=2">The Passion</a>
 </li>
-<li><a href="http://xoc.dk/older/books/default.php?id=1">Rendezvous with Rama</a>
+<li><a href="https://xoc.dk/older/books/default.php?id=1">Rendezvous with Rama</a>
 </li>
 </ul>    
 </div>

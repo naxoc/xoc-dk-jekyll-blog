@@ -22,7 +22,7 @@
 &bull; Figure out what the fuss about XML is. I just don't get it.<br />
 &bull; <strike>Quit smoking</strike><br />
 &bull; Get some of the black greasy stuff of my bicycle's chain<br />
-&bull; Get <a href="http://xoc.dk/older/backthen/2002_11_01_default.php#84420731">electric wires</a> replaced in the apartment<br />
+&bull; Get <a href="https://xoc.dk/older/backthen/2002_11_01_default.php#84420731">electric wires</a> replaced in the apartment<br />
 &bull; Make a web portal for lesbians in Danish. We need one badly.<br />
 &bull; <strike>Find a way to make my site skinnable</strike> - Decided against it..<br />
 &bull; Figure out why I want to have my site skinnable<br />

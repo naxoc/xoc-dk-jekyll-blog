@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,14 +15,14 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
-      <a href="http://xoc.dk/older/movies/"> 
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/movies/"> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -52,12 +52,12 @@
 
 <p class="useit">
   <b>Strange...</b><br />
-I just stumbled upon this weblog at <a href="http://xoc.dk/older">xoc.dk</a> that appears to be mine. Strange.. I had almost forgotten that I ever had a weblog. I'll look into this mystery more and get back here with news.
+I just stumbled upon this weblog at <a href="https://xoc.dk/older">xoc.dk</a> that appears to be mine. Strange.. I had almost forgotten that I ever had a weblog. I'll look into this mystery more and get back here with news.
 
 </p>
 
 <p class="ten"> 1:35 PM | 
-  <a href="backthen/2004_06_01_oldcamillog.php#108807693435424773">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=108807693435424773','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
+  <a href="backthen/2004_06_01_oldcamillog.php#108807693435424773">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=108807693435424773','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [3]</a> </p>
 
   
 <h5>
@@ -67,7 +67,7 @@ I just stumbled upon this weblog at <a href="http://xoc.dk/older">xoc.dk</a> tha
 <p class="useit">
   <b>Do I have to have a green car to live in the US?</b><br />
 I had no idea that a green car was required to live and work in the US. This add below was one I found on a pretty serious site like Yahoo, built into my webmail. 
-<img class="bot" src="http://xoc.dk/older/images/things/GreenCar.gif"  alt="Green Car" />
+<img class="bot" src="https://xoc.dk/older/images/things/GreenCar.gif"  alt="Green Car" />
 </p>
 <p>
 It's in Danish, so I'll translate. It says: <i>"Live and work in the United States of America" - "You can win a Green Car to Live and Work in the US". Click here to be registered online"</i></p>
@@ -81,7 +81,7 @@ If I see an add with errors I never buy the product, but I don't really know wha
 </p>
 
 <p class="ten"> 7:45 PM | 
-  <a href="backthen/2003_11_01_oldcamillog.php#106918115343499571">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106918115343499571','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="backthen/2003_11_01_oldcamillog.php#106918115343499571">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106918115343499571','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -97,11 +97,11 @@ Anyway.. I'm too tired to sit in front of a computer now. School is applying une
 </p>
 
 <p class="ten"> 10:03 PM | 
-  <a href="backthen/2003_11_01_oldcamillog.php#106884383741311536">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106884383741311536','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="backthen/2003_11_01_oldcamillog.php#106884383741311536">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106884383741311536','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
       
 <b>Shrek 2 is coming!</b><br />
 Being so hopelessly in love with animated films as I am, I was thrilled to see that there is now a <a href="http://www.dreamworks.com/trailers/shrek2/shrek2_tsr_qt_480.mov">trailer out for Shrek 2</a>. 
@@ -111,7 +111,7 @@ DeGeneres as a fish?
 </p>
 
 <p class="ten"> 9:49 PM | 
-  <a href="backthen/2003_11_01_oldcamillog.php#106884298146005682">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106884298146005682','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="backthen/2003_11_01_oldcamillog.php#106884298146005682">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106884298146005682','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -125,11 +125,11 @@ why nobody came up with a mp3-prune or an mp3-eggplant before?
 </p>
 
 <p class="ten"> 9:06 PM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106763079860277238">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106763079860277238','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106763079860277238">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106763079860277238','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/devilguy.gif" alt="devilguy" />
       
 <b>Mars attacks!!</b><br />
 Yesterday was the 65th anniversary for the broadcast of the radio play "The war of the worlds" by Orson Welles. He managed to fool the people listening to the radio into beliving that planet Earth was under attack so people paniced to the degree where they would wrap their heads in wet towels to avoid the poisonous gasses emitted by the aliens. Hehe. 
@@ -140,7 +140,7 @@ More about the play <a href="http://www.transparencynow.com/welles.htm  ">here</
 </p>
 
 <p class="ten"> 11:22 AM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106759577572724654">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106759577572724654','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106759577572724654">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106759577572724654','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <h5>
@@ -152,7 +152,7 @@ More about the play <a href="http://www.transparencynow.com/welles.htm  ">here</
 I am slowly transforming this into a geek's weblog. But I just have to mention all the wonderful programs I have found lately.
 </p>
 <p>
-<img class="bot" src="http://xoc.dk/older/images/things/wbloggar.png" alt="w.bloggar" />
+<img class="bot" src="https://xoc.dk/older/images/things/wbloggar.png" alt="w.bloggar" />
 <b><a href="http://www.wbloggar.com" title="Cool interface between you and your weblog tool">w.bloggar</a></b><br />
 It's an interface between you and the weblog tool that you use (Blogger, Moveable Type or whatever). I was a little sceptic because I guess I have everything I need at the Blogger website. Especially now 
 that they made new.blogger.com and even have support for other browsers than Explorer. I must say that I am impressed with their website. Anyway, w.bloggar is easy to configure, very MS-Office like 
@@ -160,15 +160,15 @@ and has built-in spellchecker, template editor and lots of other cool stuff like
 has no plans to make a Mac or Linux edition. He must hate users.
 </p>
 <p>
-<img class="bot" src="http://xoc.dk/older/images/things/fd-banner.png" alt="FeedDemon" />
+<img class="bot" src="https://xoc.dk/older/images/things/fd-banner.png" alt="FeedDemon" />
 <b><a href="http://www.bradsoft.com/feeddemon/index.asp" title="Beautiful program">FeedDemon</a></b><br />
 Made by <a href="http://www.bradsoft.com/" title="His company">Nick Bradbury</a> who also made HomeSite, this is a newsreader that takes in RSS and XML feeds and organizes them 
 neatly. The program can brew up it's own "todays newspaper" from the sites that you want news from. In other words, no more clicking around to get the news, read weblogs, or find comic strips. 
-Being a nonreligious windows person I also must say that I really think the design of this program is really beautiful. Take a look at the neat icons on  <a href="http://xoc.dk/older/images/things/FeedDemonScreenshot.png">this screenshot</a>.
+Being a nonreligious windows person I also must say that I really think the design of this program is really beautiful. Take a look at the neat icons on  <a href="https://xoc.dk/older/images/things/FeedDemonScreenshot.png">this screenshot</a>.
 
 </p>
 <p>
-<img class="bot" src="http://xoc.dk/older/images/things/Firebird.gif" width="32" height="32" alt="Firebird" />
+<img class="bot" src="https://xoc.dk/older/images/things/Firebird.gif" width="32" height="32" alt="Firebird" />
 <b><a href="http://mozilla.org/products/firebird/">Firebird</a></b><br />
 Is the light-weight edition of my beloved favorite browser <a href="http://mozilla.org/">Mozilla</a>. I only used Firebird for a week, but I think I like it better than Mozilla already. 
 It has tabbed browsing, easy organization of bookmarks and a way cooler feel than clunky Mozilla. It does not have all the features that Mozilla does, rather you can download a plugin 
@@ -181,7 +181,7 @@ That's it for the software-advertizing. I wonder why my friends call me a softwa
 </p>
 
 <p class="ten"> 12:09 PM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106681736850872763">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106681736850872763','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106681736850872763">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106681736850872763','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
   
 <h5>
@@ -191,11 +191,11 @@ That's it for the software-advertizing. I wonder why my friends call me a softwa
 <p class="useit">
   <b>What is that supposed to mean?</b><br />
 I like Quicktime. But they really need to sharpen up on the error messages:
-<img src="http://xoc.dk/older/images/things/QuicktimeError.png" alt="screenshot" />
+<img src="https://xoc.dk/older/images/things/QuicktimeError.png" alt="screenshot" />
 </p>
 
 <p class="ten"> 11:37 PM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106608103374078945">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106608103374078945','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [5]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106608103374078945">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106608103374078945','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [5]</a> </p>
 
   
 <h5>
@@ -203,7 +203,7 @@ I like Quicktime. But they really need to sharpen up on the error messages:
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/book.gif" alt="book" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/book.gif" alt="book" />
       
 <b>OK, another great internet-thingy found</b><br />
 I just saw <a href=" http://us.imdb.com/title/tt0238924/">
@@ -232,7 +232,7 @@ beautiful applets.
 </p>
 
 <p class="ten"> 11:44 PM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106599509206218706">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106599509206218706','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106599509206218706">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106599509206218706','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -247,12 +247,12 @@ electronics. Anyway, he gave me the old camera! So now I have the chance to take
 weeks and only take 2 pictures, so I will probably not wear the flash-card out anytime soon. </p>
 <p>
 I made a page where I will post some photos from time to time. You can watch me gradually become a master photographer <a
-href="http://xoc.dk/older/images/photos">right here</a>.
+href="https://xoc.dk/older/images/photos">right here</a>.
 
 </p>
 
 <p class="ten"> 1:21 PM | 
-  <a href="backthen/2003_10_01_oldcamillog.php#106552568043505592">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=106552568043505592','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="backthen/2003_10_01_oldcamillog.php#106552568043505592">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=106552568043505592','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -265,16 +265,16 @@ href="http://xoc.dk/older/images/photos">right here</a>.
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misc/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

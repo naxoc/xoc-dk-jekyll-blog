@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="http://xoc.dk/older/style/autumish.css" />
+    <link rel="stylesheet" type="text/css" href="https://xoc.dk/older/style/autumish.css" />
     <title>
       Camillog
     </title>
@@ -15,15 +15,15 @@
       Navigate:
     </h6>
     <p class="eleven">
-      <a href="http://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
-      <a href="http://xoc.dk/older/about.php">About</a> <br /> 
+      <a href="https://xoc.dk/older/oldcamillog.php">Home</a> <br /> 
+      <a href="https://xoc.dk/older/about.php">About</a> <br /> 
 
-      <a href="http://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
-      <a href="http://xoc.dk/older/books/">Book reviews</a> <br /> 
+      <a href="https://xoc.dk/older/backthen/archives.php">Archives</a> <br />  
+      <a href="https://xoc.dk/older/books/">Book reviews</a> <br /> 
        
-      <a href="http://xoc.dk/older/images/photos">Photos</a> <br /> 
-<!--      <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misk/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
-      <a href="http://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
+      <a href="https://xoc.dk/older/images/photos">Photos</a> <br /> 
+<!--      <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misk/stuff/todo.php','To-do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">To do list</a> <br /> -->
+      <a href="https://xoc.dk/older/oldxoc/" title="In Danish">The old site</a> 
     </p> 
     <h6>
       Favorite weblogs:
@@ -52,7 +52,7 @@
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/scary.gif" alt="scary" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/scary.gif" alt="scary" />
       
 <b>Out of the project-writing hell</b><br />
 I handed in my programming project yesterday. I had a pretty
@@ -81,7 +81,7 @@ islands: <b>Merry Christmas!</b>
 </p>
 
 <p class="ten"> 6:53 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#86366033">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=86366033','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#86366033">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=86366033','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
   
 <h5>
@@ -89,7 +89,7 @@ islands: <b>Merry Christmas!</b>
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/tipi.gif" alt="tipi" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/tipi.gif" alt="tipi" />
       
 <b>Oh! Do you have a tattoo too?</b><br />
 I have a tattoo. Lots of people have one or more so I don't
@@ -115,7 +115,7 @@ like he is dancing when I flex my ankles so he had to sit
 just on the bone near the foot.
 Having a tattoo made right on the thin skin over a bone is
 very, very painful. Actually it hurt like hell -you can tell
-by the look on my face on <a href="http://xoc.dk/older/misk/stuff/auch.html">this picture</a>.
+by the look on my face on <a href="https://xoc.dk/older/misk/stuff/auch.html">this picture</a>.
  If you click
 to see the picture you will also see a picture of the little
 dancer and the vase it was taken from.<br />
@@ -139,11 +139,11 @@ by a guy who knows what he is talking about.
 </p>
 
 <p class="ten"> 11:41 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#85860640">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85860640','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#85860640">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85860640','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blahs [2]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/bear.gif" alt="bear" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/bear.gif" alt="bear" />
       
 <b>New winterish colors!</b><br />
 I am slowly getting in a Christmassy mood. I felt that my
@@ -155,7 +155,7 @@ colors? I like blue but maybe the old one was more cosy...
 </p>
 
 <p class="ten"> 6:38 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#85846904">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85846904','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#85846904">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85846904','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [1]</a> </p>
 
   
 <h5>
@@ -163,7 +163,7 @@ colors? I like blue but maybe the old one was more cosy...
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/hexapod.gif" alt="hexapod" />
       
 <b>Happy happy!</b><br />
 Yay! I finally got the friggin Tomcat server to work together with my database! I have been struggeling to make it work for two weeks now so I feel very happy and relieved today. :-) <br />
@@ -172,7 +172,7 @@ Tra la la.. Merry Christmas.. la la
 </p>
 
 <p class="ten"> 3:33 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#85727723">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85727723','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#85727723">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85727723','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <h5>
@@ -180,9 +180,9 @@ Tra la la.. Merry Christmas.. la la
 </h5>
 
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/book.gif" alt="book" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/book.gif" alt="book" />
       
-<b>Camillog - Now featuring a <a href="#"onclick="To_do=window.open('http://xoc.dk/older/misk/stuff/todo.php','To_do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">to do list</a> </b><br />
+<b>Camillog - Now featuring a <a href="#"onclick="To_do=window.open('https://xoc.dk/older/misk/stuff/todo.php','To_do','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600'); return false;">to do list</a> </b><br />
 I always keep a very long to do list in my calendar. I
 rarely cross out anything on it, as I hope for things to fix
 themselves. It sometimes works, but mostly it doesn't, so I
@@ -191,11 +191,11 @@ me of the things I forget.
 </p>
 
 <p class="ten"> 11:18 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#85503513">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85503513','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#85503513">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85503513','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
   
 <p class="useit">
-    <img class="bot" src="http://xoc.dk/older/images/bots/bear.gif" alt="bear" />
+    <img class="bot" src="https://xoc.dk/older/images/bots/bear.gif" alt="bear" />
       
 <b>Yawn!</b>
 </p>
@@ -203,7 +203,7 @@ me of the things I forget.
 I'm so tired, I haven't slept a wink,<br />
 I'm so tired, my mind is on the blink.<br />
 I wonder should I get up and fix myself a drink,<br />
-  <img class="bot" src="http://xoc.dk/older/images/bots/spacer.gif" alt="spacer" />
+  <img class="bot" src="https://xoc.dk/older/images/bots/spacer.gif" alt="spacer" />
       
 no, no, no.<br />
 The Beatles - I'm so tired
@@ -233,7 +233,7 @@ Denmark (where it is the most common name for girls between
 </p>
 
 <p class="ten"> 10:02 PM | 
-  <a href="../backthen/2002_12_01_oldcamillog.php#85499938">Link</a> | <a href="#"onclick="Camillog_comment=window.open('http://xoc.dk/older/comments/comment.php?postNo=85499938','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
+  <a href="../backthen/2002_12_01_oldcamillog.php#85499938">Link</a> | <a href="#"onclick="Camillog_comment=window.open('https://xoc.dk/older/comments/comment.php?postNo=85499938','Camillog_comment','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=500'); return false;">Blah blah [0]</a> </p>
 
  </div>
 <!-- RIGHTSIDE CONTENT -->
@@ -246,16 +246,16 @@ Denmark (where it is the most common name for girls between
 
 		</p>
     <h6>
-      <a href="http://www.blogger.com"><img width="88" height="31" src="http://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
+      <a href="http://www.blogger.com"><img width="88" height="31" src="https://xoc.dk/older/images/bloggerbutton.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a><br />
       <br />
     </h6>
     <h6>
-      <a href="http://fonts.tom7.com/"><img src="http://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
+      <a href="http://fonts.tom7.com/"><img src="https://xoc.dk/older/images/dbz-bt1.gif" alt="Tom" /></a>
       <br />
      </h6>   
      
      <h6>
-        <a href="#"onclick="RSS_Feed=window.open('http://xoc.dk/older/misk/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="http://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
+        <a href="#"onclick="RSS_Feed=window.open('https://xoc.dk/older/misk/stuff/RSSfeed.php','RSS_Feed','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=400'); return false;"><img src="https://xoc.dk/older/images/xml.gif" alt="XML" /></a> 
       </h6>      
       </div>
 </body>

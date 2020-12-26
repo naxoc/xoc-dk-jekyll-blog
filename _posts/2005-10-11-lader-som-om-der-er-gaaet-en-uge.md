@@ -17,7 +17,7 @@ Her er en anden grim indrømmelse: <del>jeg</del> mine fingre kan ikke engang st
 <div class="vintage-comments">
 <h4>Kommentarer </h4>
 <ul class="vintage-comments-list"><li>
-<p class="comment-meta">Den <time datetime="2007-03-28T08:26:59+02:00">28. mar 2007 kl.  08:26</time>, sagde <a href="http://xoc.dk/2007/03/28/blindskrift/">Camillog » Blog Archive » Blindskrift</a>:</p>
+<p class="comment-meta">Den <time datetime="2007-03-28T08:26:59+02:00">28. mar 2007 kl.  08:26</time>, sagde <a href="https://xoc.dk/2007/03/28/blindskrift/">Camillog » Blog Archive » Blindskrift</a>:</p>
 <p>[...] helt forkerte måde. Jeg er aldrig nået væk fra at skulle kigge på tastaturet hele tiden og mine fingre kan ikke stave uden supervision. Jeg har lært noget, det er sikkert og vist, men jeg venter stadig på belønningen, for når jeg [...]</p>
 </li>
 
